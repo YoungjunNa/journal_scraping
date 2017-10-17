@@ -1,5 +1,4 @@
 # Scraping the data from Scientific Journals
-
 library(rvest)
 library(dplyr)
 library(stringr)
