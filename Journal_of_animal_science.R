@@ -1,4 +1,8 @@
-## Scraping the data from Scientific Journals
+##Scraping the data from Scientific Journals
+#Author: Youngjun Na
+#Email: ruminoreticulum@gmail.com
+#Github: https://github.com/YoungjunNa
+#Date: 11/2/2017
 
 library(rvest)
 library(dplyr)
