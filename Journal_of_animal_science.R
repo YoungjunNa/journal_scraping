@@ -36,12 +36,6 @@ published<-gsub(",","",str_sub(history[3],start=12))
 recieved <- gsub("\u00A0", " ", recieved) #solve the problem of <u+00a0>. thank you enersto Huang (https://stackoverflow.com/users/7549197/enersto-huang)
 accepted <- gsub("\u00A0", " ", accepted)
 
-#numMonth <- function(x) {
-#  months <- list(Jan=1,Feb=2,Mar=3,Apr=4,May=5,Jun=6,July=7,Aug=8,Sep=9,Oct=10,Nov=11,Dec=12)
-#  x <- tolower(x)
-#  sapply(x,function(x) months[[x]])
-#}
-
 history
 
 #corresponding_author
