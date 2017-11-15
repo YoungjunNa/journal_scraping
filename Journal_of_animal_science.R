@@ -7,7 +7,6 @@
 library(rvest)
 library(dplyr)
 library(stringr)
-library(lubridate)
 
 #URL list
 setwd("D:/GitHub/journal_scraping") #set working directory
@@ -18,11 +17,9 @@ list <- filter(list, journal == "journal of animal science") #filtering the jour
 JAS_result<-list
 JAS_result<-cbind(JAS_result, subject=NA)
 JAS_result<-cbind(JAS_result, keywords=NA)
-JAS_result<-cbind(JAS_result, corresponding=NA)
+JAS_result<-cbind(JAS_result, authorship=NA)
 
 n<-nrow(list)
-
-url <- "https://www.animalsciencepublications.org/publications/jas/articles/95/11/5064"
 
 for(i in 0:(n-1)){
   nb=i+1
@@ -37,8 +34,26 @@ for(i in 0:(n-1)){
   keywords<-gsub(";","",keywords)
   keywords<-gsub("\n\t","",keywords)
   
-  #corresponding_author
-  corresponding<-html %>% html_node(".fn-corresp") %>% html_children() %>% .[[2]] %>% html_text() 
+  #authorship
+  authorship<-html %>% html_node(".contributors") %>% html_children() %>% .[[1]] %>% html_text()
+  
+  authorship<-gsub(" and ","",authorship)
+  authorship<-sub("*","",authorship, fixed=TRUE)
+  authorship<-sub("\\*","",authorship)
+  authorship<-gsub("†","",authorship)
+  authorship<-gsub("‡","",authorship)
+  authorship<-gsub("§","",authorship)
+  authorship<-gsub("#","",authorship)
+  authorship<-gsub("║","",authorship)
+  authorship<-gsub("¶","",authorship)
+  authorship<-gsub(",","",authorship)
+  authorship<-gsub("1","",authorship)
+  authorship<-gsub("2","",authorship)
+  authorship<-gsub("3","",authorship)
+  authorship<-gsub("4","",authorship)
+  authorship<-gsub("\u00A0", "", authorship)
+  authorship<-gsub(" ","",authorship)
+  authorship<-gsub("\n\t"," ",authorship)
   
   if(all.equal(nchar(subject),integer(0)) != TRUE){
     JAS_result$subject[nb] <- subject
@@ -48,13 +63,17 @@ for(i in 0:(n-1)){
     JAS_result$keywords[nb] <- keywords
   }
   
-  if(all.equal(nchar(corresponding),integer(0)) != TRUE){
-    JAS_result$corresponding[nb]<-corresponding
+  if(all.equal(nchar(authorship),integer(0)) != TRUE){
+    JAS_result$authorship[nb]<-authorship
   }
+
 }
 
 #write.csv
 write.csv(JAS_result,"JAS_result.txt",row.names = FALSE)
+
+#corresponding_author
+#corresponding<-html %>% html_node(".fn-corresp") %>% html_children() %>% .[[2]] %>% html_text() 
 
 ##history
 #history<-data.frame(recieved=recieved,accepted=accepted,published=published, corresponding=NA)
