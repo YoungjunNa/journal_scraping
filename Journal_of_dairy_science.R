@@ -17,10 +17,9 @@ list <- filter(list, journal == "journal of dairy science") #filtering the journ
 JDS_result<-list
 JDS_result<-cbind(JDS_result, subject=NA)
 JDS_result<-cbind(JDS_result, keywords=NA)
-JDS_result<-cbind(JDS_result, authorship=NA)
+JDS_result<-cbind(JDS_result, first_author=NA)
 
 n<-nrow(list)
-
 
 for(i in 0:(n-1)){
   nb=i+1
@@ -34,29 +33,28 @@ for(i in 0:(n-1)){
   keywords<-html %>% html_nodes(".Keywords") %>% html_children() %>% html_text()  
   keywords<-gsub("Key words","",keywords)
   
-  #authorship
-  authorship<-html %>% html_node(".author-group") %>% html_children() %>% html_text() 
+  #first_author
+  first_author<-html %>% html_node(".author-group") %>% html_children() %>% html_text() 
   
-  authorship <- authorship[-1]
+  first_author <- first_author[-1]
   
-  authorship<-gsub(" and ","",authorship)
-  authorship<-gsub("*","",authorship, fixed=TRUE)
-  authorship<-gsub("\\*","",authorship)
-  authorship<-gsub("†","",authorship)
-  authorship<-gsub("‡","",authorship)
-  authorship<-gsub("§","",authorship)
-  authorship<-gsub("#","",authorship)
-  authorship<-gsub("║","",authorship)
-  authorship<-gsub("¶","",authorship)
-  authorship<-gsub(",","",authorship)
-  authorship<-gsub("1","",authorship)
-  authorship<-gsub("2","",authorship)
-  authorship<-gsub("3","",authorship)
-  authorship<-gsub("4","",authorship)
-  authorship<-gsub("\u00A0", "", authorship)
-  authorship<-gsub(" ","",authorship)
-  authorship<-gsub("\n\t"," ",authorship)
-  
+  first_author<-gsub(" and ","",first_author)
+  first_author<-gsub("*","",first_author, fixed=TRUE)
+  first_author<-gsub("\\*","",first_author)
+  first_author<-gsub("†","",first_author)
+  first_author<-gsub("‡","",first_author)
+  first_author<-gsub("§","",first_author)
+  first_author<-gsub("#","",first_author)
+  first_author<-gsub("║","",first_author)
+  first_author<-gsub("¶","",first_author)
+  first_author<-gsub(",","",first_author)
+  first_author<-gsub("1","",first_author)
+  first_author<-gsub("2","",first_author)
+  first_author<-gsub("3","",first_author)
+  first_author<-gsub("4","",first_author)
+  first_author<-gsub("\u00A0", "", first_author)
+  first_author<-gsub(" ","",first_author)
+  first_author<-gsub("\n\t"," ",first_author)
   
   #write dataframe
   if(all.equal(nchar(subject),integer(0)) != TRUE){
@@ -67,8 +65,8 @@ for(i in 0:(n-1)){
     JDS_result$keywords[nb] <- keywords
   }
   
-  if(all.equal(nchar(authorship),integer(0)) != TRUE){
-    JDS_result$authorship[nb]<-authorship
+  if(all.equal(nchar(first_author),integer(0)) != TRUE){
+    JDS_result$first_author[nb]<-first_author
   }
   
 }

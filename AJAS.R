@@ -7,31 +7,14 @@
 library(rvest)
 library(dplyr)
 library(stringr)
-library(lubridate)
 
-#AJAS
-no<-23723
-
-url <- paste0("https://www.ajas.info/journal/view.php?number=",no)
+url <- "https://www.ajas.info/journal/view.php?number=23783"
 html <- read_html(url, encoding="UTF-8")
 
-#keywords
-keywords<-html %>% html_nodes(".metadata-entry") %>% html_children() %>% html_text()  
-keywords<-data.frame(keywords=keywords[11:15])
-keywords
+#Subject
+subject<-html %>% html_nodes(".PubTitle") %>% html_text()  
 
-#history
-history<-html %>% html_nodes(".metadata-group") %>% html_children() %>% html_text() 
-
-recieved<-gsub("Received ","",history[19]) %>% str_trim()
-revised<-gsub("Revised ","",history[20]) %>% str_trim()
-accepted<-gsub("Accepted ","",history[21]) %>% str_trim()
-
-history<-data.frame(recieved=recieved,revised=revised, accepted=accepted, corresponding=NA, stringsAsFactors = FALSE, url=url)
-history
-
-#corresponding_author
-corresponding<-html %>% html_node(".corresp") %>% html_children() %>% .[[3]] %>% html_text() 
-
-history[1,4]<-corresponding
-history
+#1st author
+authorship<-html %>% html_node(xpath="//div[3]/div/div[7]") %>% html_children() %>% html_text() 
+authorship <- authorship[1]
+authorship <- gsub(" ","",authorship)

@@ -8,6 +8,8 @@ library(rvest)
 library(dplyr)
 library(stringr)
 
+url <- "https://www.animalsciencepublications.org/publications/jas/articles/95/11/4728"
+
 #URL list
 setwd("D:/GitHub/journal_scraping") #set working directory
 list <- readxl::read_excel("journal_URL.xlsx") #set URL list
@@ -17,7 +19,7 @@ list <- filter(list, journal == "journal of animal science") #filtering the jour
 JAS_result<-list
 JAS_result<-cbind(JAS_result, subject=NA)
 JAS_result<-cbind(JAS_result, keywords=NA)
-JAS_result<-cbind(JAS_result, authorship=NA)
+JAS_result<-cbind(JAS_result, first_author=NA)
 
 n<-nrow(list)
 
@@ -34,26 +36,26 @@ for(i in 0:(n-1)){
   keywords<-gsub(";","",keywords)
   keywords<-gsub("\n\t","",keywords)
   
-  #authorship
-  authorship<-html %>% html_node(".contributors") %>% html_children() %>% .[[1]] %>% html_text()
+  #first_author
+  first_author<-html %>% html_nodes(".contributor-list") %>% html_children() %>% html_text()
   
-  authorship<-gsub(" and ","",authorship)
-  authorship<-gsub("*","",authorship, fixed=TRUE)
-  authorship<-gsub("\\*","",authorship)
-  authorship<-gsub("†","",authorship)
-  authorship<-gsub("‡","",authorship)
-  authorship<-gsub("§","",authorship)
-  authorship<-gsub("#","",authorship)
-  authorship<-gsub("║","",authorship)
-  authorship<-gsub("¶","",authorship)
-  authorship<-gsub(",","",authorship)
-  authorship<-gsub("1","",authorship)
-  authorship<-gsub("2","",authorship)
-  authorship<-gsub("3","",authorship)
-  authorship<-gsub("4","",authorship)
-  authorship<-gsub("\u00A0", "", authorship)
-  authorship<-gsub(" ","",authorship)
-  authorship<-gsub("\n\t"," ",authorship)
+  first_author<-gsub(" and ","",first_author)
+  first_author<-gsub("*","",first_author, fixed=TRUE)
+  first_author<-gsub("\\*","",first_author)
+  first_author<-gsub("†","",first_author)
+  first_author<-gsub("‡","",first_author)
+  first_author<-gsub("§","",first_author)
+  first_author<-gsub("#","",first_author)
+  first_author<-gsub("║","",first_author)
+  first_author<-gsub("¶","",first_author)
+  first_author<-gsub(",","",first_author)
+  first_author<-gsub("1","",first_author)
+  first_author<-gsub("2","",first_author)
+  first_author<-gsub("3","",first_author)
+  first_author<-gsub("4","",first_author)
+  first_author<-gsub("\u00A0", "", first_author)
+  first_author<-gsub(" ","",first_author)
+  first_author<-gsub("\n\t"," ",first_author)
   
   if(all.equal(nchar(subject),integer(0)) != TRUE){
     JAS_result$subject[nb] <- subject
@@ -63,8 +65,8 @@ for(i in 0:(n-1)){
     JAS_result$keywords[nb] <- keywords
   }
   
-  if(all.equal(nchar(authorship),integer(0)) != TRUE){
-    JAS_result$authorship[nb]<-authorship
+  if(all.equal(nchar(first_author),integer(0)) != TRUE){
+    JAS_result$first_author[nb]<-first_author[1]
   }
 
 }
