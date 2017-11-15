@@ -20,26 +20,41 @@ JAS_result<-cbind(JAS_result, subject=NA)
 JAS_result<-cbind(JAS_result, keywords=NA)
 JAS_result<-cbind(JAS_result, corresponding=NA)
 
-#Journal of Animal sciecne
-url <- list$URL[1]
-html <- read_html(url, encoding="UTF-8")
+n<-nrow(list)
 
-#Subject
-subject<-html %>% html_nodes(xpath="//div/h1/text()") %>% html_text()  
-JAS_result$subject[1] <- subject
+url <- "https://www.animalsciencepublications.org/publications/jas/articles/95/11/5064"
 
-#keywords
-keywords<-html %>% html_nodes(".kwd-group") %>% html_text()  
-keywords<-gsub(";","",keywords)
-keywords<-gsub("\n\t","",keywords)
-JAS_result$keywords[1] <- keywords
+for(i in 0:(n-1)){
+  nb=i+1
+  url <- list$URL[nb]
+  html <- read_html(url, encoding="UTF-8")
 
-#corresponding_author
-corresponding<-html %>% html_node(".fn-corresp") %>% html_children() %>% .[[2]] %>% html_text() 
-JAS_result$corresponding[1]<-corresponding
+  #Subject
+  subject<-html %>% html_nodes(xpath="//div/h1/text()") %>% html_text()  
+  
+  #keywords
+  keywords<-html %>% html_nodes(".kwd-group") %>% html_text()  
+  keywords<-gsub(";","",keywords)
+  keywords<-gsub("\n\t","",keywords)
+  
+  #corresponding_author
+  corresponding<-html %>% html_node(".fn-corresp") %>% html_children() %>% .[[2]] %>% html_text() 
+  
+  if(all.equal(nchar(subject),integer(0)) != TRUE){
+    JAS_result$subject[nb] <- subject
+  }
+  
+  if(all.equal(nchar(keywords),integer(0)) != TRUE){
+    JAS_result$keywords[nb] <- keywords
+  }
+  
+  if(all.equal(nchar(corresponding),integer(0)) != TRUE){
+    JAS_result$corresponding[nb]<-corresponding
+  }
+}
 
 #write.csv
-write.csv(history,"history.txt",row.names = FALSE)
+write.csv(JAS_result,"JAS_result.txt",row.names = FALSE)
 
 ##history
 #history<-data.frame(recieved=recieved,accepted=accepted,published=published, corresponding=NA)
