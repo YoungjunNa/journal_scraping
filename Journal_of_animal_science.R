@@ -8,8 +8,6 @@ library(rvest)
 library(dplyr)
 library(stringr)
 
-url <- "https://www.animalsciencepublications.org/publications/jas/articles/95/11/4728"
-
 #URL list
 setwd("D:/GitHub/journal_scraping") #set working directory
 list <- readxl::read_excel("journal_URL.xlsx") #set URL list
@@ -18,7 +16,6 @@ list <- filter(list, journal == "journal of animal science") #filtering the jour
 #data.frame
 JAS_result<-list
 JAS_result<-cbind(JAS_result, subject=NA)
-JAS_result<-cbind(JAS_result, keywords=NA)
 JAS_result<-cbind(JAS_result, first_author=NA)
 
 n<-nrow(list)
@@ -30,12 +27,7 @@ for(i in 0:(n-1)){
 
   #Subject
   subject<-html %>% html_nodes(xpath="//div/h1/text()") %>% html_text()  
-  
-  #keywords
-  keywords<-html %>% html_nodes(".kwd-group") %>% html_text()  
-  keywords<-gsub(";","",keywords)
-  keywords<-gsub("\n\t","",keywords)
-  
+    
   #first_author
   first_author<-html %>% html_nodes(".contributor-list") %>% html_children() %>% html_text()
   
@@ -60,10 +52,7 @@ for(i in 0:(n-1)){
   if(all.equal(nchar(subject),integer(0)) != TRUE){
     JAS_result$subject[nb] <- subject
   }
-  
-  if(all.equal(nchar(keywords),integer(0)) != TRUE){
-    JAS_result$keywords[nb] <- keywords
-  }
+
   
   if(all.equal(nchar(first_author),integer(0)) != TRUE){
     JAS_result$first_author[nb]<-first_author[1]
@@ -73,6 +62,19 @@ for(i in 0:(n-1)){
 
 #write.csv
 write.csv(JAS_result,"JAS_result.txt",row.names = FALSE)
+
+
+#=============================================================================================================================
+
+#keywords
+#JAS_result<-cbind(JAS_result, keywords=NA)
+#keywords<-html %>% html_nodes(".kwd-group") %>% html_text()  
+#keywords<-gsub(";","",keywords)
+#keywords<-gsub("\n\t","",keywords)
+#if(all.equal(nchar(keywords),integer(0)) != TRUE){
+#  JAS_result$keywords[nb] <- keywords
+#}
+
 
 #corresponding_author
 #corresponding<-html %>% html_node(".fn-corresp") %>% html_children() %>% .[[2]] %>% html_text() 

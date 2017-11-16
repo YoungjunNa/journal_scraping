@@ -1,12 +1,14 @@
 
-
+library(dplyr)
 library(tm)
 library(SnowballC)
 library(wordcloud)
 library(RColorBrewer)
 
 setwd("D:/GitHub/journal_scraping") #set working directory
-wc <- read.csv("JDS_result.txt", stringsAsFactors = FALSE)
+wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+#wc <- filter(wc, class == "ruminant")
+#wc <- filter(wc, class == "monogastric")
 
 #WORDCLOUD
 wc <- Corpus(VectorSource(wc$subject))
@@ -15,10 +17,10 @@ inspect(wc)
 
 wc_data<-tm_map(wc,stripWhitespace)
 wc_data<-tm_map(wc_data, tolower)
-wc_data<-tm_map(wc_data,removeNumbers)
+#wc_data<-tm_map(wc_data,removeNumbers)
 #wc_data<-tm_map(wc_data, removePunctuation)
-wc_data<-tm_map(wc_data, removeWords, stopwords("english"))
-wc_data<-tm_map(wc_data,removeWords, c("affect","effect","effects","and","the","our","that","for","are","also","more","has","must","have","should","this","with"))
+#wc_data<-tm_map(wc_data, removeWords, stopwords("english"))
+wc_data<-tm_map(wc_data,removeWords, c("performance","affect","effect","effects","and","the","our","that","for","are","also","more","has","must","have","should","this","with"))
 
 tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
 TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format

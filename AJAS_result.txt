@@ -1,0 +1,7 @@
+"journal","year","month","class","type","URL","subject","first_author"
+"AJAS",2017,11,"ruminant","original article","https://www.ajas.info/journal/view.php?number=23737","Effects of various weaning times on growth performance, rumen fermentation and microbial population of yellow cattle calves","HuilingMao"
+"AJAS",2017,11,"ruminant","original article","https://www.ajas.info/journal/view.php?number=23770","Influence of substituting steam-flaked corn for dry rolled corn on feedlot cattle growth performance when cattle are allowed either ad libitum or restricted access to the finishing diet","VictorManuelGonzalez-Vizcarra"
+"AJAS",2017,11,"ruminant","original article","https://www.ajas.info/journal/view.php?number=23757","Fermentation quality and in vitro methane production of sorghum silage prepared with cellulase and lactic acid bacteria","WaroonKhota"
+"AJAS",2017,11,"ruminant","original article","https://www.ajas.info/journal/view.php?number=23721","Carbohydrate and lipid spectroscopic molecular structures of different alfalfa hay and their relationship with nutrient availability in ruminants","MojtabaYari"
+"AJAS",2017,11,"ruminant","original article","https://www.ajas.info/journal/view.php?number=23773","The relationship between odd- and branched-chain fatty acids and microbial nucleic acid bases in rumen","KeyuanLiu"
+"AJAS",2017,11,"monogastric","original article","https://www.ajas.info/journal/view.php?number=23855","Evaluation of high nutrient diets on litter performance of heat-stressed lactating sows","YohanChoi"
