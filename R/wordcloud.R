@@ -6,7 +6,8 @@ library(wordcloud)
 library(RColorBrewer)
 library(stringr)
 
-setwd("D:/GitHub/journal_scraping") #set working directory
+#setwd("D:/GitHub/journal_scraping") #set working directory at MS
+setwd("/Users/Youngjun/GitHub/journal_scraping") #set working directory at Mac
 wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
 #wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
