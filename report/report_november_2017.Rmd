@@ -27,27 +27,29 @@ library(stringr)
 theme_set(theme_bw(base_family="AppleGothic"))
 ```
 
+A report is published for **a personal interesting** of the recent animal nutrition. The papers about *"animal nutrition"* published at some SCI(E) journals were selected and analyzed. HTML scraping, data visualization, and report generation are automate process except sorting of the papers. Codes are available at https://github.com/YoungjunNa/journal_scraping 
+
 # 1. List of journals
-```{r}
+```{r echo=TRUE}
 journal_list <- read.csv("journal_list.txt", header=TRUE)
 kable(journal_list)
 ```
 
 # 2. List of papers
 ## 2.1. Review
-```{r review}
+```{r echo=TRUE}
 results <- read.csv("journal_result.txt", header=TRUE)
 results <- results[,c(7,8,5,4,1,2,3,6)]
 filter(results, type=="review")
 ```
 
 ## 2.2. Monogastric
-```{r rows.print=100, echo=FALSE}
+```{r rows.print=100, echo=TRUE}
 filter(results, type=="original article" & class=="monogastric")
 ```
 
 ## 2.3. Ruminant
-```{r rows.print=100, echo=FALSE}
+```{r rows.print=100, echo=TRUE}
 filter(results, type=="original article" & class=="ruminant")
 ```
 
