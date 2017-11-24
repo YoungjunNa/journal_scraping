@@ -27,7 +27,7 @@ library(stringr)
 theme_set(theme_bw(base_family="AppleGothic"))
 ```
 
-A report is published for **a personal interesting** of the recent animal nutrition. The papers about *"animal nutrition"* published at some SCI(E) journals were selected and analyzed. HTML scraping, data visualization, and report generation are automate process except sorting of the papers. Codes are available at https://github.com/YoungjunNa/journal_scraping 
+A report is published for **a personal interesting** of the recent animal nutrition. The papers about *"animal nutrition"* which published at some SCI(E) journals were selected and analyzed. HTML scraping, data visualization, and report generation are automate process except sorting of the papers. Codes are available at https://github.com/YoungjunNa/journal_scraping 
 
 # 1. List of journals
 ```{r echo=TRUE}
