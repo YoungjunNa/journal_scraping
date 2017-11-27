@@ -403,6 +403,6 @@ for(i in 0:(n-1)){
 
 
 #bind======================================================================================================
-journal_result <- bind_rows(JAS_result,JDS_result,AJAS_result,animal_result,poultry_result,JDR_result,JASB_result,revista_brasileira_result,ANIFEED_result)
+journal_result <- bind_rows(JAS_result,JDS_result,AJAS_result,livestock_science_result,animal_result,poultry_result,JASB_result,revista_brasileira_result,ANIFEED_result)
 
 write.csv(journal_result,"journal_result_2017_12.txt",row.names=FALSE)

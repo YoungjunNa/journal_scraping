@@ -1,0 +1,159 @@
+---
+title: 'Animal nutrition journal report: December 2017'
+author: "ruminoreticulum@gmail.com"
+date: "12/01/2017"
+output:
+  html_document:
+    df_print: paged
+    fig_height: 6
+    highlight: textmate
+    theme: default
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+```{r setup, echo=FALSE, include=FALSE}
+options(warn=-1)
+
+library(knitr)
+library(ggplot2)
+library(dplyr)
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(stringr)
+
+theme_set(theme_bw(base_family="AppleGothic"))
+```
+
+A report is published for **a personal interesting** of the recent animal nutrition. The papers about *"animal nutrition"* which published at some SCI(E) journals were selected and analyzed. HTML scraping, data visualization, and report generation are automate process except sorting of the papers. Codes are available at https://github.com/YoungjunNa/journal_scraping 
+
+# 1. List of journals
+```{r echo=TRUE}
+journal_list <- read.csv("journal_list.txt", header=TRUE)
+kable(journal_list)
+```
+
+# 2. List of papers
+## 2.1. Review
+```{r echo=TRUE}
+results <- read.csv("journal_result_2017_12.txt", header=TRUE)
+results <- results[,c(7,8,5,4,1,2,3,6)]
+filter(results, type=="review")
+```
+
+## 2.2. Monogastric
+```{r rows.print=100, echo=TRUE}
+filter(results, type=="original article" & class=="monogastric")
+```
+
+## 2.3. Ruminant
+```{r rows.print=100, echo=TRUE}
+filter(results, type=="original article" & class=="ruminant")
+```
+
+# 3. Wordcloud analysis
+## 3.1. Monogastric
+```{r cols.print=6, rows.print=18, echo=FALSE}
+wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+#wc <- filter(wc, class == "ruminant")
+wc <- filter(wc, class == "monogastric")
+#wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
+
+#WORDCLOUD
+wc <- Corpus(VectorSource(wc$subject))
+
+wc_data<-tm_map(wc,stripWhitespace)
+wc_data<-tm_map(wc_data, removeWords, c("and"))
+
+wc_data<-tm_map(wc_data, tolower)
+wc_data<-tm_map(wc_data,removeNumbers)
+wc_data<-tm_map(wc_data, removePunctuation)
+wc_data<-tm_map(wc_data, removeWords, stopwords("english"))
+wc_data<-tm_map(wc_data, removeWords, c("affect","effect","effects","and","the","our","that","for","are","also","more","has","must","have","should","this","with"))
+
+tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
+TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format
+v = sort(rowSums(TDM1), decreasing = TRUE) #Gives you the frequencies for every word
+
+wordcloud(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2")) 
+
+
+## Term-Document
+dtm <- TermDocumentMatrix(wc_data)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+d
+
+```
+
+## 3.2. Ruminant
+```{r cols.print=6, rows.print=18, echo=FALSE}
+wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+wc <- filter(wc, class == "ruminant")
+#wc <- filter(wc, class == "monogastric")
+#wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
+
+#WORDCLOUD
+wc <- Corpus(VectorSource(wc$subject))
+
+wc_data<-tm_map(wc,stripWhitespace)
+wc_data<-tm_map(wc_data, removeWords, c("and"))
+
+wc_data<-tm_map(wc_data, tolower)
+wc_data<-tm_map(wc_data,removeNumbers)
+wc_data<-tm_map(wc_data, removePunctuation)
+wc_data<-tm_map(wc_data, removeWords, stopwords("english"))
+wc_data<-tm_map(wc_data, removeWords, c("cattle","affect","effect","effects","and","the","our","that","for","are","also","more","has","must","have","should","this","with"))
+
+tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
+TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format
+v = sort(rowSums(TDM1), decreasing = TRUE) #Gives you the frequencies for every word
+
+wordcloud(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2")) 
+
+## Term-Document
+dtm <- TermDocumentMatrix(wc_data)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+d
+
+```
+
+## 3.3. Overall
+
+```{r cols.print=6, rows.print=18, echo=FALSE}
+wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+#wc <- filter(wc, class == "ruminant")
+#wc <- filter(wc, class == "monogastric")
+#wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
+
+#WORDCLOUD
+wc <- Corpus(VectorSource(wc$subject))
+
+wc_data<-tm_map(wc,stripWhitespace)
+wc_data<-tm_map(wc_data, removeWords, c("and"))
+
+wc_data<-tm_map(wc_data, tolower)
+wc_data<-tm_map(wc_data,removeNumbers)
+wc_data<-tm_map(wc_data, removePunctuation)
+wc_data<-tm_map(wc_data, removeWords, stopwords("english"))
+wc_data<-tm_map(wc_data, removeWords, c("affect","effect","effects","and","the","our","that","for","are","also","more","has","must","have","should","this","with"))
+
+tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
+TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format
+v = sort(rowSums(TDM1), decreasing = TRUE) #Gives you the frequencies for every word
+
+wordcloud(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2")) 
+
+## Term-Document
+dtm <- TermDocumentMatrix(wc_data)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+d
+
+```
