@@ -1,14 +1,14 @@
 ---
-title: 'Animal nutrition journal report: December 2017'
+title: 'Animal nutrition journal report: December 2018'
 author: "ruminoreticulum@gmail.com"
-date: "12/01/2017"
+date: "01/01/2018"
 output:
   html_document:
     df_print: paged
     fig_height: 6
     highlight: textmate
     theme: default
-    toc: yes
+    toc: no
     toc_depth: 3
     toc_float: yes
 ---
@@ -56,7 +56,7 @@ filter(results, type=="original article" & class=="ruminant")
 # 3. Wordcloud analysis
 ## 3.1. Monogastric
 ```{r cols.print=6, rows.print=18, echo=FALSE}
-wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+wc <- read.csv("journal_result_2017_12.txt", stringsAsFactors = FALSE)
 #wc <- filter(wc, class == "ruminant")
 wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -91,7 +91,7 @@ d
 
 ## 3.2. Ruminant
 ```{r cols.print=6, rows.print=18, echo=FALSE}
-wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+wc <- read.csv("journal_result_2017_12.txt", stringsAsFactors = FALSE)
 wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -126,7 +126,7 @@ d
 ## 3.3. Overall
 
 ```{r cols.print=6, rows.print=18, echo=FALSE}
-wc <- read.csv("journal_result.txt", stringsAsFactors = FALSE)
+wc <- read.csv("journal_result_2017_12.txt", stringsAsFactors = FALSE)
 #wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)

@@ -8,7 +8,7 @@ output:
     fig_height: 6
     highlight: textmate
     theme: default
-    toc: yes
+    toc: no
     toc_depth: 3
     toc_float: yes
 ---

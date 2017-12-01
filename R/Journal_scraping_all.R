@@ -60,7 +60,7 @@ for(i in 0:(n-1)){
 }
 
 
-#JDS=============================================================================
+#JDS==============================================================================
 list_JDS <- filter(list, journal == "journal of dairy science") #filtering the journal
 
 #data.frame
