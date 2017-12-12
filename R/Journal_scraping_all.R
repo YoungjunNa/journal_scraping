@@ -5,8 +5,8 @@ library(dplyr)
 library(stringr)
 
 #URL list
-#setwd("D:/GitHub/journal_scraping") #set working directory for PC
-setwd("/Users/Youngjun/GitHub/journal_scraping") #set wd for Mac
+setwd("E:/GitHub/journal_scraping") #set working directory for PC
+#setwd("/Users/Youngjun/GitHub/journal_scraping") #set wd for Mac
 list <- readxl::read_excel("journal_URL.xlsx") #set URL list
 list <- filter(list, year==2017 & month==12)
 
