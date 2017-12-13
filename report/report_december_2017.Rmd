@@ -1,9 +1,10 @@
 ---
-title: 'Animal nutrition journal report: December 2018'
+title: 'Animal nutrition journal report: December 2017'
 author: "ruminoreticulum@gmail.com"
 date: "01/01/2018"
 output:
   html_document:
+    code_folding: hide
     df_print: paged
     fig_height: 6
     highlight: textmate
@@ -55,7 +56,7 @@ filter(results, type=="original article" & class=="ruminant")
 
 # 3. Wordcloud analysis
 ## 3.1. Monogastric
-```{r cols.print=6, rows.print=18, echo=FALSE}
+```{r cols.print=6, rows.print=18, echo=TRUE}
 wc <- read.csv("journal_result_2017_12.txt", stringsAsFactors = FALSE)
 #wc <- filter(wc, class == "ruminant")
 wc <- filter(wc, class == "monogastric")
@@ -90,7 +91,7 @@ d
 ```
 
 ## 3.2. Ruminant
-```{r cols.print=6, rows.print=18, echo=FALSE}
+```{r cols.print=6, rows.print=18, echo=TRUE}
 wc <- read.csv("journal_result_2017_12.txt", stringsAsFactors = FALSE)
 wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
@@ -125,7 +126,7 @@ d
 
 ## 3.3. Overall
 
-```{r cols.print=6, rows.print=18, echo=FALSE}
+```{r cols.print=6, rows.print=18, echo=TRUE}
 wc <- read.csv("journal_result_2017_12.txt", stringsAsFactors = FALSE)
 #wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
