@@ -1,7 +1,7 @@
 ---
 title: 'Animal nutrition journal report: December 2017'
 author: "ruminoreticulum@gmail.com"
-date: "01/01/2018"
+date: "12/15/2017"
 output:
   html_document:
     code_folding: hide
@@ -28,7 +28,7 @@ library(stringr)
 theme_set(theme_bw(base_family="AppleGothic"))
 ```
 
-A report is published for **a personal interesting** of the recent animal nutrition. The papers about *"animal nutrition"* which published at some SCI(E) journals were selected and analyzed. HTML scraping, data visualization, and report generation are automate process except sorting of the papers. Codes are available at https://github.com/YoungjunNa/journal_scraping 
+A report is published for **a personal interesting** of the recent animal nutrition. The papers about *"animal nutrition"* which published at some SCI(E) journals were selected and analyzed. HTML scraping, data visualization, English-Korean translation, and report generation are automate process except sorting of the papers. Codes are available at https://github.com/YoungjunNa/journal_scraping 
 
 # 1. List of journals
 ```{r echo=TRUE}
@@ -39,8 +39,8 @@ kable(journal_list)
 # 2. List of papers
 ## 2.1. Review
 ```{r echo=TRUE}
-results <- read.csv("journal_result_2017_12.txt", header=TRUE)
-results <- results[,c(7,8,5,4,1,2,3,6)]
+results <- read.csv("journal_result_2017_12.txt")
+results <- results[,c(7,10,8,5,4,1,2,3,6)]
 filter(results, type=="review")
 ```
 
