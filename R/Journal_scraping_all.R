@@ -22,14 +22,18 @@ n<-nrow(list_JAS)
 
 for(i in 0:(n-1)){
   nb=i+1
-  url <- list_JAS$URL[nb]
+  url <- list$URL[nb]
   html <- read_html(url, encoding="UTF-8")
   
   #Subject
-  subject<-html %>% html_nodes(xpath="//div/h1/text()") %>% html_text()  
+  subject<-html %>% html_nodes(xpath="///div[2]/div[1]/div/div/h1") %>% html_text()  
   
   #first_author
-  first_author<-html %>% html_nodes(".contributor-list") %>% html_children() %>% html_text()
+  first_author<-html %>% html_nodes(".wi-authors") %>% html_children() %>% html_text()
+  
+  first_author <- str_sub(first_author[1], 1, 122) #아웅 이렇게까지 해야하나...
+  first_author<-gsub("\r\n"," ",first_author)
+  first_author<-gsub(" ","",first_author)
   
   first_author<-gsub(" and ","",first_author)
   first_author<-gsub("*","",first_author, fixed=TRUE)
