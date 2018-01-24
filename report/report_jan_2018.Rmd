@@ -21,7 +21,7 @@ library(ggplot2)
 library(dplyr)
 library(tm)
 library(SnowballC)
-library(wordcloud)
+library(wordcloud2)
 library(RColorBrewer)
 library(stringr)
 
@@ -39,8 +39,8 @@ kable(journal_list)
 # 2. List of papers
 ## 2.1. Review
 ```{r echo=TRUE}
-results <- read.csv("journal_result_2018_1.txt")
-results <- results[,c(7,10,8,5,4,1,2,3,6)]
+results <- readxl::read_excel("journal_result_2018_1.xlsx")
+results <- results[,c(7,9,8,5,4,1,2,3,6)]
 filter(results, type=="review")
 ```
 
@@ -57,7 +57,7 @@ filter(results, type=="original article" & class=="ruminant")
 # 3. Wordcloud analysis
 ## 3.1. Monogastric
 ```{r cols.print=6, rows.print=18, echo=TRUE}
-wc <- read.csv("journal_result_2018_1.txt", stringsAsFactors = FALSE)
+wc <- readxl::read_excel("journal_result_2018_1.xlsx")
 #wc <- filter(wc, class == "ruminant")
 wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -78,21 +78,21 @@ tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
 TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format
 v = sort(rowSums(TDM1), decreasing = TRUE) #Gives you the frequencies for every word
 
-wordcloud(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2")) 
+wordcloud2(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2"), figPath = "E:/GitHub/journal_scraping/pig.jpeg") 
 
 
 ## Term-Document
 dtm <- TermDocumentMatrix(wc_data)
 m <- as.matrix(dtm)
 v <- sort(rowSums(m),decreasing=TRUE)
-d <- data.frame(word = names(v),freq=v)
+d <- data.frame(freq=v)
 d
 
 ```
 
 ## 3.2. Ruminant
 ```{r cols.print=6, rows.print=18, echo=TRUE}
-wc <- read.csv("journal_result_2018_1.txt", stringsAsFactors = FALSE)
+wc <- readxl::read_excel("journal_result_2018_1.xlsx")
 wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -113,13 +113,13 @@ tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
 TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format
 v = sort(rowSums(TDM1), decreasing = TRUE) #Gives you the frequencies for every word
 
-wordcloud(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2")) 
+wordcloud2(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2"), figPath = "E:/GitHub/journal_scraping/pig.jpeg")
 
 ## Term-Document
 dtm <- TermDocumentMatrix(wc_data)
 m <- as.matrix(dtm)
 v <- sort(rowSums(m),decreasing=TRUE)
-d <- data.frame(word = names(v),freq=v)
+d <- data.frame(freq=v)
 d
 
 ```
@@ -127,7 +127,7 @@ d
 ## 3.3. Overall
 
 ```{r cols.print=6, rows.print=18, echo=TRUE}
-wc <- read.csv("journal_result_2018_1.txt", stringsAsFactors = FALSE)
+wc <- readxl::read_excel("journal_result_2018_1.xlsx")
 #wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -148,13 +148,13 @@ tdm_wc<-TermDocumentMatrix(wc_data) #Creates a TDM
 TDM1<-as.matrix(tdm_wc) #Convert this into a matrix format
 v = sort(rowSums(TDM1), decreasing = TRUE) #Gives you the frequencies for every word
 
-wordcloud(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2")) 
+wordcloud2(wc_data, max.words = Inf, min.freq = 1, random.order = FALSE, rot.per = 0.1, colors = brewer.pal(8, "Dark2"), figPath = "E:/GitHub/journal_scraping/pig.jpeg")
 
 ## Term-Document
 dtm <- TermDocumentMatrix(wc_data)
 m <- as.matrix(dtm)
 v <- sort(rowSums(m),decreasing=TRUE)
-d <- data.frame(word = names(v),freq=v)
+d <- data.frame(freq=v)
 d
 
 ```
