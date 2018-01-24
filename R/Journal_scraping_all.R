@@ -1,13 +1,14 @@
-#journal_scraping_all
+# journal_scraping_all
+# libary ####
 pacman::p_load("rvest","dplyr","stringr")
 
-#URL list
+# URL list ####
 setwd("E:/GitHub/journal_scraping") #set working directory for PC
 #setwd("/Users/Youngjun/GitHub/journal_scraping") #set wd for Mac
 list <- readxl::read_excel("journal_URL.xlsx") #set URL list
 list <- filter(list, year==2018 & month==1)
 
-#JAS=====================================================================================
+# JAS=====================================================================================
 list_JAS <- filter(list, journal == "journal of animal science") #filtering the journal
 
 #data.frame
@@ -62,7 +63,7 @@ for(i in 0:(n-1)){
 }
 
 
-#JDS==============================================================================
+# JDS==============================================================================
 list_JDS <- filter(list, journal == "journal of dairy science") #filtering the journal
 
 #data.frame
@@ -114,7 +115,7 @@ for(i in 0:(n-1)){
   
 }
 
-#ANIFEED==============================================================================
+# ANIFEED==============================================================================
 list_ANIFEED <- filter(list, journal == "animal feed science and technology") #filtering the journal
 
 #data.frame
@@ -166,7 +167,7 @@ for(i in 0:(n-1)){
   
 }
 
-#animal=============================================================================
+# animal=============================================================================
 list_animal <- filter(list, journal == "animal") #filtering the journal
 
 #data.frame
@@ -201,7 +202,7 @@ for(i in 0:(n-1)){
   
 }
 
-#livestock_sci========================================================================
+# livestock_sci========================================================================
 list_LS <- filter(list, journal == "livestock science") #filtering the journal
 
 #data.frame
@@ -254,7 +255,7 @@ for(i in 0:(n-1)){
 }
 
 
-#PS==================================================================================
+# PS ####
 list_PS <- filter(list, journal == "poultry science") #filtering the journal
 
 #data.frame
@@ -275,6 +276,7 @@ for(i in 0:(n-1)){
   
   #first_author
   first_author<-html %>% html_nodes(".al-author-name") %>% html_children() %>% html_text() 
+  first_author <- str_sub(first_author[1], 1, 55)
   first_author<-gsub("\r\n"," ",first_author)
   first_author<-gsub(" ","",first_author)
   first_author <- first_author[1]
@@ -304,7 +306,7 @@ n<-nrow(list_AJAS)
 for(i in 0:(n-1)){
   nb=i+1
   url <- list_AJAS$URL[nb]
-  html <- read_html(url, encoding="UTF-8")
+  html <- read_html(url, encoding=guess_encoding(url)[1,1])
   
   #Subject
   subject<-html %>% html_nodes(".PubTitle") %>% html_text()  
@@ -406,5 +408,6 @@ for(i in 0:(n-1)){
 
 #bind======================================================================================================
 journal_result <- bind_rows(JAS_result,JDS_result,AJAS_result,livestock_science_result,animal_result,poultry_result,JASB_result,revista_brasileira_result,ANIFEED_result)
+nrow(list)==nrow(journal_result)
 
 write.csv(journal_result,"journal_result_2018_1.txt",row.names=FALSE)
