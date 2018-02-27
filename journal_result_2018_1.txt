@@ -1,4 +1,36 @@
 "journal","year","month","class","type","URL","subject","first_author"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/98/4844089","Artificial light and biological responses of broiler chickens: dose-response
+                ","YefengYang"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/168/4844098","Effects of withdrawing high-fiber ingredients before marketing on finishing pig growth performance, carcass characteristics, and intestinal weights
+                ","KyleFCoble"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/181/4827713","Effects of mono-component xylanase supplementation on nutrient digestibility and performance of lactating sows fed a coarsely ground diet
+                ","PanZhou"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/194/4827625","Influence of differently processed yeast (Kluyveromyces fragilis) on feed intake and gut physiology in weaned pigs
+                ","BKeimer"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/206/4824921","Effects of supplementing sow diets with fermented corn and soybean meal mixed feed during lactation on the performance of sows and progeny
+                ","CWang"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/215/4844080","Nutrient composition and digestibility of energy and nutrients in wheat middlings and red dog fed to growing pigs
+                ","GACasas"
+"journal of animal science",2018,1,"monogastric","original article","https://academic.oup.com/jas/article/96/1/225/4824872","Dietary tea polyphenol supplementation improved egg production performance, albumen quality, and magnum morphology of Hy-Line Brown hens during the late laying period
+                ","Xiao-cuiWang"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/273/4827718","Effects of gradual reduction in frequency of energy supplementation on growth and immunity of beef steers
+                ","GleiseMSilva"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/284/4827785","Effects of adding mannan oligosaccharides on digestibility and metabolism of nutrients, ruminal fermentation parameters, immunity, and antioxidant capacity of sheep
+                ","ChenZheng"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/293/4827629","Dietary supplements during the cold season increase rumen microbial abundance and improve rumen epithelium development in Tibetan sheep
+                ","XiaoPingJing"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/306/4844085","Effects of different starch source of starter on small intestinal growth and endogenous GLP-2 secretion in preweaned lambs
+                ","DamingSun"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/318/4825262","Effects of timing of vaccination relative to weaning and post-weaning frequency of energy supplementation on growth and immunity of beef calves
+                ","GleiseMSilva"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/331/4825179","Responses of body fat mobilization to isoproterenol or epinephrine challenge in adult cows: influence of energy level, breed, and body fatness
+                ","AFerlay"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/343/4818648","Effects of high condensed-tannin substrate, prior dietary tannin exposure, antimicrobial inclusion, and animal species on fermentation parameters following a 48 h in vitro incubation
+                ","ANHoehn"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/354/4818673","Effects of supplementation with vegetable oils, including castor oil, on milk production of ewes and on growth of their lambs
+                ","MichelledeOliveiraMaia"
+"journal of animal science",2018,1,"ruminant","original article","https://academic.oup.com/jas/article/96/1/364/4818649","Prepartum fatty acid supplementation in sheep I. Eicosapentaenoic and docosahexaenoic acid supplementation do not modify ewe and lamb metabolic status and performance through weaning
+                ","DNColeman"
 "journal of dairy science",2018,1,"ruminant","original article","http://www.sciencedirect.com/science/article/pii/S0022030217310093","The effects of feeding a partial mixed ration plus a top-dress before feeding on milk production and the daily rhythm of feed intake and plasma hormones and metabolites in dairy cows","M.Niu"
 "journal of dairy science",2018,1,"ruminant","original article","http://www.sciencedirect.com/science/article/pii/S0022030217310081","Altering the ratio of dietary palmitic, stearic, and oleic acids in diets with or without whole cottonseed affects nutrient digestibility, energy partitioning, and production responses of dairy cows","J.deSouza"
 "journal of dairy science",2018,1,"ruminant","original article","http://www.sciencedirect.com/science/article/pii/S002203021730975X","Effects of supplementing yeast culture to diets differing in starch content on performance and feeding behavior of dairy cows","A.L.G.Dias"

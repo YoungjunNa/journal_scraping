@@ -20,7 +20,7 @@ n<-nrow(list_JAS)
 
 for(i in 0:(n-1)){
   nb=i+1
-  url <- list$URL[nb]
+  url <- list_JAS$URL[nb]
   html <- read_html(url, encoding="UTF-8")
   
   #Subject
@@ -54,8 +54,6 @@ for(i in 0:(n-1)){
   if(all.equal(nchar(subject),integer(0)) != TRUE){
     JAS_result$subject[nb] <- subject
   }
-  
-  
   if(all.equal(nchar(first_author),integer(0)) != TRUE){
     JAS_result$first_author[nb]<-first_author[1]
   }
@@ -411,3 +409,6 @@ journal_result <- bind_rows(JAS_result,JDS_result,AJAS_result,livestock_science_
 nrow(list)==nrow(journal_result)
 
 write.csv(journal_result,"journal_result_2018_1.txt",row.names=FALSE)
+
+pacman::p_load("xlsx")
+write.xlsx(journal_result, file="journal_result_2018_1.xlsx", sheetName="Sheet1")

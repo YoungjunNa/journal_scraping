@@ -1,0 +1,14 @@
+
+```{r}
+
+pacman::p_load("tidyverse","rvest")
+
+url <- "https://www.sciencedirect.com/science/article/pii/S0022030218300614"
+html <- read_html(url, encoding="UTF-8")
+
+page <- html %>% html_nodes(".centerContent")
+
+
+html %>% html_text()
+```
+
