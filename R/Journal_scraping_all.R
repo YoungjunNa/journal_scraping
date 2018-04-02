@@ -6,7 +6,7 @@ pacman::p_load("rvest","dplyr","stringr")
 setwd("E:/GitHub/journal_scraping") #set working directory for PC
 #setwd("/Users/Youngjun/GitHub/journal_scraping") #set wd for Mac
 list <- readxl::read_excel("journal_URL.xlsx") #set URL list
-list <- filter(list, year==2018 & month==1)
+list <- filter(list, year==2018 & month==2)
 
 # JAS=====================================================================================
 list_JAS <- filter(list, journal == "journal of animal science") #filtering the journal
@@ -408,7 +408,7 @@ for(i in 0:(n-1)){
 journal_result <- bind_rows(JAS_result,JDS_result,AJAS_result,livestock_science_result,animal_result,poultry_result,JASB_result,revista_brasileira_result,ANIFEED_result)
 nrow(list)==nrow(journal_result)
 
-write.csv(journal_result,"journal_result_2018_1.txt",row.names=FALSE)
+write.csv(journal_result,"journal_result_2018_2.txt",row.names=FALSE)
 
 pacman::p_load("xlsx")
-write.xlsx(journal_result, file="journal_result_2018_1.xlsx", sheetName="Sheet1")
+write.xlsx(journal_result, file="journal_result_2018_2.xlsx", sheetName="Sheet1")
