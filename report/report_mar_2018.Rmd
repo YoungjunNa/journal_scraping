@@ -15,7 +15,17 @@ output:
 ---
 ```{r setup, echo=FALSE, include=FALSE}
 options(warn=-1)
-pacman::p_load("knitr","ggplot2","tm","SnowballC","wordcloud","RcolorBrewer","stringr","dplyr","plotly")
+
+library(knitr)
+library(ggplot2)
+library(plotly)
+library(dplyr)
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(stringr)
+
 theme_set(theme_bw(base_family="AppleGothic"))
 ```
 
