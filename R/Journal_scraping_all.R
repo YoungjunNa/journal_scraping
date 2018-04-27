@@ -3,10 +3,8 @@
 pacman::p_load("rvest","dplyr","stringr")
 
 # URL list ####
-setwd("E:/GitHub/journal_scraping") #set working directory for PC
-#setwd("/Users/Youngjun/GitHub/journal_scraping") #set wd for Mac
 list <- readxl::read_excel("journal_URL.xlsx") #set URL list
-list <- filter(list, year==2018 & month==2)
+list <- filter(list, year==2018 & month==3)
 
 # JAS=====================================================================================
 list_JAS <- filter(list, journal == "journal of animal science") #filtering the journal
@@ -24,7 +22,8 @@ for(i in 0:(n-1)){
   html <- read_html(url, encoding="UTF-8")
   
   #Subject
-  subject<-html %>% html_nodes(xpath="///div[2]/div[1]/div/div/h1") %>% html_text()  
+  subject<-html %>% html_nodes(xpath="///div[2]/div[1]/div/div/h1") %>% html_text()
+  subject <- gsub("\r\r\n","",subject)
   
   #first_author
   first_author<-html %>% html_nodes(".wi-authors") %>% html_children() %>% html_text()
@@ -57,7 +56,6 @@ for(i in 0:(n-1)){
   if(all.equal(nchar(first_author),integer(0)) != TRUE){
     JAS_result$first_author[nb]<-first_author[1]
   }
-  
 }
 
 
@@ -408,7 +406,7 @@ for(i in 0:(n-1)){
 journal_result <- bind_rows(JAS_result,JDS_result,AJAS_result,livestock_science_result,animal_result,poultry_result,JASB_result,revista_brasileira_result,ANIFEED_result)
 nrow(list)==nrow(journal_result)
 
-write.csv(journal_result,"journal_result_2018_2.txt",row.names=FALSE)
+write.csv(journal_result,"journal_result_2018_3.txt",row.names=FALSE)
 
 pacman::p_load("xlsx")
-write.xlsx(journal_result, file="journal_result_2018_2.xlsx", sheetName="Sheet1")
+write.xlsx(journal_result, file="journal_result_2018_3.xlsx", sheetName="Sheet1")
