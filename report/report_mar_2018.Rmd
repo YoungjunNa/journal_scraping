@@ -1,7 +1,7 @@
 ---
-title: 'Animal nutrition journal report: February 2018'
+title: 'Animal nutrition journal report: March 2018'
 author: "ruminoreticulum@gmail.com"
-date: "04/02/2018"
+date: "04/27/2018"
 output:
   html_document:
     code_folding: hide
@@ -15,9 +15,7 @@ output:
 ---
 ```{r setup, echo=FALSE, include=FALSE}
 options(warn=-1)
-
-pacman::p_loade("knitr","ggplot2","tm","SnowballC","wordcloud","RcolorBrewer","stringr","dplyr","plotly")
-
+pacman::p_load("knitr","ggplot2","tm","SnowballC","wordcloud","RcolorBrewer","stringr","dplyr","plotly")
 theme_set(theme_bw(base_family="AppleGothic"))
 ```
 
@@ -35,7 +33,7 @@ ggplot(table, aes(x=Journal, y=Articles, fill=Journal)) + geom_col() + theme(axi
 # 2. List of papers
 ## 2.1. Review
 ```{r echo=TRUE}
-results <- readxl::read_excel("journal_result_2018_2.xlsx")
+results <- readxl::read_excel("journal_result_2018_3.xlsx")
 results <- results[,c(7,9,8,5,4,1,2,3,6)]
 filter(results, type=="review")
 ```
@@ -53,7 +51,7 @@ filter(results, type=="original article" & class=="ruminant")
 # 3. Wordcloud analysis
 ## 3.1. Monogastric
 ```{r cols.print=6, rows.print=18, echo=TRUE}
-wc <- readxl::read_excel("journal_result_2018_2.xlsx")
+wc <- readxl::read_excel("journal_result_2018_3.xlsx")
 #wc <- filter(wc, class == "ruminant")
 wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -88,7 +86,7 @@ d
 
 ## 3.2. Ruminant
 ```{r cols.print=6, rows.print=18, echo=TRUE}
-wc <- readxl::read_excel("journal_result_2018_2.xlsx")
+wc <- readxl::read_excel("journal_result_2018_3.xlsx")
 wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)
@@ -123,7 +121,7 @@ d
 ## 3.3. Overall
 
 ```{r cols.print=6, rows.print=18, echo=TRUE}
-wc <- readxl::read_excel("journal_result_2018_2.xlsx")
+wc <- readxl::read_excel("journal_result_2018_3.xlsx")
 #wc <- filter(wc, class == "ruminant")
 #wc <- filter(wc, class == "monogastric")
 #wc <- filter(wc, str_detect(wc$subject,"supplement")==TRUE)

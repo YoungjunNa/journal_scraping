@@ -23,7 +23,8 @@ for(i in 0:(n-1)){
   
   #Subject
   subject<-html %>% html_nodes(xpath="///div[2]/div[1]/div/div/h1") %>% html_text()
-  subject <- gsub("\r\r\n","",subject)
+  subject <- gsub("\r\n                "," ",subject)
+  # subject <- gsub(" ","",subject)
   
   #first_author
   first_author<-html %>% html_nodes(".wi-authors") %>% html_children() %>% html_text()
