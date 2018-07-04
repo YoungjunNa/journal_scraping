@@ -1,0 +1,988 @@
+journal	year	month	class	type	URL	subject	first_author	google_translate
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/98/4844089	Artificial light and biological responses of broiler chickens: dose-response 	YefengYang	À°°èÀÇ ÀÎ°ø ºû°ú »ı¹°ÇĞÀû ¹İÀÀ : ¿ë·® - ¹İÀÀ
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/168/4844098	"Effects of withdrawing high-fiber ingredients before marketing on finishing pig growth performance, carcass characteristics, and intestinal weights "	KyleFCoble	"µÅÁö ¼ºÀå ¼º´É, µµÃ¼ Æ¯¼º ¸¶¹«¸®¿¡ ¸¶ÄÉÆÃÇÏ±â Àü¿¡ ³ôÀº ¼¶À¯ ¼ººĞÀ» Ã¶È¸ÀÇ È¿°ú ¹× Àå ¹«°Ô"
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/181/4827713	Effects of mono-component xylanase supplementation on nutrient digestibility and performance of lactating sows fed a coarsely ground diet 	PanZhou	¿µ¾ç¼Ò ¼ÒÈ­¼º ¹× ¾ç¸ğ ¾ÏÅïÁö ¼º´É ´ÜÀÏ ¼ººĞ ÀÚÀÏ¶ó³ª º¸ÃæÁ¦ÀÇ È¿°ú´Â ´ë·«ÀûÀ¸·Î Á¢Áö½ÄÀÌ¸¦ °ø±Ş
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/194/4827625	Influence of differently processed yeast (Kluyveromyces fragilis) on feed intake and gut physiology in weaned pigs 	BKeimer	ÀÌÀ¯ÀÚµ· ÇÇµå ¼·Ãë·® ¼ÒÈ­°ü »ı¸® ´Ù¸£°Ô Ã³¸® È¿¸ğÀÇ ¿µÇâ (Å¬·ç º£¶ó ¸¶ÀÌ ¼¼½º fragilis)
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/206/4824921	Effects of supplementing sow diets with fermented corn and soybean meal mixed feed during lactation on the performance of sows and progeny 	CWang	¸ğµ·°ú ÀÚ¼ÕÀÇ ¼º´É¿¡ ¼öÀ¯ÇÏ´Â µ¿¾È ¹ßÈ¿ ¿Á¼ö¼ö¿Í Äá ½Ä»ç È¥ÇÕ »ç·á¿Í ¸ğµ· »ç·á¸¦ º¸¿ÏÀÇ È¿°ú
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/215/4844080	Nutrient composition and digestibility of energy and nutrients in wheat middlings and red dog fed to growing pigs 	GACasas	¿µ¾ç ¼ººĞ°ú ¹Ğ µÕÇ°¿Í »¡°£ °³ ¿¡³ÊÁö¿Í ¿µ¾ç¼ÒÀÇ ¼ÒÈ­À²ÀÌ Áõ°¡ µÅÁö¿¡ °ø±Ş
+journal of animal science	2018	1	monogastric	original article	https://academic.oup.com/jas/article/96/1/225/4824872	"Dietary tea polyphenol supplementation improved egg production performance, albumen quality, and magnum morphology of Hy-Line Brown hens during the late laying period "	Xiao-cuiWang	"ÈÄ¹İ ´©¿ö ±â°£ µ¿¾È½ÄÀÌ Â÷ Æú¸® Æä³î º¸¿Ï °³¼± °è¶õ »ı»ê ¼º´É, ¾ËºÎ¹Î Ç°Áú, ¼û¹Ù²ÀÁú ¶óÀÎ ºê¶ó¿î ¾ÏÅ¼ÀÇ ¸Å±×³Ñ ÇüÅÂ"
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/273/4827718	Effects of gradual reduction in frequency of energy supplementation on growth and immunity of beef steers 	GleiseMSilva	¼è°í±â ¼ö¼Û¾ÆÁöÀÇ ¼ºÀå ¹× ³»¼º¿¡ ¿¡³ÊÁö º¸±ŞÀÇ ºóµµ Á¡ÁøÀûÀÎ °¨¼Ò È¿°ú
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/284/4827785	"Effects of adding mannan oligosaccharides on digestibility and metabolism of nutrients, ruminal fermentation parameters, immunity, and antioxidant capacity of sheep "	ChenZheng	"¿µ¾ç¼Ò ¼ÒÈ­¼º, ¹İÃßÀ§ ¹ßÈ¿ ¸Å°³ ¸é¿ª ´ë»ç¿¡ ¸¸³­ ¿Ã¸®°í´çÀÇ Ã·°¡ È¿°ú, ¹× ¾çÀÇ Ç×»êÈ­ Á¦ ¿ë·®"
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/293/4827629	Dietary supplements during the cold season increase rumen microbial abundance and improve rumen epithelium development in Tibetan sheep 	XiaoPingJing	Ãß¿î °èÀı Áõ°¡ÇÏ´Â µ¿¾È½ÄÀÌ º¸Á¶ ½ÄÇ°Àº ¹Ì»ı¹° Ç³ºÎ ¹İÃßÀ§ Æ¼ºª ¾çÀÇ ¹İÃßÀ§ »óÇÇ °³¹ßÀ» Çâ»ó
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/306/4844085	Effects of different starch source of starter on small intestinal growth and endogenous GLP-2 secretion in preweaned lambs 	DamingSun	preweaned ¾çÀÇ ¼ÒÀå ¼ºÀå ³»ÀÎ¼º GLP-2 ºĞºñ ½ºÅ¸ÅÍ ´Ù¸¥ ÀüºĞ ¼Ò½ºÀÇ È¿°ú
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/318/4825262	Effects of timing of vaccination relative to weaning and post-weaning frequency of energy supplementation on growth and immunity of beef calves 	GleiseMSilva	¼Ò ¼Û¾ÆÁöÀÇ ¼ºÀå ¹× ³»¼º¿¡ ¿¡³ÊÁö º¸±ŞÀÇ ºóµµ ÀÌÀ¯ ÀüÈÄ ÀÌÀ¯¿¡ Á¢Á¾ »ó´ëÀûÀÎ Å¸ÀÌ¹ÖÀÇ ¿µÇâ
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/331/4825179	"Responses of body fat mobilization to isoproterenol or epinephrine challenge in adult cows: influence of energy level, breed, and body fatness "	AFerlay	"¼ºÀÎ ¼Ò¿¡¼­ ÀÌ¼ÒÀÌ³ª ¿¡ÇÇ³×ÇÁ¸° µµÀü Ã¼Áö¹æ µ¿¿øÀÇ ÀÀ´ä : ¿¡³ÊÁö ·¹º§, Ç°Á¾ÀÇ ¿µÇâ ¹× Ã¼Áö¹æ"
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/343/4818648	"Effects of high condensed-tannin substrate, prior dietary tannin exposure, antimicrobial inclusion, and animal species on fermentation parameters following a 48 h in vitro incubation "	ANHoehn	"½ÃÇè °ü³» ¹è¾ç¿¡¼­ 48 ½Ã°£ ¹ßÈ¿ ´ÙÀ½ ÆÄ¶ó¹ÌÅÍ ³ôÀº ÃàÇÕ Çü Å¸´Ñ ±âÆÇ Àü¿¡½ÄÀÌ Åº´Ñ ³ëÃâ Ç×±Õ Æ÷ÇÔÇÏ°í, µ¿¹° Á¾ÀÇ ¿µÇâ"
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/354/4818673	"Effects of supplementation with vegetable oils, including castor oil, on milk production of ewes and on growth of their lambs "	MichelledeOliveiraMaia	"¾Ï¾çÀÇ ¿ìÀ¯ »ı»ê¿¡ ±×µéÀÇ ¾çÀÇ ¼ºÀå¿¡ ÇÇ¸¶ ÀÚÀ¯¸¦ Æ÷ÇÔÇÏ¿© ½Ä¹°¼º ¿ÀÀÏ°ú º¸ÃæÀÇ È¿°ú,"
+journal of animal science	2018	1	ruminant	original article	https://academic.oup.com/jas/article/96/1/364/4818649	Prepartum fatty acid supplementation in sheep I. Eicosapentaenoic and docosahexaenoic acid supplementation do not modify ewe and lamb metabolic status and performance through weaning 	DNColeman	¾ç I. ÄÚ»ç ÆæÅ¸ ¿£°ú µµÄÚ »ç Çí»ç ¿£ »ê º¸Ãæ¿¡ Prepartum Áö¹æ»ê º¸ÃæÁ¦´Â ÀÌÀ¯¸¦ ÅëÇØ ¿¡¿ş¾î ¾ç°í±â ½ÅÁø ´ë»ç »óÅÂ ¹× ¼º´ÉÀ» ¼öÁ¤ÇÏÁö ¸¶½Ê½Ã¿À
+journal of animal science	2018	2	monogastric	original article	https://academic.oup.com/jas/article/96/2/545/4828053	Influence of feeding thermally peroxidized soybean oil on oxidative status in growing pigs 	SCLindblom	¸ÔÀÌÀÇ ¿µÇâÀº ¿­ ¼ºÀå µÅÁöÀÇ »êÈ­ »óÅÂ¿¡ Äá±â¸§À» °ú»êÈ­
+journal of animal science	2018	2	monogastric	original article	https://academic.oup.com/jas/article/96/2/558/4828104	"Influence of feeding thermally peroxidized soybean oil on growth performance, digestibility, and gut integrity in growing pigs "	StephanieCLindblom	"¸ÔÀÌÀÇ ¿µÇâÀº ¿­ ¼ºÀå µÅÁöÀÇ ¼ºÀå ¼º´É, ¼ÒÈ­ ¹× Àå ¹«°á¼º¿¡ Äá±â¸§À» °ú»êÈ­"
+journal of animal science	2018	2	monogastric	original article	https://academic.oup.com/jas/article/96/2/570/4828152	"Effect of high doses of Natuphos E 5,000 G phytase on growth performance of nursery pigs "	KiahMGourley	º¸À° µÅÁöÀÇ ¼ºÀå ¼º´É¿¡ Natuphos E 5000 G ÇÇÅ¸ °í¿ë·®ÀÇ È¿°ú
+journal of animal science	2018	2	monogastric	original article	https://academic.oup.com/jas/article/96/2/579/4827968	Evaluation of conjugated linoleic acid supplementation on markers of joint inflammation and cartilage metabolism in young horses challenged with lipopolysaccharide 	AmandaNBradbery	ÀşÀº ¸»ÀÇ °üÀı ¿°Áõ ¹× ¿¬°ñ ´ë»çÀÇ ¸¶Ä¿¿¡ °ø¾× ¸®³î·¹»ê º¸ÃæÁ¦ÀÇ Æò°¡´Â ÁöÁú ´Ù´ç·ù¿¡ µµÀü
+journal of animal science	2018	2	monogastric	original article	https://academic.oup.com/jas/article/96/2/591/4833885	Standardized ileal digestible valine:lysine dose response effects in 25- to 45-kg pigs under commercial conditions 	MarcioADGoncalves	Ç¥ÁØÈ­ È¸Àå ¼ÒÈ­ ¹ß¸° »ó¿ë Á¶°Ç ÇÏ¿¡¼­ 45 kg µÅÁö 25- ¶óÀÌ½Å ¿ë·® ¹İÀÀ È¿°ú
+journal of animal science	2018	2	monogastric	original article	https://academic.oup.com/jas/article/96/2/600/4827736	"Feed preference of weaned pigs fed diets containing soybean meal, Brassica napus canola meal, or Brassica juncea canola meal "	JoseLLandero	"´ëµÎ¹Ú, ºê¶ó ½ÃÄ« napus Ä³³î¶ó ½Ä»ç, ¶Ç´Â ºê¶ó ½ÃÄ« ½ÃÄ« »ç°Ç Ä³³î¶ó ½Ä»ç¸¦ Æ÷ÇÔ ÀÌÀ¯ÀÚµ· °ø±Ş ±ÔÁ¤ ½ÄÀÇ ±Ş½Ä È¯°æ"
+journal of animal science	2018	2	ruminant	original article	https://academic.oup.com/jas/article/96/2/653/4829573	Energy costs of feeding excess protein from corn-based by-products to finishing cattle 	JennySJennings	¿¡¼­ ¿©ºĞÀÇ ´Ü¹éÁú °ø±ŞÀÇ ¿¡³ÊÁö ºñ¿ë ºÎ»ê¹° ¸¶¹«¸® ¼Ò¿¡ ¿Á¼ö¼ö ±â¹İ
+journal of animal science	2018	2	ruminant	original article	https://academic.oup.com/jas/article/96/2/670/4829313	"Dietary protein reduction on microbial protein, amino acid digestibility, and body retention in beef cattle: 2. Amino acid intestinal absorption and their efficiency for whole-body deposition "	LDSMariz	"À°¿ìÀÇ ¹Ì»ı¹° ´Ü¹éÁú, ¾Æ¹Ì³ë»ê ¼ÒÈ­À² ¹× ½ÅÃ¼ À¯Áö¿¡½ÄÀÌ ´Ü¹éÁú °¨¼Ò 2. ¾Æ¹Ì³ë»ê Àå³» Èí¼ö ¹× Àü½Å ÁõÂøÀ»À§ÇÑ È¿À²¼º"
+journal of animal science	2018	2	ruminant	original article	https://academic.oup.com/jas/article/96/2/684/4828210	"Effects of a live yeast in natural-program finishing feedlot diets on growth performance, digestibility, carcass characteristics, and feeding behavior "	LaurenAOvinge	"¼ºÀå ¼º´É, ¼ÒÈ­À², µµÃ¼ Æ¯¼º ¹× ¸ÔÀÌ Çàµ¿¿¡ ÀÚ¿¬ ÇÁ·Î±×·¥ ¸¶¹«¸® »çÀ°Àå »ç·á¿¡¼­ »ì¾ÆÀÖ´Â È¿¸ğÀÇ È¿°ú"
+journal of animal science	2018	2	ruminant	original article	https://academic.oup.com/jas/article/96/2/694/4828034	Test of conditions that affect in vitro production of volatile fatty acids and gases 	LMJudd	ÈÖ¹ß¼º Áö¹æ»ê ¹× °¡½ºÀÇ Ã¼¿Ü »ı»ê¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â Á¶°ÇÀÇ ½ÃÇè
+journal of animal science	2018	2	ruminant	original article	https://academic.oup.com/jas/article/96/2/705/4828072	Nutritional evaluation and ruminal fermentation patterns of kochia compared with alfalfa and orchardgrass hays and ephedra and cheatgrass compared with orchardgrass hay as alternative arid-land forages for beef cattle in two dual-flow continuous culture system experiments 	LorraynyGalorodaSilva	µÎ °³ÀÇ ÀÌÁß Èå¸§ ¿¬¼Ó ¹è¾ç ½Ã½ºÅÛ ½ÇÇè À°¿ì ´ë¾È °ÇÁ¶ ·£µå »ç·á·Î¼­ orchardgrass °ÇÃÊ ºñÇØ ¾ËÆÈÆÄ orchardgrass ÇìÀÌÁî ¹× ¿¡Æä cheatgrass°ú ºñ±³ kochia ¿µ¾ç Æò°¡ ¹İÃßÀ§ ¹ßÈ¿ ÆĞÅÏ
+journal of animal science	2018	2	ruminant	original article	https://academic.oup.com/jas/article/96/2/715/4828030	Forms of selenium in vitamin-mineral mixes differentially affect serum prolactin concentration and hepatic glutamine synthetase activity of steers grazing endophyte-infected tall fescue 	YangJia	ºñÅ¸¹Î - ¹Ì³×¶ö ¼¿·¹´½ÀÇ ÇüÅÂ´Â Â÷µî Ç÷Áß ÇÁ·Î¶ôÆ¾ ³óµµ¿Í ³»»ı¿¡ °¨¿°µÈ ÅçÆä½ºÅ¥À» ¹æ¸ñÇÏ´Â ¼ÒµéÀÇ °£ ±Û·çÅ¸¹Î ÇÕ¼º È¿¼ÒÀÇ È°µ¿¿¡ ¿µÇâÀ» ¹ÌÄ¥ ¹Í½º
+journal of animal science	2018	2	monogastric	review	https://academic.oup.com/jas/article/96/2/728/4834025	Preslaughter handling practices and their effects on animal welfare and pork quality 	LuigiFaucitano	µµÃà ÀüÀÇ Ã³¸® °üÇà ¹× µ¿¹° º¹Áö¿Í µÅÁö °í±â Ç°Áú¿¡ ¹ÌÄ¡´Â ¿µÇâ
+journal of animal science	2018	2	ruminant	review	https://academic.oup.com/jas/article/96/2/739/4827744	RUMINANT NUTRITION SYMPOSIUM: Effects of postruminal flows of protein and amino acids on small intestinal starch digestion in beef cattle 	DWBrake	¹İÃß µ¿¹° ¿µ¾ç ½ÉÆ÷Áö¾ö À°¿ìÀÇ ¼ÒÀå ÀüºĞ ¼ÒÈ­¿¡ ´Ü¹éÁú ¹× ¾Æ¹Ì³ë»ê postruminal Èå¸§ÀÇ ¿µÇâ
+journal of animal science	2018	2	ruminant	review	https://academic.oup.com/jas/article/96/2/751/4828173	RUMINANT NUTRITION SYMPOSIUM: Improving the efficiency of nutrient utilization to optimize livestock performance 	PhilipeMoriel	¹İÃß µ¿¹° ¿µ¾ç ½ÉÆ÷Áö¾ö : °¡ÃàÀÇ ¼º´ÉÀ» ÃÖÀûÈ­ÇÏ±â À§ÇØ ¿µ¾ç¼Ò ÀÌ¿ë È¿À² Çâ»ó
+journal of animal science	2018	2	ruminant	review	https://academic.oup.com/jas/article/96/2/752/4827738	RUMINNAT NUTRITION SYMPOSIUM: Tiny but mighty: the role of the rumen microbes in livestock production 	KristiMCammack	RUMINNAT ¿µ¾ç ½ÉÆ÷Áö¾ö : ÀÛÀºÇÏÁö¸¸ °­·ÂÇÑ : °¡Ãà »ı»êÀÇ ¹İÃßÀ§ ¹Ì»ı¹°ÀÇ ¿ªÇÒ
+journal of animal science	2018	3	monogastric	original article	https://academic.oup.com/jas/article/96/3/1084/4829314	Effect of level of soluble fiber and n-6/n-3 fatty acid ratio on performance of rabbit does and their litters 	RebecaDelgado	Åä³¢ÀÇ ¼º´É¿¡ ¼ö¿ë¼º ¼¶À¯ ¹× N-6 / n-3 Áö¹æ»ê ºñÀ² ¼öÁØÀÇ È¿°ú ¾Ê´Â ±×µéÀÇ ´ã°¡
+journal of animal science	2018	3	monogastric	original article	https://academic.oup.com/jas/article/96/3/1101/4941809	"Determining the available phosphorus release of Natuphos E 5,000 G phytase for nursery pigs "	KMGourley	º¸À° µÅÁö ¿ë NatuphosÀÇ E 5000 G ÇÇÅ¸ÀÇ »ç¿ë °¡´ÉÇÑ ÀÎ ¹æÃâÀ» °áÁ¤
+journal of animal science	2018	3	monogastric	original article	https://academic.oup.com/jas/article/96/3/1108/4942246	Dietary chlorogenic acid improves growth performance of weaned pigs through maintaining antioxidant capacity and intestinal digestion and absorption function 	JialiChen	½ÄÀÌ Å¬·Î·Î°Õ»êÀº Ç×»êÈ­ Á¦ ¿ë·® Àå³» ¼ÒÈ­ Èí¼ö ±â´ÉÀ» À¯ÁöÇÏ´Â ÀÌÀ¯ µÅÁö ¼ºÀå ¼º´ÉÀ» Çâ»ó
+journal of animal science	2018	3	monogastric	original article	https://academic.oup.com/jas/article/96/3/1119/4827564	Nutritive value of multienzyme supplemented cold-pressed camelina cake for pigs 	TAWoyengo	multienzymeÀÇ ¿µ¾ç °¡Ä¡´Â µÅÁö¿¡ ´ëÇÑ ³Ã°£ ´©¸£¸é Ä«¸á ¸®³ªÀÇ ÄÉÀÌÅ©¸¦ º¸Ãæ
+journal of animal science	2018	3	monogastric	original article	https://academic.oup.com/jas/article/96/3/1130/4823829	"The effects of dietary sulfur amino acids on growth performance, intestinal morphology, enzyme activity, and nutrient transporters in weaning piglets "	EnyanZong	"ÀÌÀ¯ ÀÚµ· ¼ºÀå ¼º°ú¿¡½ÄÀÌ À¯È² ¾Æ¹Ì³ë»ê Àå ÇüÅÂ, È¿¼Ò È°¼º, ±×¸®°í ¿µ¾ç¼ÒÀÇ ¼ö¼Û È¿°ú"
+journal of animal science	2018	3	ruminant	original article	https://academic.oup.com/jas/article/96/3/1140/4958948	Relationship between chemical composition of native forage and nutrient digestibility by Tibetan sheep on the Qinghai<U+2013>Tibetan Plateau 	ChuntaoYang	ÄªÇÏÀÌ <U + 2013> Æ¼ºª °í¿ø¿¡ Æ¼º£Æ®¾î ¾ç¿¡ ÀÇÇØ ±âº» »ç·á ¹× ¿µ¾ç¼Ò ¼ÒÈ­À²ÀÇ È­ÇĞ ¼ººĞ°úÀÇ °ü°è
+journal of animal science	2018	3	ruminant	original article	https://academic.oup.com/jas/article/96/3/1150/4835233	"Effects of spent mushroom Cordyceps militaris supplementation on apparent digestibility, rumen fermentation, and blood metabolite parameters of goats "	PinChanjula	"¼Òºñ ¹ö¼¸ µ¿ÃæÇÏÃÊÀÇ È¿°ú´Â ¸í¹é ¼ÒÈ­À², ¹İÃßÀ§ ¹ßÈ¿ ¹× ¿°¼ÒÀÇ Ç÷Áß ´ë»ç ÆÄ¶ó¹ÌÅÍ º¸ÃæÀÇ militaris"
+journal of animal science	2018	3	ruminant	original article	https://academic.oup.com/jas/article/96/3/1159/4913357	Effect of varying trace mineral supplementation of steers with or without hormone implants on growth and carcass characteristics 	EmmaKNiedermayer	¶Ç´Â ¼ºÀå È£¸£¸ó Ä¿½º Æ¯¼º¿¡ ÀÌ½Ä¾øÀÌ ¼ö¼Û¾ÆÁö ¹Ì·® ¹Ì³×¶ö º¸Ãæ º¯È­ÀÇ ¿µÇâ
+journal of animal science	2018	3	ruminant	original article	https://academic.oup.com/jas/article/96/3/1171/4958923	Effects of feeding monensin to bred heifers fed in a drylot on nutrient and energy balance 	CourtneyNHemphill	¿µ¾ç¼Ò ¹× ¿¡³ÊÁö ±ÕÇü¿¡ drylot ±ŞÀü ÀÚ¶õ ¾Ï¼Ò¿¡ °ø±Ş ³Ù½Å È¿°ú
+journal of animal science	2018	3	ruminant	original article	https://academic.oup.com/jas/article/96/3/1181/4818671	"Prepartum fatty acid supplementation in sheep. II. Supplementation of eicosapentaenoic acid and docosahexaenoic acid during late gestation alters the fatty acid profile of plasma, colostrum, milk and adipose tissue, and increases lipogenic gene expression of adipose tissue "	DanielleNicoleColeman	"¾çÀÇ Prepartum Áö¹æ»ê º¸ÃæÁ¦. II. ÀÓ½Å ÈÄ±â ¿¡ÀÌÄÚ »ç ÆæÅ¸ ¿£ »ê ¹× µµÄÚ »ç Çí»ç ¿£ »êÀÇ º¸ÃæÁ¦ ÇÃ¶óÁî¸¶ ÃÊÀ¯, ¿ìÀ¯ Áö¹æ Á¶Á÷ÀÇ Áö¹æ»ê ÇÁ·ÎÇÊÀ» º¯°æÇÏ°í, Áö¹æ Á¶Á÷ÀÇ Áö¹æÀ» »ı¼º Áõ°¡ À¯ÀüÀÚ ¹ßÇö"
+journal of animal science	2018	4	monogastric	original article	https://academic.oup.com/jas/article/96/4/1330/4970682	"Effect of supplemental yeast cell walls on growth performance, gut mucosal glutathione pathway, proteolytic enzymes and transporters in growing broiler chickens "	NingLiu	"¼ºÀå À°°èÀÇ ¼ºÀå ¼º´É, Àå Á¡¸· ±Û·çÅ¸Æ¼¿Â °æ·Î¿¡ Ãß°¡ È¿¸ğ ¼¼Æ÷º®, ´Ü¹éÁú ºĞÇØ È¿¼Ò ¹× ¼ö¼Û Ã¼ÀÇ È¿°ú"
+journal of animal science	2018	4	monogastric	original article	https://academic.oup.com/jas/article/96/4/1338/4877106	"Chemical composition, energy, and amino acid digestibility in 7 cottonseed co-products fed to growing pigs "	DLMa	"¼ºÀå µÅÁö¿¡ °ø±Ş Á¶¼º, ¿¡³ÊÁö ¹× ¾Æ¹Ì³ë»ê ¼ÒÈ­¼º 7 ¸ñÈ­¾¾¿¡¼­ ºÎ»ê¹°"
+journal of animal science	2018	4	ruminant	original article	https://academic.oup.com/jas/article/96/4/1350/4924839	Meta-analysis of endophyte-infected tall fescue effects on cattle growth rates 	DouglasMLiebe	°¡Ãà ¼ºÀå·ü¿¡ ³»»ı¿¡ °¨¿°µÈ ÅçÆä½ºÅ¥ È¿°úÀÇ ¸ŞÅ¸ ºĞ¼®
+journal of animal science	2018	4	ruminant	original article	https://academic.oup.com/jas/article/96/4/1362/4868597	Enteric methane production and ruminal fermentation of forage brassica diets fed in continuous culture 	SandraLeanneDillard	Àå³» ¸ŞÅº »ı»ê ¹× ¿¬¼Ó ¹è¾ç¿¡ °ø±Ş »ç·á ºê¶ó ½ÃÄ« »ç·áÀÇ ¹İÃßÀ§ ¹ßÈ¿
+journal of animal science	2018	4	monogastric	original article	https://academic.oup.com/jas/article/96/4/1419/4868607	Increased dietary protein or free amino acids supply for heat stress pigs: effect on performance and carcass traits 	AMorales	Áõ°¡½ÄÀÌ ´Ü¹éÁú ¶Ç´Â ¿­ ½ºÆ®·¹½º µÅÁö ¿ë À¯¸® ¾Æ¹Ì³ë»ê °ø±Ş : ¼º´É°ú µµÃ¼ ÇüÁú¿¡ ¿µÇâ
+journal of animal science	2018	4	monogastric	original article	https://academic.oup.com/jas/article/96/4/1430/4908682	Tail-end dehulling of canola meal improves apparent and standardized total tract digestibility of phosphorus when fed to growing pigs 	GustavoAMejicanos	¼ºÀå µÅÁö¿¡ °ø±ŞÇÏ´Â °æ¿ì Ä«³î¶ó ½Ä»çÀÇ ²¿¸® ¿£µå dehullingÀÌ ÀÎÀÇ ¸í¹éÇÑ Ç¥ÁØÈ­ µÈ ÀüÃ¼ ±â°ü ¼ÒÈ­À²À» Çâ»ó
+journal of animal science	2018	4	monogastric	original article	https://academic.oup.com/jas/article/96/4/1441/4907944	Net energy content of canola meal fed to growing pigs and effect of experimental methodology on energy values 	JWKim	Ä«³î¶ó ½Ä»çÀÇ ¼ø ¿¡³ÊÁö ÇÔ·®ÀÌ Áõ°¡ÇÏ´Â µÅÁö¿Í ¿¡³ÊÁö °ª¿¡ ´ëÇÑ ½ÇÇè ¹æ¹ıÀÇ È¿°ú¿¡ °ø±Ş
+journal of animal science	2018	4	ruminant	original article	https://academic.oup.com/jas/article/96/4/1474/4870023	"Effects of dietary energy level and intake of corn by-product-based diets on newly received growing cattle: antibody production, acute phase protein response, stress, and immunocompetency of healthy and morbid animals "	TylerJSpore	"¿Á¼ö¼ö »ç·áÀÇ ¿¡³ÊÁö ¼öÁØ°ú ¼·ÃëÀÇ È¿°ú´Â ºÎ»ê¹° ±â¹İ »õ·Ó°Ô ¼ö½Å µÈ ¼ºÀå °¡Ãà¿¡ ´ÙÀÌ¾îÆ® : Ç×Ã¼ »ı»ê, ±Ş¼º±â ´Ü¹éÁú ¹İÀÀ, ½ºÆ®·¹½º, ±×¸®°í °Ç°­ÇÏ°í º´Àû µ¿¹°ÀÇ immunocompetency"
+journal of animal science	2018	4	ruminant	original article	https://academic.oup.com/jas/article/96/4/1484/4877031	Influence of distiller¡¯s dried grains with solubles on ram lamb growth and reproductive traits 	AlisonRCranei	·¥ ¾ç°í±â ¼ºÀå°ú »ı½Ä Æ¯¼º¿¡ ´ëÇÑ ¿ëÇØ¼º°ú Áõ·ù±âÀÇ °ÇÁ¶ °î¹°ÀÇ ¿µÇâ
+journal of animal science	2018	4	ruminant	original article	https://academic.oup.com/jas/article/96/4/1495/4871917	Liver transcriptomic and plasma metabolomic profiles of fattening lambs are modified by feed restriction during the suckling period 	AlbaSantos	ºñÀ° ¾çÀÇ °£ transcriptomic ÇÃ¶óÁî¸¶ ´ë»ç ¹°ÁúÀº À¯¾Æ °ø±Ş ±â°£ Á¦ÇÑ¿¡ ÀÇÇØ ¼öÁ¤
+journal of animal science	2018	4	ruminant	original article	https://academic.oup.com/jas/article/96/4/1508/4868578	"Effect of lemon leaves on energy and C<U+2013>N balances, methane emission, and milk performance in Murciano-Granadina dairy goats "	CarlosFernandez	·¹¸ó È¿°ú ¿¡³ÊÁö ÀÙ°ú C <U + 2013> N ÀÜ¾× Murciano-Granadina ³«³ó ??¿°¼Ò ¸ŞÅº ¹æÃâ ¿ìÀ¯ ¼º´É
+journal of animal science	2018	4	general	original article	https://academic.oup.com/jas/article/96/4/1531/4970664	BIG DATA ANALYTICS AND PRECISION ANIMAL AGRICULTURE SYMPOSIUM: Data to decisions 	BJWhite	ºò µ¥ÀÌÅÍ ºĞ¼® ¹× Á¤¹Ğ µ¿¹° ³ó¾÷ ½ÉÆ÷Áö¾ö : ÀÇ»ç °áÁ¤¿¡ µ¥ÀÌÅÍ
+journal of animal science	2018	4	general	original article	https://academic.oup.com/jas/article/96/4/1540/4828311	BIG DATA ANALYTICS AND PRECISION ANIMAL AGRICULTURE SYMPOSIUM: Machine learning and data mining advance predictive big data analysis in precision animal agriculture 	GotaMorota	ºò µ¥ÀÌÅÍ ºĞ¼® ¹× Á¤¹Ğ µ¿¹° ³ó¾÷ ½ÉÆ÷Áö¾ö : Á¤¹Ğ µ¿¹° ³ó¾÷ ±â°è ÇĞ½À ¹× µ¥ÀÌÅÍ ¸¶ÀÌ´×À» ¹Ì¸® ¿¹Ãø ºò µ¥ÀÌÅÍ ºĞ¼®
+journal of animal science	2018	4	general	original article	https://academic.oup.com/jas/article/96/4/1551/4925439	The essence of appetite: does olfactory receptor variation play a role? 	ErinEConnor	½Ä¿åÀÇ º»Áú : ÈÄ°¢ ¼ö¿ëÃ¼ÀÇ º¯È­°¡ Áß¿äÇÑ ¿ªÇÒÀ» ÇÏ´Â°¡?
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1678/4922473	In vivo ultrasound and biometric measurements predict the empty body chemical composition in Nellore cattle 	AMCastilhos	»ıÃ¼ ³»¿¡¼­ ÃÊÀ½ÆÄ »ıÃ¼ ÃøÁ¤ Nellore ¼Ò¿¡¼­ ºó ¸öÀÇ È­ÇĞ ¼ººĞÀ» ¿¹Ãø
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1806/4960001	The effect of cellobiose on the health status of growing rabbits depends on the dietary level of soluble fiber 	CesarOcasio-Vega	¼ºÀå Åä³¢ÀÇ °Ç°­ »óÅÂ¿¡ ´ëÇÑ ¼¿·Î ºñ¿À½ºÀÇ È¿°ú´Â ¼ö¿ë¼º½ÄÀÌ ¼¶À¯ÀÇ½ÄÀÌ ¼öÁØ¿¡ µû¶ó ´Ş¶óÁı´Ï´Ù
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1818/4944402	Prediction of digestible and metabolizable energy of corn distillers dried grains with solubles for growing pigs using in vitro digestible nutrients 	ZHuang	Ã¼¿Ü ¼ÒÈ­ ¿µ¾ç¼Ò¿¡ »ç¿ë À°¼ºµ·¿¡ ´ëÇÑ ¿ëÇØ¼º ¿Á¼ö¼ö Áõ·ù±âÀÇ ¼ÒÈ­ ¹× ´ë»ç ¿¡³ÊÁöÀÇ ¿¹Ãø °ÇÁ¶ °î¹°
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1825/4941673	Effects of dietary calcium to phosphorus ratio and addition of phytase on growth performance of nursery pigs                	FangzhouWu	ÀÎÀÇ ºñÀ² ÀÚµ· ¼ºÀå ¼º°ú¿¡ ÇÇÅ¸ ¾ÆÁ¦¸¦ Ã·°¡½ÄÀÌ Ä®½·ÀÇ È¿°ú
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1838/4925790	Effects of extrusion and microbial phytase on the apparent and standardized total tract digestibility of phosphorus in hemp hulls fed to growing pigs 	JWKim	´ë¸¶ ²®Áú¿¡¼­ ÀÎÀÇ ¸í¹éÇÑ Ç¥ÁØÈ­ µÈ ÀüÃ¼ ±â°ü ¼ÒÈ­À²¿¡ ¾ĞÃâ ¹× ¹Ì»ı¹° ÇÇÅ¸ ¾ÆÁ¦ÀÇ È¿°ú´Â ¼ºÀå µÅÁö¿¡ °ø±Ş
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1846/4925248	Impact of PRRSV infection and dietary soybean meal on ileal amino acid digestibility and endogenous amino acid losses in growing pigs                	WesleyPSchweer	È¸Àå ¾Æ¹Ì³ë»ê ¼ÒÈ­À² ¹× ¼ºÀå µÅÁö ³»ÀÎ¼º ¾Æ¹Ì³ë»ê ¼Õ½Ç¿¡ PRRSV °¨¿°°ú½ÄÀÌ ´ëµÎ¹ÚÀÇ ¿µÇâ
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1860/4925234	The contribution of digestible and metabolizable energy from high-fiber dietary ingredients is not affected by inclusion rate in mixed diets fed to growing pigs 	DMDLNavarro	°í ¼¶À¯Áú½ÄÀÌ ¼ººĞÀÇ ¼ÒÈ­ ¹× ´ë»ç ¿¡³ÊÁöÀÇ ±â¿©´Â ¼ºÀå µÅÁö¿¡ °ø±Ş È¥ÇÕ »ç·á¿¡ Æ÷ÇÔ ¼Óµµ¿¡ ¿µÇâÀ»¹ŞÁö ¾Ê½À´Ï´Ù
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1869/4870010	High-protein distillers dried grains with solubles produced using a novel front-end<U+2013>back-end fractionation technology has greater nutritional value than conventional distillers dried grains with solubles when fed to growing pigs 	CDEspinosa	°í ´Ü¹éÁú Áõ·ù±â »õ·Î¿î ÇÁ·ĞÆ® - ¿£µå¸¦ »ç¿ëÇÏ¿© Á¦Á¶ °¡¿ë¹°À» °¡Áø ÀÔÀÚ¸¦ °ÇÁ¶ <U + 2013> ¹é¿£µå ºĞ·ù ±â¼úÀº ¼ºÀå µÅÁö¿¡ °ø±Ş °¡¿ë¹°À» °¡Áø Á¾·¡ÀÇ Áõ·ù °ÇÁ¶ ÀÔÀÚº¸´Ù Å« °ªÀ» °®´Â ¿µ¾ç
+journal of animal science	2018	5	monogastric	original article	https://academic.oup.com/jas/article/96/5/1877/4979610	"Net energy content of rice bran, defatted rice bran, corn gluten feed, and corn germ meal fed to growing pigs using indirect calorimetry                "	ZhiqianLyu	"½Ò°Ü, Å»Áö ½Ò°Ü, ¿Á¼ö¼ö ±Û·çÅÙ ÇÇµå, ¿Á¼ö¼ö ¹è¾Æ ½Ä»çÀÇ ¼ø ¿¡³ÊÁö ÇÔ·®Àº °£Á¢ ¿­·®À» »ç¿ëÇÏ¿© ¼ºÀå µÅÁö¿¡ °ø±Ş"
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1903/4925262	Effects of increasing supplemental dietary Zn concentration on growth performance and carcass characteristics in finishing steers fed ractopamine hydrochloride 	OliviaNGenther-Schroeder	¼ö¼Û¾ÆÁö °ø±Ş ¶ôÅä ÆÄ¹Î ¿°»ê¿° ¸¶¹«¸® ¼ºÀå ¼º´É ¹× Æ¯¼º¿¡ µµÃ¼ Áõ°¡ º¸Ãæ½ÄÀÌ ¾Æ¿¬ ³óµµÀÇ ¿µÇâ
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1914/4922700	Estimates of diet selection in cattle grazing cornstalk residues by measurement of chemical composition and near infrared reflectance spectroscopy of diet samples collected by ruminal evacuation 	EmilyAPetzel	¹İÃßÀ§ ÅğÇÇ ÀÇÇØ ¼öÁı Á¶¼º ¹× ´ÙÀÌ¾îÆ® »ùÇÃÀÇ ±ÙÀû¿Ü¼± ºĞ±¤ ¹İ»çÀ²À» ÃøÁ¤ÇÏ¿© ¿Á¼ö¼ı´ë ÀÜ±â ¹æ¸ñ ¼ÒÀÇ½ÄÀÌ ¼±ÅÃ ÃßÁ¤
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1929/4920974	"Effects of dietary protein sources and nisin on rumen fermentation, nutrient digestion, plasma metabolites, nitrogen utilization, and growth performance in growing lambs "	JunshiShen	"¼ºÀå ¾çÀÇ ¹İÃßÀ§ ¹ßÈ¿, ¿µ¾ç¼Ò ¼ÒÈ­, ÇÃ¶óÁî¸¶ ´ë»ç ¹°Áú, Áú¼Ò È°¿ë, ¼ºÀå ¼º´É¿¡½ÄÀÌ ´Ü¹éÁú °ø±Ş¿ø ¹× ´Ï½ÅÀÇ È¿°ú"
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1939/4958201	Postruminal digestion of starch infused into the abomasum of heifers with or without exogenous amylase administration 	EdwinWestreicher-Kristen	ÀüºĞÀÇ Postruminal ¼ÒÈ­ ¶Ç´Â ¿ÜÀÎ¼º ¾Æ¹Ğ¶ó¾ÆÁ¦ °ü¸®¾øÀÌ ¾Ï¼ÒÀÇ ÁÖ¸§À§¿¡ ÁÖÀÔ
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1952/4922424	"Effects of crude glycerin from biodiesel on the diets of lambs: intake, digestibility, performance, feeding behavior, and serum metabolites "	RebecaDXRibeiro	"¼·Ãë, ¼ÒÈ­, ¼º´É, ¸ÔÀÌ Çàµ¿, Ç÷Ã» ´ë»ç : ¾çÀÇ ´ÙÀÌ¾îÆ®¿¡ ¹ÙÀÌ¿À µğÁ©¿¡¼­ ¿øÀ¯ ±Û¸®¼¼¸°ÀÇ È¿°ú"
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1962/4913645	Meta-analysis of lamb birth weight as influenced by pregnancy nutrition of multiparous ewes 	FernandoJRocaFraga	´Ù»ê ¾Ï¾çÀÇ ÀÓ½Å ¿µ¾çÀÇ ¿µÇâÀ¸·Î ¾ç°í±â Ãâ»ı Ã¼ÁßÀÇ ¸ŞÅ¸ ºĞ¼®
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1978/4908655	Supplementing goat kids with coconut medium chain fatty acids in early life influences growth and rumen papillae development until 4 months after supplementation but effects on in vitro methane emissions and the rumen microbiota are transient 	SieglindeDebruyne	ÃÊ±â »ıÈ°¿¡ ¿µÇâÀ» ¹ÌÄ£´Ù ¼ºÀå¿¡ ÄÚÄÚ³Ó ¸ÅÃ¼ »ç½½ Áö¹æ»ê ¿°¼Ò ¾ÆÀÌ¸¦ º¸Ãæ ¹× 4 °³¿ù ¼·Ãë ÈÄ±îÁö ¿ëÀÇÀÚ¸¦ °³¹ß ¹İÃßÀ§ÇÏÁö¸¸ Ã¼¿Ü ¸ŞÅº ¹èÃâ¿¡ È¿°ú¿Í ¹İÃßÀ§ ¹Ì»ı¹°Àº °úµµÇÏ´Ù
+journal of animal science	2018	5	ruminant	original article	https://academic.oup.com/jas/article/96/5/1996/4992782	Finishing performance and diet digestibility for feedlot steers fed corn distillers grains plus solubles and distillers solubles with and without oil extraction                	MLJolly-Breithaupt	¿Á¼ö¼ö Áõ·ù °î¹° ÇÃ·¯½º ¿ëÇØ¼º ¹× Áõ·ù °¡¿ë¼º ¹°Áú°ú ¿ÀÀÏ ÃßÃâÇÏÁö ¾Ê°í °ø±Ş »çÀ°Àå ¼ö¼Û¾ÆÁöÀÇ ¼º´É°ú ´ÙÀÌ¾îÆ® ¼ÒÈ­À²À» ¸¶¹«¸®
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2184/4969880	Determination of net energy content of dietary lipids fed to growing pigs using indirect calorimetry 	EnkaiLi	½ÄÀÌ ÁöÁúÀÇ ¼ø ¿¡³ÊÁö ÇÔ·®ÀÇ °áÁ¤Àº °£Á¢ ¿­·®À» »ç¿ëÇÏ¿© ¼ºÀå µÅÁö¿¡ °ø±Ş
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2265/4983097	"Effects of physicochemical characteristics of feed ingredients on the apparent total tract digestibility of energy, DM, and nutrients by growing pigs "	DiegoMDLNavarro	"¼ºÀå µÅÁö ¿¡³ÊÁö, DMÀÇ ¸í¹éÇÑ ÃÑ ±â°ü ¼ÒÈ­À²¿¡ »ç·á ¼ººĞÀÇ ¹°¸® È­ÇĞÀû Æ¯¼º¿¡ ¹ÌÄ¡´Â ¿µÇâ ¹× ¿µ¾ç"
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2278/4976429	Effect of roller mill configuration on growth performance of nursery and finishing pigs and milling characteristics 		º¸À°ÀÇ ¼ºÀå ¼º´É¿¡ ·Ñ·¯ ¹Ğ ±¸¼ºÀÇ È¿°ú ¹× ¸¶¹«¸® µÅÁö¿Í ¹Ğ¸µ Æ¯¼º
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2293/4972702	Effects of full fat rice bran and defatted rice bran on growth performance and carcass characteristics of growing-finishing pigs 	GloriaACasas	ºñÀ° µÅÁöÀÇ ¼ºÀå ¼º´É°ú µµÃ¼ Æ¯¼º¿¡ ´ëÇÑ ÀüÃ¼ Áö¹æ ½Ò°Ü¿Í Å»Áö ½Ò°ÜÀÇ È¿°ú
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2310/4994062	"Dietary D-xylose effects on growth performance, portal nutrient fluxes, and energy expenditure in growing pigs "	AttaKAgyekum	"À°¼ºµ·ÀÇ ¼ºÀå ¼º´É, Æ÷ÅĞ ¿µ¾ç ÇÃ·°½º ¹× ¿¡³ÊÁö ¼Òºñ¿¡½ÄÀÌ D-ÀÚÀÏ ·Î½º È¿°ú"
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2320/4976412	"Impact of sow energy status during farrowing on farrowing kinetics, frequency of stillborn piglets, and farrowing assistance "	TakeleFeyera	"ºĞ¸¸ ¹İÀÀ ¼Óµµ, »ç»ê ÀÚµ·ÀÇ ºóµµ, ºĞ¸¸ Áö¿ø¿¡ ºĞ¸¸½Ã ¸ğµ·ÀÇ ¿¡³ÊÁö »óÅÂÀÇ ¿µÇâ"
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2332/4975765	"Supplementation of guanidinoacetic acid to pig diets: effects on performance, carcass characteristics, and meat quality "	BalachandarJayaraman	"¼º´É¿¡ ´ëÇÑ ¿µÇâ, µµÃ¼ Æ¯¼º ¹× À°Áú : guanidinoacetic µÅÁö »ç·á¿¡ »êÀÇ º¸¿Ï"
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2342/4969323	"Effects of Lactobacillus reuteri LR1 on the growth performance, intestinal morphology, and intestinal barrier function in weaned pigs "	HongboYi	ÀÌÀ¯ÀÚµ·ÀÇ ¼ºÀå ¼º´É Àå ÇüÅÂ¿Í Àå Àåº® ±â´É¿¡ ¶ôÅä reuteri LR1 È¿°ú
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2352/4960036	Nutritive value of corn distiller¡¯s dried grains with solubles steeped without or with exogenous feed enzymes for 24 h and fed to growing pigs 	YoungjiRhoo	°¡¿ë¹° ¼ºÀå µÅÁö¾øÀÌ 24 ½Ã°£ µ¿¾È ¿Ü»ı °ø±Ş È¿¼Ò·Î °¡µæÇÑ ¹× °ø±Ş ¿Á¼ö¼ö Áõ·ù±âÀÇ °ÇÁ¶ °î¹°ÀÇ ¿µ¾ç °¡Ä¡
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2361/4944394	Ileal digestibility of amino acids in selected feed ingredients fed to young growing pigs 	GACasas	ÀşÀº ¼ºÀå µÅÁö¿¡ °ø±Ş ¼±ÅÃ »ç·á ¼ººĞÀÇ ¾Æ¹Ì³ë»ê È¸Àå ¼ÒÈ­À²
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2371/4994009	"Nitrogen retention, energy, and amino acid digestibility of wheat bran, without or with multicarbohydrase and phytase supplementation, fed to broiler chickens "	ConnieGallardo	"À°°è °ø±Ş¾øÀÌ ¶Ç´Â multicarbohydrase ¹× ÇÇÅ¸ º¸Ãæ Áú¼Ò °íÁ¤, ¿¡³ÊÁö, ¹Ğ±â¿ï ¾Æ¹Ì³ë»ê ¼ÒÈ­¼º,"
+journal of animal science	2018	6	monogastric	original article	https://academic.oup.com/jas/article/96/6/2380/4870008	Whole-body nitrogen utilization and tissue protein and casein synthesis in lactating primiparous sows fed low- and high-protein diets 	Lee-AnneHuber	ÃÊ»ê ¾ÏÅïÁö Á¥¿¡¼­ Àü½Å Áú¼Ò ÀÌ¿ë·ü ¹× Á¶Á÷ ´Ü¹éÁú ¹× Ä«Á¦ÀÎ ÇÕ¼º °ø±Ş ³·Àº °í´Ü¹é½ÄÀÌ
+journal of animal science	2018	6	ruminant	original article	https://academic.oup.com/jas/article/96/6/2438/4972789	Feed efficiency of tropically adapted cattle when fed in winter or spring in a temperate location 	SamWColeman	¿ÂÈ­ÇÑ À§Ä¡¿¡ °Ü¿ï ¶Ç´Â º½¿¡ °ø±Ş µÉ ¶§ ¿­´ë ÀûÀÀ °¡ÃàÀÇ »ç·á È¿À²
+journal of animal science	2018	6	ruminant	original article	https://academic.oup.com/jas/article/96/6/2453/4969900	"Dietary protein reduction on microbial protein, amino acids digestibility, and body retention in beef cattle. I. Digestibility sites and ruminal synthesis estimated by purine bases and 15N as markers "	LaysDeboraSilvaMariz	"¹Ì»ı¹° ´Ü¹éÁúÀÇ½ÄÀÌ ´Ü¹éÁú °¨¼Ò, ¾Æ¹Ì³ë»ê ¼ÒÈ­À² ¹× À°¿ìÀÇ ½ÅÃ¼ À¯Áö. I. ¼ÒÈ­À² »çÀÌÆ® ¹× ¸¶Ä¿ µî Ç»¸° ¿°±â¿Í 15N ÃßÁ¤ ¹İÃßÀ§ ÇÕ¼º"
+journal of animal science	2018	6	ruminant	original article	https://academic.oup.com/jas/article/96/6/2468/4962486	"Seroprevalence of Toxoplasma gondii and Neospora caninum infection in sheep, goats, and fallow deer farmed on the same area "	Bo<U+017C>enaMoskwa	"Åå¼Ò Æ÷ÀÚÃæ ¹× Neospora caninum ¾ç, ¿°¼Ò °¨¿°, ¹× ÈŞ °æÁö »ç½¿ÀÇ ¾ç¼º·üÀº °°Àº Áö¿ª¿¡ ³óÀå"
+journal of animal science	2018	6	ruminant	original article	https://academic.oup.com/jas/article/96/6/2474/5017503	An assessment of the effectiveness of virginiamycin on liver abscess incidence and growth performance in feedlot cattle: a comprehensive statistical analysis 	LuisOTedeschi	»çÀ°Àå °¡ÃàÀÇ °£ ³ó¾çÀÇ ¹ß»ı°ú ¼ºÀå ¼º´É¿¡ virginiamycinÀÇ È¿°úÀÇ Æò°¡ : Á¾ÇÕÀûÀÎ Åë°è ºĞ¼®
+journal of animal science	2018	6	ruminant	original article	https://academic.oup.com/jas/article/96/6/2490/4938566	Effects of feeding corn silage from short-season hybrids and extending the backgrounding period on production performance and carcass traits of beef cattle 	GwinaiEChibisa	ÂªÀº ½ÃÁğ¿¡¼­ ÀâÁ¾ ¿Á¼ö¼ö »ç·á¸¦ ¸ÔÀÌ ¹× À°¿ìÀÇ »ı»ê ¼º´É°ú µµÃ¼ÀÇ Æ¯¼º¿¡¼­ ¹è°æ Ã³¸® ±â°£À» ¿¬ÀåÇÏ´Â È¿°ú
+journal of animal science	2018	6	ruminant	original article	https://academic.oup.com/jas/article/96/6/2504/4931178	Comparison of trace mineral repletion strategies in feedlot steers to overcome diets containing high concentrations of sulfur and molybdenum 	SarahJHartman	»çÀ°Àå ¼ö¼Û¾ÆÁö ¹Ì·® ¹Ì³×¶ö Ãæ¸¸ Àü·«ÀÇ ºñ±³½ÄÀÌ À¯È² ¸ô¸®ºêµ§ °í³óµµ ÇÔÀ¯ ±Øº¹
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217310093	The effects of feeding a partial mixed ration plus a top-dress before feeding on milk production and the daily rhythm of feed intake and plasma hormones and metabolites in dairy cows	M.Niu	Á¥¼ÒÀÇ ¿ìÀ¯ »ı»ê°ú »ç·á ¼·Ãë·®ÀÇ ¸®µë°ú Ç÷Àå È£¸£¸ó ´ë»ç¿¡ °ø±ŞÇÏ±â Àü¿¡ ºÎºĞ ¹èÇÕ »ç·á ÇÃ·¯½º Åé µå·¹½º¸¦ °ø±ŞÇÏ´Â È¿°ú
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217310081	"Altering the ratio of dietary palmitic, stearic, and oleic acids in diets with or without whole cottonseed affects nutrient digestibility, energy partitioning, and production responses of dairy cows"	J.deSouza	"½ÄÀÌ ÆÈ ¹ÌÆ®, ½ºÅ×¾Æ¸£ÇÏ°í, ¶Ç´Â ÀüÃ¼ ¸ñÈ­¾¾¾øÀÌ ´ÙÀÌ¾îÆ®¿¡ ¿Ã·¹»ê »êÀÇ ºñÀ²À» º¯°æÇÏ¸é ¿µ¾ç¼Ò ¼ÒÈ­À², ¿¡³ÊÁö ºĞÇÒ ¹× Á¥¼ÒÀÇ »ı»ê ÀÀ´ä¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â"
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S002203021730975X	Effects of supplementing yeast culture to diets differing in starch content on performance and feeding behavior of dairy cows	A.L.G.Dias	¼º´É¿¡ ÀüºĞ ÇÔ·®ÀÌ ´Ù¸¥ ´ÙÀÌ¾îÆ®¿¡ È¿¸ğ ¹®È­¸¦ º¸¿ÏÇÏ°í Á¥¼ÒÀÇ Çàµ¿À» ¸ÔÀÌÀÇ È¿°ú
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309748	Effect of supplemental yeast culture and dietary starch content on rumen fermentation and digestion in dairy cows	A.L.G.Dias	Á¥¼ÒÀÇ ¹İÃßÀ§ ¹ßÈ¿ ¹× ¼ÒÈ­¿¡ º¸Ãæ È¿¸ğ ¹®È­¿Í½ÄÀÌ ÀüºĞ ÇÔ·®¿¡ ¹ÌÄ¡´Â ¿µÇâ
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309852	Characterization of linoleic acid (C18:2) concentration in commercial corn silage and grain hybrids	M.Baldin	¸®³î·¹»êÀÇ Æ¯¼º (C18 : 2) »ó¿ë ¿Á¼ö¼ö »ç·á °î¹° ÇÏÀÌºê¸®µå ³óµµ
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S002203021730927X	Describing temporal variation in reticuloruminal pH using continuous monitoring data	M.J.Denwood	¿¬¼Ó ¸ğ´ÏÅÍ¸µ µ¥ÀÌÅÍ¸¦ »ç¿ëÇÏ¿© pH¸¦ reticuloruminal ½Ã°£ º¯È­¸¦ ¼³¸íÇÏ±â
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309384	"Effects of Leymus chinensis replacement with whole-crop wheat hay on blood parameters, fatty acid composition, and microbiomes of Holstein bulls"	WenjingNiu	Ç÷¾× ÆÄ¶ó¹ÌÅÍ Áö¹æ»ê Á¶¼º¹°¿¡ ÀüÃ¼ °î¹° ¹Ğ °ÇÃÊ LeymusÀÌ ²É ´ëÃ¼ È¿°ú ¹× È¦½ºÅ¸ÀÎ ºÒ½º microbiomes
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309268	"Dry matter intake, body condition score, and grazing behavior of nonlactating, pregnant dairy cows fed kale or grass once versus twice daily during winter"	I.Rugoho	"°ÇÁ¶ ¹°Áú ¼·Ãë, ½ÅÃ¼ Á¶°Ç Á¡¼ö ¹× nonlactatingÀÇ ¹æ¸ñ Çàµ¿, °Ü¿ï µ¿¾È ÇÏ·ç¿¡ µÎ ¹ø ´ë È¸ ÄÉÀÏÀÌ³ª Ç®À» ¸ÔÀÌ ÀÓ½Å ÇÑ Á¥¼Ò"
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309645	"Effect of milk replacer feeding rate, age at weaning, and method of reducing milk replacer to weaning on digestion, performance, rumination, and activity in dairy calves to 4 months of age"	T.S.Dennis	"´ë¿ëÀ¯ÀÇ È¿°ú´Â ¼¼ 4 °³¿ù ³«³ó ¼Û¾ÆÁöÀÇ ¼Óµµ, ÀÌÀ¯¿¡¼­ ¿¬·É, ¼ÒÈ­, ¼º´É, ¹İÃß¿¡ ÀÌÀ¯¿¡ ´ë¿ëÀ¯¸¦ ÁÙÀÌ´Â ¹æ¹ı°ú È°µ¿À» ¸ÔÀÌ"
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S002203021730992X	Ruminal metabolism of grass silage soluble nitrogen fractions	S.Ahvenjarvi	ÀÜµğ »çÀÏ¸®Áö ¿ëÇØ¼º Áú¼Ò ºĞÈ¹ÀÇ ¹İÃßÀ§ ´ë»ç
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309906	Alterations in ruminal bacterial populations at induction and recovery from diet-induced milk fat depression in dairy cows	D.W.Pitta	Á¥¼ÒÀÇ ±ÔÁ¤¿¡ ÀÇÇÑ ¿ìÀ¯ÀÇ Áö¹æ ¿ì¿ïÁõ¿¡¼­ À¯µµ ¹× º¹±¸¿¡¼­ ¹İÃßÀ§ ¼¼±Õ Áı´ÜÀÇ º¯°æ
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309943	Predicting milk protein responses and the requirement of metabolizable protein by lactating dairy cows	L.E.Moraes	Á¥¼Ò Á¥À¸·Î ¿ìÀ¯ ´Ü¹éÁú ¹İÀÀ°ú ´ë»ç ´Ü¹éÁúÀÇ ¿ä±¸ »çÇ×À» ¿¹Ãø
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217310068	"Effects of replacing soybean meal with canola meal or treated canola meal on ruminal digestion, omasal nutrient flow, and performance in lactating dairy cows"	E.M.Paula	Á¥¼ÒÀÇ Á¥À» Ä³³î¶ó ½Ä»ç ¶Ç´Â ¹İÃßÀ§ ¼ÒÈ­ omasal ¿µ¾ç¼Ò Èå¸§ Ã³¸® ³î¶ó ½Ä»ç ¹× ¼º´É ´ëµÎ¹Ú ´ëÃ¼ È¿°ú
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309931	Meta-analysis to predict the effects of metabolizable amino acids on dairy cattle performance	I.J.Lean	Á¥¼ÒÀÇ ¼º´É¿¡ ´ë»ç ¾Æ¹Ì³ë»êÀÇ È¿°ú¸¦ ¿¹ÃøÇÏ´Â ¸ŞÅ¸ ºĞ¼®
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309360	"Growth performance, rumen fermentation, nutrient utilization, and metabolic profile of dairy heifers limit-fed distillers dried grains with ad libitum forage"	A.K.Manthey	"¼ºÀå ¼º´É, ¹İÃßÀ§ ¹ßÈ¿, ¿µ¾ç È°¿ë, ³«³ó ¾Ï¼ÒÀÇ ´ë»ç ÇÁ·ÎÆÄÀÏ Á¦ÇÑ - °ø±Ş Áõ·ù±â ±¤°í ÀÓÀÇ·Î »ç·á¿Í °î¹°À» °ÇÁ¶"
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S002203021731007X	Effect of 2-hydroxy-4-(methylthio)butanoate (HMTBa) on risk of biohydrogenation-induced milk fat depression	M.Baldin	biohydrogenation À¯µµ À¯Áö¹æ ¿ì¿ïÁõÀÇ À§Çè¿¡ 2- ÇÏÀÌµå ·Ï½Ã -4- (¸ŞÆ¿ Æ¼¿À) ºÎÅ¸ (HMTBa) È¿°ú
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217310044	Lowering rumen-degradable and rumen-undegradable protein improved amino acid metabolism and energy utilization in lactating dairy cows exposed to heat stress	J.D.Kaufman	Àı°¨ ¹İÃßÀ§ ºĞÇØ¼º ¿­ ½ºÆ®·¹½º¿¡ ³ëÃâ Á¥¼Ò¸¦ ¼öÀ¯ ¹× ¹İÃßÀ§ - ºñ ºĞÇØ¼º ´Ü¹éÁú °³¼± ¾Æ¹Ì³ë»ê ´ë»ç¿Í ¿¡³ÊÁö È°¿ë
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217310111	Short communication: The effects of morning compared with evening feed delivery in lactating dairy cows during the summer	M.Niu	ÂªÀº Åë½Å : ¿©¸§ µ¿¾È ¼öÀ¯ Á¥¼Ò¿¡¼­ Àú³á °ø±Ş Àü´Ş¿¡ ºñÇØ ¾ÆÄ§ÀÇ È¿°ú
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309621	Short communication: The effect of heat treatment of bovine colostrum on the concentration of oligosaccharides in colostrum and in the intestine of neonatal male Holstein calves	AmandaJ.Fischer	ÂªÀº Åë½Å : ÃÊÀ¯ ½Å»ı¾Æ ³²¼º È¦½ºÅ¸ÀÎ ¼Û¾ÆÁö Àå³» ¿Ã¸®°í´çÀÇ ³óµµ¿¡ ¼Ò ÃÊÀ¯ ¿­Ã³¸® È¿°ú
+journal of dairy science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S0022030217309402	Short communication: Effect of replacing corn with beet pulp in a high concentrate diet fed to weaned Holstein calves on diet digestibility and growth	T.S.Dennis	ÂªÀº Åë½Å : ´ÙÀÌ¾îÆ® ¼ÒÈ­À² ¹× ¼ºÀå ÀÌÀ¯ È¦½ºÅ¸ÀÎ ¼Û¾ÆÁö °ø±Ş ³ôÀº ³óÈÄ »ç·áÀÇ »çÅÁ¹« ÆŞÇÁ ¿Á¼ö¼ö ´ëÃ¼ È¿°ú
+journal of dairy science	2018	2	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030217310664	Invited review: Practical feeding management recommendations to mitigate the risk of subacute ruminal acidosis in dairy cattle	E.Humer	ÃÊÃ» ¸®ºä : ½ÇÁ¦ °ø±Ş °ü¸® ±ÇÀå Á¥¼Ò¿¡¼­ ¾Æ ±Ş¼º ¹İÃßÀ§ »êÁõÀÇ À§ÇèÀ» ¿ÏÈ­ÇÏ±â
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311487	"Dynamics of methanogenesis, ruminal fermentation, and alfalfa degradation during adaptation to monensin supplementation in goats"	Z.J.Li	"¿°¼ÒÀÇ ³Ù½Å º¸Ãæ ÀûÀÀ Áß ¸ŞÅº, ¹İÃßÀ§ ¹ßÈ¿ ¹× ¾ËÆÈÆÄ ºĞÇØ ¿ªÇĞ"
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311037	Using video microscopy to improve quantitative estimates of protozoal motility and cell volume	B.A.Wenner	ºñµğ¿À Çö¹Ì°æÀ» »ç¿ëÇÏ¿© Ãæ¼º ¿îµ¿¼º ¹× ¼¼Æ÷ º¼·ıÀÇ Á¤·®Àû ÃßÁ¤À» °³¼±ÇÏ±â À§ÇØ
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311116	Effects of straw processing and pen overstocking on the growth performance and sorting characteristics of diets offered to replacement Holstein dairy heifers	W.K.Coblentz	»ç·áÀÇ Æ¯¼ºÀ» ¼ºÀå ¼º´É ¹× Á¤·Ä overstocking Â¤ Ã³¸® ¹× Ææ È¿°ú ¿©ºĞ È¦½ºÅ¸ÀÎ ³«³ó ¾Ï¼Ò¿¡°Ô Á¦¾È
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311189	Effects of supplementation with ruminally protected choline on performance of multiparous Holstein cows did not depend upon prepartum caloric intake	M.G.Zenobi	´Ù»ê È¦½ºÅ¸ÀÎ Á¥¼ÒÀÇ ¼º´É¿¡ ruminally º¸È£ Äİ¸°°ú º¸ÃæÀÇ È¿°ú prepartum Ä®·Î¸® ¼·Ãë·®¿¡ ÀÇÁ¸ÇÏÁö ¾Ê¾Ò´Ù
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311050	"Effects of rumen-degradable protein:rumen-undegradable protein ratio and corn processing on production performance, nitrogen efficiency, and feeding behavior of Holstein dairy cows"	M.Savari	¹İÃßÀ§ ºĞÇØ¼º ´Ü¹éÁúÀÇ È¿°ú : ¹İÃßÀ§ - ´Ü¹éÁú ºĞÇØ¼º ºñ »ı»ê ¼º´É ¿Á¼ö¼ö °¡°ø Áú¼Ò È¿À²¼º ¹× È¦½ºÅ¸ÀÎ Á¥¼ÒÀÇ °ø±Ş µ¿ÀÛ
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217310950	Predicting nutrient digestibility in high-producing dairy cows	R.A.deSouza	³ôÀº »ı»êÇÏ´Â Á¥¼ÒÀÇ ¿¹Ãø ¿µ¾ç¼Ò ¼ÒÈ­À²
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311256	Plant oil supplements reduce methane emissions and improve milk fatty acid composition in dairy cows fed grass silage-based diets without affecting milk yield	A.R.Bayat	½Ä¹° ¿ÀÀÏ º¸Ãæ ¸ŞÅº ¹èÃâÀ» ÁÙÀÌ°í ¿ìÀ¯ »ı»ê·®¿¡ ¿µÇâÀ»ÁÖÁö ¾Ê°í ÀÜµğ »ç·á ±â¹İ ´ÙÀÌ¾îÆ®¸¦ ¸ÔÀÌ Á¥¼Ò¿¡¼­ ¿ìÀ¯ÀÇ Áö¹æ»ê ±¸¼ºÀ» °³¼±
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311621	Effects of magnesium source and monensin on nutrient digestibility and mineral balance in lactating dairy cows	A.W.Tebbe	Á¥¼ÒÀÇ Á¥À» ¿µ¾ç¼Ò ¼ÒÈ­¼º ¹Ì³×¶ö ¹ë·±½ºÀÇ ¸¶±×³×½· ¿ø ¹× ³Ù½Å È¿°ú
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217310986	Predicting omasal flow of nonammonia N and milk protein yield from in vitro-determined utilizable crude protein at the duodenum	H.Gidlund	nonammonia¿¡¼­ÀÇ NÀÇ ¿ìÀ¯ ´Ü¹éÁú ¼öÀ² omasal Èå¸§ ¿¹Ãø ½ÊÀÌÁöÀå¿¡¼­ utilizable Á¶´Ü¹éÁúÀ» Ã¼¿Ü °áÁ¤µÈ
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217310998	Effects of replacement of late-harvested grass silage and barley with early-harvested silage on ruminal digestion efficiency in lactating dairy cows	E.H.Cabezas-Garcia	Á¥¼Ò ¼öÀ¯ÀÇ ¹İÃßÀ§ ¼ÒÈ­ È¿À²¿¡ Á¶±â ¼öÈ® »çÀÏ¸®Áö¿Í ´ÊÀº ¼öÈ® ÀÜµğ »çÀÏ¸®Áö º¸¸®ÀÇ ´ëÃ¼ È¿°ú
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311323	Utilization of protein in red clover and alfalfa silages by lactating dairy cows and growing lambs	GlenA.Broderick	¾çÀ» Á¥¼Ò¸¦ ¼öÀ¯ ¹× ¼ºÀå¿¡ ÀÇÇØ ·¹µå Å¬·Î¹ö ¹× ¾ËÆÈÆÄ »çÀÏ¸®Áö ´Ü¹éÁúÀÇ È°¿ë
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217310767	"Evaluation of carinata meal as a feedstuff for growing dairy heifers: Effects on growth performance, rumen fermentation, and total-tract digestibility of nutrients"	K.Rodriguez-Hernandez	"¼ºÀå ¼º´É¿¡ ¹ÌÄ¡´Â ¿µÇâ, ¹İÃßÀ§ ¹ßÈ¿ ¹× ¿µ¾ç¼ÒÀÇ ÃÑ ¼ÒÈ­±â ¼ÒÈ­À² : ¼ºÀå ³«³ó ¾Ï¼Ò¿¡ ´ëÇÑ »ç·á µî carinata ½Ä»çÀÇ Æò°¡"
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S002203021731158X	Replacing maize silage plus soybean meal with red clover silage plus wheat in diets for lactating dairy cows	FranziskaSchulz	Á¥¼Ò Á¥ À§ÇØ ´ÙÀÌ¾îÆ®¿¡ ·¹µå Å¬·Î¹ö »çÀÏ¸®Áö ÇÃ·¯½º ¹Ğ ¿Á¼ö¼ö »çÀÏ¸®Áö ÇÃ·¯½º ´ëµÎ¹Ú ±³Ã¼
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217310858	Short communication: Decreasing the dietary ratio of n-6 to n-3 fatty acids increases the n-3 concentration of peripheral blood mononuclear cells in weaned Holstein heifer calves	L.C.Worden	ÂªÀº Åë½Å : N-3 Áö¹æ»ê N-6ÀÇ½ÄÀÌ ºñÀ²À» ÁÙÀÌ´Â ÀÌÀ¯´Â È¦½ºÅ¸ÀÎ ¾Ï¼Ò ¼Û¾ÆÁö ¸»ÃÊ Ç÷¾× ´ÜÇÙ ¼¼Æ÷ÀÇ N-3 ³óµµ°¡ Áõ°¡
+journal of dairy science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311499	Technical note: Near infrared reflectance spectroscopy to predict fecal indigestible neutral detergent fiber for dairy cows	N.Brogna	±â¼ú Á¤º¸ : ±ÙÃ³ Àû¿Ü¼± ¹İ»ç ºĞ±¤´Â Á¥¼Ò ¹è¼³¹° ¼ÒÈ­ Áß¼º ¼¼Á¦ ¼¶À¯¸¦ ¿¹ÃøÇÏ´Â
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300341	Effects of acetic acid or sodium acetate infused into the rumen or abomasum on feeding behavior and metabolic response of cows in the postpartum period	LauraB.Gualdron-Duarte	¾Æ¼¼Æ®»ê ¶Ç´Â ¾Æ¼¼Æ®»ê ³ªÆ®·ı È¿°ú ±ŞÁö µ¿ÀÛ ¹× »êÈÄ ±â°£ ¼ÒÀÇ ´ë»ç ¹İÀÀ¿¡ ¹İÃßÀ§¿¡ ÁÖÀÔ ¶Ç´Â ÁÖ¸§À§
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311451	Inclusion of calcium hydroxide-treated corn stover as a partial forage replacement in diets for lactating dairy cows	BrittanyA.Casperson	Á¥¼Ò ¿ë »ç·á¿¡ Á¥À» ºÎºĞ ¸ñÃÊ ´ëÃ¼ ¼ö»êÈ­Ä®½· Ã³¸® ¿Á¼ö¼ö ¿©¹°ÀÇ Æ÷ÇÔ
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311712	Nutritional composition and in vitro digestibility of grass and legume winter (cover) crops	A.N.Brown	¿µ¾ç ¼ººĞ°ú ÀÜµğ¿Í Äá°ú ½Ä¹° °Ü¿ï ??(Ä¿¹ö) ÀÛ¹°ÀÇ Ã¼¿Ü ¼ÒÈ­¿¡
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311669	Bacterial diversity and composition of alfalfa silage as analyzed by Illumina MiSeq sequencing: Effects of Escherichia coli O157:H7 and silage additives	I.M.Ogunade	ÀÏ·ç¹Ì³ª MiSeq ¼­¿­ ºĞ¼® ¹ÚÅ×¸®¾Æ ´Ù¾ç¼º ¾ËÆÈÆÄ »ç·áÀÇ Á¶¼º : ´ëÀå±Õ O157ÀÇ È¿°ú : H7 ¹× »ç·á Ã·°¡Á¦
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311864	Relative bioavailability of carnitine delivered by ruminal or abomasal infusion or by encapsulation in dairy cattle	K.E.Olagaray	¹İÃßÀ§ ¶Ç´Â 4 À§ ÁÖÀÔ¿¡ ÀÇÇØ ¶Ç´Â Á¥¼ÒÀÇ Ä¸½¶È­¿¡ ÀÇÇØ Àü´Ş Ä«¸£´ÏÆ¾ÀÇ »ó´ë »ıÃ¼ ÀÌ¿ë·ü
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217312134	"Influence of feeding supplements of almond hulls and ensiled citrus pulp on the milk production, milk composition, and methane emissions of dairy cows"	S.R.O.Williams	"Á¥¼ÒÀÇ ¾Æ¸óµå ²®ÁúÀÇ ¸ÔÀÌ º¸ÃæÇÏ°í ¿ìÀ¯ »ı»ê¿¡ ensiled °¨±Ö·ù ÆŞÇÁ, ¿ìÀ¯ ¼ººĞÀÇ ¿µÇâ, ¸ŞÅº ¹èÃâ"
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217312067	Lactation response to soybean meal and rumen-protected methionine supplementation of corn silage-based diets	H.Nursoy	´ëµÎ¹Ú°ú ¿Á¼ö¼ö »çÀÏ¸®Áö ±â¹İ ´ÙÀÌ¾îÆ®ÀÇ ¹İÃßÀ§ º¸È£ ¸ŞÆ¼¿À´Ñ º¸Ãæ¿¡ ¼öÀ¯ ÀÀ´ä
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311888	Replacing ground corn with incremental amounts of liquid molasses does not change milk enterolactone but decreases production in dairy cows fed flaxseed meal	C.P.Ghedini	¾×Ã¼ ´ç¹ĞÀÇ Áõ°¡ ¾çÀÇ Áö»ó ¿Á¼ö¼ö ±³Ã¼ ¿ìÀ¯ ¿£Å×·Î ¶ôÅæÀ» º¯°æÇÏÁö¸¸ Á¥¼Ò¿¡¼­ »ı»ê °ø±Ş ¾Æ¸¶¾¾ ½Ä»ç¸¦ °¨¼ÒÇÏÁö ¾Ê½À´Ï´Ù
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217312109	The relationship between milk metabolome and methane emission of Holstein Friesian dairy cows: Metabolic interpretation and prediction potential	S.vanGastelen	´ë»ç ÇØ¼®°ú ¿¹Ãø °¡´É¼º : ¿ìÀ¯ ´ë»ç Ã¼ ¹× È¦½ºÅ¸ÀÎ Á¥¼ÒÀÇ ¸ŞÅº ¹æÃâ °ü°è
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217311797	"Production, milk and plasma fatty acid profile, and nutrient utilization in Jersey cows fed flaxseed oil and corn grain with different particle size"	V.Brossillon	"ÀúÁö ¼Ò »ı»ê ¿ìÀ¯ ÇÃ¶óÁî¸¶ Áö¹æ»ê ÇÁ·ÎÇÊ°ú ¿µ¾çºĞ È°¿ëµµ°¡ ´Ù¸¥ ÀÔµµ ±â¸§, ¿Á¼ö¼ö °î¹° ¾Æ¸¶¾¾ ¸ÔÀÎ"
+journal of dairy science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030217312225	"Short communication: Effects of dietary 5,6-dimethylbenzimidazole supplementation on vitamin B12 supply, lactation performance, and energy balance in dairy cows during the transition period and early lactation"	D.M.Wang	"ÂªÀº Åë½Å : °úµµ±â ¹× ÃÊ±â ¼öÀ¯ µ¿¾È Á¥¼Ò ºñÅ¸¹Î B12 °ø±Ş ¼öÀ¯ ¼º´É ¹× ¿¡³ÊÁö ±ÕÇü¿¡ 5,6-½ÄÀÌ º¸ÃæÁ¦ÀÇ È¿°ú dimethylbenzimidazole"
+journal of dairy science	2018	4	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218300614	"Invited review: Mineral absorption mechanisms, mineral interactions that affect acid<U+2013>base and antioxidant status, and diet considerations to improve mineral status"	JesseP.Goff	"ÃÊÃ» °ËÅä : ¹Ì³×¶ö Èí¼ö ¸ŞÄ¿´ÏÁò, <U + 2013>º£ÀÌ½º¿Í Ç×»êÈ­ »óÅÂ, ´ÙÀÌ¾îÆ® °í·Á ¹Ì³×¶ö »óÅÂ¸¦ °³¼±ÇÏ±â À§ÇØ »ê¿¡ ¿µÇâÀ»ÁÖ´Â ¹Ì³×¶öÀÇ »óÈ£ ÀÛ¿ë"
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300961	Effect of adding clay with or without a Saccharomyces cerevisiae fermentation product on the health and performance of lactating dairy cows challenged with dietary aflatoxin B1	Y.Jiang	¶Ç´Â½ÄÀÌ ¾ÆÇÃ¶óÅå½Å B1°ú µµÀü °Ç°­°ú ¼öÀ¯ Á¥¼ÒÀÇ ¼º´É¿¡ »çÄ« cerevisiaeÀÇ ¹ßÈ¿ Á¦Ç° ¾Ê°í Á¡Åä¸¦ Ãß°¡ÇÏ´Â È¿°ú
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300936	Effect of dietary fish oil supplements alone or in combination with sunflower and linseed oil on ruminal lipid metabolism and bacterial populations in lactating cows	P.Kairenius	½ÄÀÌ »ı¼± ±â¸§ º¸ÃæÁ¦ ´Üµ¶ ¶Ç´Â ¼öÀ¯ Á¥¼ÒÀÇ ¹İÃßÀ§ ÁöÁú ´ë»ç ¹× ¼¼±Õ Áı´Ü¿¡ ÇØ¹Ù¶ó±â¿Í ¾Æ¸¶¾¾ ±â¸§°ú °áÇÕÀÇ È¿°ú
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300596	"Effects of feeding hulled and hull-less barley with low- and high-forage diets on lactation performance, nutrient digestibility, and milk fatty acid composition of lactating dairy cows"	Y.Yang	"°ø±Ş È¿°ú´Â »ı°­°ú Á¥¼ÒÀÇ Á¥À» ·Î¿ì ¹× ÇÏÀÌ Æ÷¸® ¼öÀ¯ ¼º´É »ç·á ¿µ¾ç¼Ò ¼ÒÈ­¼º, ¿ìÀ¯ Áö¹æ»ê Á¶¼º ¼±Ã¼¾ø´Â º¸¸®"
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300560	"Long-term palmitic acid supplementation interacts with parity in lactating dairy cows: Production responses, nutrient digestibility, and energy partitioning"	J.deSouza	"Á¦Á¶ ¹İÀÀ, ¿µ¾ç¼Ò ¼ÒÈ­¼º ¿¡³ÊÁö ºĞÇÒ : Àå±â ÆÈ¹ÌÆ¾»ê º¸Ãæ Á¥¼Ò Á¥ ÆĞ¸®Æ¼¿Í »óÈ£"
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300511	"Bacterial and fungal communities, fermentation, and aerobic stability of conventional hybrids and brown midrib hybrids ensiled at low moisture with or without a homo- and heterofermentative inoculant"	J.J.Romero	"¼¼±Õ°ú °õÆÎÀÌ »çÈ¸, ¹ßÈ¿ ¹× ¶Ç´Â È£¸ğ¿Í heterofermentative Á¢Á¾¾øÀÌ ³·Àº ¼öºĞ¿¡ ensiled ±âÁ¸ÀÇ ÇÏÀÌºê¸®µå¿Í °¥»ö ÁÖ¸Æ ÇÏÀÌºê¸®µåÀÇ È£±â¼º ¾ÈÁ¤¼º"
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301061	Temporal effects of ruminal propionic acid infusion on feeding behavior of Holstein cows in the postpartum period	GabrielaMaldini	»êÈÄ ±â°£ È¦½ºÅ¸ÀÎ Á¥¼ÒÀÇ µ¿ÀÛ¿¡ °ø±Ş ¹İÃßÀ§ ÇÁ·ÎÇÇ¿Â»ê ÁÖÀÔ ½Ã°£Àû È¿°ú
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300845	"Graded substitution of grains with bakery by-products modulates ruminal fermentation, nutrient degradation, and microbial community composition in vitro"	E.Humer	"ºÎ»ê¹° »§Áı°ú °î¹°ÀÇ µî±Ş ´ëÃ¼ ¹İÃßÀ§ ¹ßÈ¿, ¿µ¾ç ÀúÇÏ, Ã¼¿Ü¿¡¼­ ¹Ì»ı¹° ±ºÁı ±¸¼ºÀ» º¯Á¶"
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300651	Effect of delaying colostrum feeding on passive transfer and intestinal bacterial colonization in neonatal male Holstein calves	A.J.Fischer	½Å»ı¾Æ ³²¼º È¦½ºÅ¸ÀÎ ¼Û¾ÆÁö ¼öµ¿ ÀÌ¼Û Àå³» ¹ÚÅ×¸®¾Æ ±ºÃ¼ÀÇ Áö¿¬ ÃÊÀ¯ °ø±ŞÀÇ È¿°ú
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300687	Short communication: Comparison of a palmitic acid-enriched triglyceride supplement and calcium salts of palm fatty acids supplement on production responses of dairy cows	J.deSouza	ÂªÀº Åë½Å : Á¥¼ÒÀÇ »ı»ê ÀÀ´ä ÆÊ Áö¹æ»ê º¸ÃæÁ¦ÀÇ ÆÈ ¹ÌÆ® »ê (palmitic acid)ÀÌ Ç³ºÎÇÑ Áß¼º Áö¹æ º¸ÃæÁ¦¿Í Ä®½· ¿°ÀÇ ºñ±³
+journal of dairy science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301024	Short communication: Field study to investigate the associations between herd-level risk factors for milk fat depression and bulk tank milk fat percent in dairy herds feeding monensin	M.M.McCarthy	ÂªÀº Åë½Å : ÇöÀå ¿¬±¸´Â ¸ğ ³Ù½Å¸¦ °ø±Ş ³«³ó°¡¿¡¼­ ¿ìÀ¯ Áö¹æ ¿ì¿ïÁõ°ú ¹úÅ© ÅÊÅ© À¯Áö¹æ %¸¦ ¹«¸® ¼öÁØÀÇ À§Çè ÀÎÀÚ »çÀÌÀÇ ¿¬°ü¼ºÀ» Á¶»çÇÏ±â
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303187	Journal of Dairy Science Silage Special Issue: Introduction	RichardJ.Grant	³«³ó °úÇĞ ¸ñÃÊ Æ¯ÁıÀÇ Àú³Î : ¼Ò°³
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303199	Silage review: Recent advances and future technologies for whole-plant and fractionated corn silage harvesting	L.F.Ferraretto	¸ñÃÊ °ËÅä : ÀüÃ¼ ½Ä¹°°ú ºĞº° ¿Á¼ö¼ö »çÀÏ¸®Áö ¼öÈ®¿¡ ´ëÇÑ ÃÖ±ÙÀÇ ¹ßÀü°ú ¹Ì·¡ ±â¼ú
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303205	Silage review: Factors affecting dry matter and quality losses in silages	G.Borreani	¸ñÃÊ °ËÅä : »çÀÏ¸®ÁöÀÇ °ÇÁ¶ ¹°Áú°ú Ç°Áú ¼Õ½Ç¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â ¿äÀÎ
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303229	Silage review: Recent advances and future uses of silage additives	R.E.Muck	¸ñÃÊ °ËÅä : ÃÖ±Ù ¹ßÀü°ú ¹Ì·¡´Â »çÀÏ¸®Áö Ã·°¡Á¦ÀÇ »ç¿ë
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303230	Silage review: Unique challenges of silages made in hot and cold regions	T.F.Bernardes	¸ñÃÊ °ËÅä : ´õÀ§¿Í ÃßÀ§ Áö¿ª¿¡¼­ ¸¸µç »çÀÏ¸®ÁöÀÇ °íÀ¯ °úÁ¦
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303242	"Silage review: Interpretation of chemical, microbial, and organoleptic components of silages"	LiminKungJr.	"¸ñÃÊ °ËÅä : È­ÇĞ, ¹Ì»ı¹°ÀÇ ÇØ¼® ¹× »çÀÏ¸®ÁöÀÇ °ü´É ±¸¼º ¿ä¼Ò"
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303254	"Silage review: Mycotoxins in silage: Occurrence, effects, prevention, and mitigation"	I.M.Ogunade	"¸ñÃÊ °ËÅä : »çÀÏ¸®ÁöÀÇ ¸¶ÀÌÄÚ Åå½Å : ¹ß»ı, È¿°ú, ¿¹¹æ ¹× ¿ÏÈ­"
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303266	Silage review: Using molecular approaches to define the microbial ecology of silage	T.A.McAllister	¸ñÃÊ °ËÅä : ºĞÀÚ ¹æ¹ıÀ» »ç¿ëÇÏ¿© »çÀÏ¸®ÁöÀÇ ¹Ì»ı¹° »ıÅÂ¸¦ Á¤ÀÇÇÏ´Â
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303278	Silage review: Recent advances and future technologies for baled silages	W.K.Coblentz	¸ñÃÊ °ËÅä : ÃÖ±Ù ¹ßÀü°ú ÁüÂ¦ »çÀÏ¸®Áö¸¦À§ÇÑ ¹Ì·¡ ±â¼ú
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S002203021830328X	Silage review: Animal and human health risks from silage	F.Driehuis	¸ñÃÊ °ËÅä : »çÀÏ¸®Áö¿¡¼­ µ¿¹°°ú ÀÎ°£ÀÇ °Ç°­ À§Çè
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303291	Silage review: Silage feeding management: Silage characteristics and dairy cow feeding behavior	R.J.Grant	¸ñÃÊ °ËÅä : ¸ñÃÊ °ø±Ş °ü¸® : ¸ñÃÊ Æ¯¼º°ú Á¥¼Ò ¸ÔÀÌ Çàµ¿
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303308	Silage review: Safety considerations during silage making and feeding	KeithK.Bolsen	¸ñÃÊ °ËÅä : »çÀÏ¸®Áö Á¦ÀÛ ¹× °ø±Ş½Ã ¾ÈÀü °í·Á »çÇ×
+journal of dairy science	2018	5	ruminant	review	https://www.sciencedirect.com/science/article/pii/S002203021830331X	Silage review: Foodborne pathogens in silage and their mitigation by silage additives	O.C.M.Queiroz	¸ñÃÊ °ËÅä : »çÀÏ¸®ÁöÀÇ ½ÄÇ° ¸Å°³ º´¿øÃ¼ ¹× »ç·á Ã·°¡Á¦¿¡ ÀÇÇØ ÀÚ½ÅÀÇ ¿ÏÈ­
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301620	"Effects of forage source and forage particle size as a free-choice provision on growth performance, rumen fermentation, and behavior of dairy calves fed texturized starters"	H.Omidi-Mirzaei	"¼ºÀå ¼º´É, ¹İÃßÀ§ ¹ßÈ¿, À¯Á¦Ç° ¼Û¾ÆÁöÀÇ Çàµ¿¿¡ ÀÚÀ¯ ¼±ÅÃ Á¶Ç×À¸·Î »ç·á ¼Ò½º ¹× Æ÷¸® ÀÔÀÚ Å©±âÀÇ È¿°ú´Â ÃË°¨ÀÌ ½ºÅ¸ÅÍ °ø±Ş"
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301334	Fermentation and aerobic stability of rehydrated corn grain silage treated with different doses of Lactobacillus buchneri or a combination of Lactobacillus plantarum and Pediococcus acidilactici	N.C.daSilva	´Ù¸¥ ¹ßÈ¿ À¯»ê±Õ buchneri Åõ¿© ¶Ç´Â ¶õÅ¸ ·ë (Lactobacillus plantarum) ¹× Æäµğ acidilacticiÀÇ Á¶ÇÕÀ¸·Î Ã³¸® Àç¼ö ¿Á¼ö¼ö °î¹° »ç·áÀÇ È£±â¼º ¾ÈÁ¤¼º
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301346	"The effect of tube versus bottle feeding colostrum on immunoglobulin G absorption, abomasal emptying, and plasma hormone concentrations in newborn calves"	M.Desjardins-Morrissette	"°« ÅÂ¾î³­ ¼Û¾ÆÁö¿¡ ¼öÀ¯ ±Û·ÎºÒ¸° G Èí¼ö¿¡ ÃÊÀ¯ ºñ¿ì°í 4 À§, ÇÃ¶óÁî¸¶ È£¸£¸ó ³óµµ ´ë °üÀÇ È¿°ú"
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301358	The effect of alfalfa (Medicago sativa) silage chop length and inclusion rate within a total mixed ration on the ability of lactating dairy cows to cope with a short-term feed withholding and refeeding challenge	A.L.Thomson	ÆÄÀÇ ¿µÇâÀº (´Â Medicago sativa¿¡¼­) ¼öÀ¯ Á¥¼ÒÀÇ ´É·Â¿¡ ¿ÏÀü ¹èÇÕ »ç·á ³»¿¡ µé¾î¿Â´Ù ¿Á¼ö ±æÀÌ ¹× Æ÷Á¢ ºñÀ²Àº ´Ü±â °ø±Ş ¿øÃµ ¹× Àç ÀÌ¼Û °úÁ¦¿¡ ´ëÃ³
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218300274	Identification of biological traits associated with differences in residual energy intake among lactating Holstein cows	A.Fischer	È¦½ºÅ¸ÀÎ Á¥¼Ò ¼öÀ¯ Áß ÀÜ·ù ¿¡³ÊÁö ¼·Ãë·®ÀÇ Â÷ÀÌ¿Í °ü·ÃµÈ »ı¹°ÇĞÀû Æ¯¼ºÀÇ ½Äº°
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301504	"Effects of preweaning total plane of milk intake and weaning age on intake, growth performance, and blood metabolites of dairy calves"	M.Mirzaei	"À¯Á¦Ç° ¼Û¾ÆÁöÀÇ ´ë»ç ¹°ÁúÀ» ¿ìÀ¯ ¼·ÃëÀÇ ÀüÃ¼¸éÀ» preweaning ¹× ¼·Ãë, ¼ºÀå ¼º´É¿¡ ³ªÀÌ¸¦ ÀÌÀ¯, Ç÷¾×ÀÇ È¿°ú"
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S002203021830153X	Performance and methane emissions in dairy cows fed oregano and green tea extracts as feed additives	G.J.Kolling	"Á¥¼ÒÀÇ ¼º´É ¹× ¸ŞÅº ¹èÃâ·®Àº »ç·á Ã·°¡Á¦·Î ¿À ·¹°¡ ³ë, ³ìÂ÷ ÃßÃâ¹° °ø±Ş"
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301619	"Effects of dietary leucine and phenylalanine on pancreas development, enzyme activity, and relative gene expression in milk-fed Holstein dairy calves"	Y.C.Cao	"¿ìÀ¯ °ø±Ş È¦½ºÅ¸ÀÎ Á¥¼Ò ¼Û¾ÆÁö½ÄÀÌ ·ù½Å ¹× ÃéÀå °³¹ß Æä´Ò¾Ë¶ó´Ñ, È¿¼Ò È°¼º ¹× »ó´ëÀû À¯ÀüÀÚ ¹ßÇöÀÇ È¿°ú"
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301735	Polyethylene glycol as an indigestible marker to estimate fecal output in dairy cows	S.Ahvenjarvi	³­¼Ò È­¼º Ç¥½ÄÀ¸·Î Æú¸®¿¡Æ¿·» ±Û¸®ÄİÀÌ Á¥¼Ò ºĞº¯ Ãâ·ÂÀ» ÃßÁ¤
+journal of dairy science	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218301279	Technical note: An in vivo method to determine kinetics of unsaturated fatty acid biohydrogenation in the rumen	M.Baldin	±â¼ú Á¤º¸ : ¹İÃßÀ§ ºÒÆ÷È­ Áö¹æ»ê biohydrogenationÀÇ µ¿·ÂÇĞÀ» °áÁ¤ÇÏ´Â ¹æ¹ıÀº »ıÃ¼
+journal of dairy science	2018	6	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218303023	Invited review: Current perspectives on eating and rumination activity in dairy cows	K.A.Beauchemin	ÃÊÃ» °ËÅä : Á¥¼Ò¿¡¼­ ¸Ô°í ¹İÃß È°µ¿¿¡ ÇöÀç ½Ã°¢
+journal of dairy science	2018	6	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0022030218302212	Invited review: Use of butyrate to promote gastrointestinal tract development in calves	P.Gorka	ÃÊÃ» °ËÅä : ºÎÆ¼·¹ÀÌÆ®ÀÇ »ç¿ëÀº ¼Û¾ÆÁöÀÇ ¼ÒÈ­ ±â°üÀÇ ¹ßÀüÀ» ÃËÁø
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302121	Effect of increasing amounts of olive crude phenolic concentrate in the diet of dairy ewes on rumen liquor and milk fatty acid composition	AliceCappucci	¹İÃßÀ§ ¾× ¿ìÀ¯ Áö¹æ»ê Á¶¼º ³«³ó ¾Ï¾çÀÇ ´ÙÀÌ¾îÆ® ¿Ã¸®ºê Á¶Áú Æä³î ³óÃà¾×ÀÇ ¾çÀ» Áõ°¡½ÃÅ°´Â È¿°ú
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302200	Inclusion of brown midrib dwarf pearl millet silage in the diet of lactating dairy cows	M.T.Harper	¼öÀ¯ Á¥¼ÒÀÇ ½Ä´Ü¿¡ °¥»ö ÁÖ¸Æ ³­ÀïÀÌ ÁøÁÖ ±âÀå »çÀÏ¸®ÁöÀÇ Æ÷ÇÔ
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302224	Evaluation of creatinine as a urine marker and factors affecting urinary excretion of magnesium by dairy cows	A.W.Tebbe	¼Òº¯ Å©·¹¾ÆÆ¼´Ñ ¸¶Ä¿ÀÇ Æò°¡¿Í Á¥¼Ò¿¡ ÀÇÇØ ¸¶±×³×½·ÀÇ ¼Òº¯ ¹èÃâ¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â ¿äÀÎ
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S002203021830256X	Comparison of 0.46% calcium diets with and without added anions with a 0.7% calcium anionic diet as a means to reduce periparturient hypocalcemia	JesseP.Goff	¿Í periparturient Àú Ä®½· Ç÷ÁõÀ» °¨¼Ò½ÃÅ°±âÀ§ÇÑ ¼ö´ÜÀ¸·Î 0.7 % Ä®½· À½ÀÌ¿Â ´ÙÀÌ¾îÆ®¿¡ Ãß°¡ À½ÀÌ¿Â¾øÀÌ 0.46 %ÀÇ Ä®½· ´ÙÀÌ¾îÆ®ÀÇ ºñ±³
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S002203021830208X	"Effect of replacing calcium salts of palm oil with camelina seed at 2 dietary ether extract levels on digestion, ruminal fermentation, and nutrient flow in a dual-flow continuous culture system"	V.L.N.Brandao	"ÀÌÁß À¯µ¿ ¿¬¼Ó ¹è¾ç ½Ã½ºÅÛ¿¡¼­ ¼ÒÈ­, ¹İÃßÀ§ ¹ßÈ¿ ¹× ¿µ¾ç¼Ò Èå¸§ 2 °³½ÄÀÌ ¿¡Å×¸£ ÃßÃâ¹° ¼öÁØ ±¸½½ ³ÃÀÌ ½Ãµå ÆÊÀ¯ÀÇ Ä®½· ¿°À» ´ëÃ¼ È¿°ú"
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302236	Phenotypically divergent classification of preweaned heifer calves for feed efficiency indexes and their correlations with heat production and thermography	J.M.Leao	»ç·á È¿À² ÀÎµ¦½º ¹× ¿­ »ı»ê°ú ¿­ È­»ó°úÀÇ »ó°ü °ü°è¿¡ ´ëÇÑ preweaned ¾Ï¼Ò ¼Û¾ÆÁöÀÇ Ç¥ÇöÇü ºĞ±â ºĞ·ù
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302807	Essential oil and monensin affect ruminal fermentation and the protozoal population in continuous culture	D.Ye	¿¡¼¾¼È ¿ÀÀÏ°ú ¸ğ ³Ù½ÅÀº ¹İÃßÀ§ ¹ßÈ¿ ¿¬¼Ó ¹®È­ÀÇ Ãæ¼º ÀÎ±¸¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302091	Fuels derived from starch digestion have different effects on energy intake and metabolic responses of cows in the postpartum period	LauraB.Gualdron-Duarte	ÀüºĞÀÇ ¼ÒÈ­¿¡¼­ ÆÄ»ı µÈ ¿¬·á´Â »êÈÄ ±â°£¿¡ ¿¡³ÊÁö ¼·Ãë¿¡ ´Ù¸¥ È¿°ú¿Í Á¥¼ÒÀÇ ´ë»ç ¹İÀÀÀÌ
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302133	Effects of altering total mixed ration conservation method when feeding dry-rolled versus steam-flaked hulled rice on lactation and digestion in dairy cows	M.Miyaji	°Ç½Ä ¾Ğ¿¬ Á¥¼Ò ¼öÀ¯ ¼ÒÈ­¿¡ Áõ±â ¹ÚÆí »ı°­ ½Ò ´ë ¸ÔÀÌ ¶§ ÃÑ ¹èÇÕ »ç·áÀÇ º¸Á¸ ¹æ¹ıÀ» º¯°æÇÏ´Â È¿°ú
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302534	Variations in methane yield and microbial community profiles in the rumen of dairy cows as they pass through stages of first lactation	TamsinLyons	Á¥¼ÒÀÇ ¹İÃßÀ§¿¡¼­ ¸ŞÅº ¼öÀ²ÀÇ º¯È­¿Í ¹Ì»ı¹° ±ºÁı ÇÁ·ÎÆÄÀÏÀº ¸ÕÀú ¼öÀ¯ÀÇ ´Ü°è¸¦ Åë°ú ÇÒ ¶§
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302911	Effects of nutrition on the fertility of lactating dairy cattle	R.M.Rodney	¼öÀ¯ Á¥¼ÒÀÇ Ãâ»ê¿¡ ¿µ¾çÀÇ È¿°ú
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302339	Determination of in vitro isoflavone degradation in rumen fluid	AndreaTrnkova	À§¾×ÀÇ Ã¼¿Ü ÀÌ¼Ò ÇÃ¶óº» ÀúÇÏÀÇ °áÁ¤
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302649	Effects of homolactic bacterial inoculant on the performance of lactating dairy cows	J.L.P.Daniel	¼öÀ¯ Á¥¼ÒÀÇ ¼º´É¿¡ homolactic ¼¼±Õ Á¢Á¾ È¿°ú
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302480	Short communication: Variability in fermentation end-products and methanogen communities in different rumen sites of dairy cows	ZhiYuanMa	ÂªÀº Åë½Å : Á¥¼ÒÀÇ ´Ù¸¥ ¹İÃßÀ§ »çÀÌÆ®¿¡¼­ ¹ßÈ¿ ÃÖÁ¾ Á¦Ç°°ú ¸ŞÅ¸ ³ëÁ¨ÀÇ »çÈ¸ º¯µ¿
+journal of dairy science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0022030218302108	Short communication: Lysine retained among 2 lipid-coated lysine products after exposure to alfalfa or corn silage with different amounts of acidity	J.N.Reiners	ÂªÀº Åë½Å : ¸®½ÅÀº »êµµÀÇ ¼­·Î ´Ù¸¥ ¾çÀÇ ¾ËÆÈÆÄ ¶Ç´Â ¿Á¼ö¼ö »çÀÏ¸®Áö¿¡ ³ëÃâ µÈ ÈÄ 2 ÁöÁú ÄÚÆÃ µÈ ¶óÀÌ½Å Á¦Ç° »çÀÌ¿¡¼­ À¯Áö
+AJAS	2018	1	ruminant	original article	https://www.ajas.info/journal/view.php?number=23755	Supplementing Rhodobacter sphaeroides in the diet of lactating Holstein cows may naturally produce coenzyme Q10-enriched milk	Gui-SeckBae	È¦½ºÅ¸ÀÎ Á¥¼Ò ¼öÀ¯ÀÇ ´ÙÀÌ¾îÆ®·Îµµ ¹ÚÅÍ ½ºÆä ·ÎÀÌµå¸¦ º¸Ãæ ÀÚ¿¬ÀûÀ¸·Î ÄÚ¿£ÀÚÀÓ Q10ÀÌ Ç³ºÎÇÑ ¿ìÀ¯¸¦ »ı»êÇÒ ¼öÀÖ´Ù
+AJAS	2018	1	ruminant	original article	https://www.ajas.info/journal/view.php?number=23714	Blood amino acids profile responding to heat stress in dairy cows	JiangGuo	Ç÷¾× ¾Æ¹Ì³ë»êÀº Á¥¼ÒÀÇ ½ºÆ®·¹½º¸¦ ¿­ ÀÀ´äÀÇ ÇÁ·ÎÇÊ
+AJAS	2018	1	ruminant	original article	https://www.ajas.info/journal/view.php?number=23907	"Effect of Rhodophyta extracts on in vitro ruminal fermentation characteristics, methanogenesis and microbial populations"	ShinJaLee	RhodophytaÀÇ È¿°ú ½ÃÇè °ü³» ¹İÃßÀ§ ¹ßÈ¿ Æ¯¼º ¸ŞÅº ¹Ì»ı¹° Áı´Ü¿¡¼­ ÃßÃâ
+AJAS	2018	1	ruminant	original article	https://www.ajas.info/journal/view.php?number=23799	Isolation and characterization of a novel gossypol-degrading bacteria Bacillus subtilis strain Rumen Bacillus Subtilis	YunhuaZhang	½Å±Ô °í½Ã Æú - ºĞÇØ ¹ÚÅ×¸®¾Æ °íÃÊ±Õ ±ÕÁÖ ¹Ù½Ç·¯½º ¼­ºê Æ¿¸® ·ç¸à ºĞ¸® ¹× Æ¯¼ºÈ­
+AJAS	2018	1	ruminant	original article	https://www.ajas.info/journal/view.php?number=23908	"Effects of Gelidium amansii extracts on in vitro ruminal fermentation characteristics, methanogenesis, and microbial populations"	ShinJaLee	"Ã¼¿Ü ¹İÃßÀ§ ¹ßÈ¿ Æ¯¼º ¸ŞÅº, ¹Ì»ı¹° °³Ã¼±º °Ö ¸®µã amansii ÃßÃâ¹°ÀÇ È¿°ú"
+AJAS	2018	1	ruminant	original article	https://www.ajas.info/journal/view.php?number=23823	Effect of corn grain particle size on ruminal fermentation and blood metabolites of Holstein steers fed total mixed ration	DoHyungKim	"È¦½ºÅ¸ÀÎÀÇ ¹İÃßÀ§ ¹ßÈ¿ ´ë»ç »ê¹°, Ç÷¾× ¿Á¼ö¼ö ÀÔÀÚ ÀÔ°æÀÇ ¿µÇâ °ø±Ş ÃÑ ¹èÇÕ »ç·á¸¦ Á¶Á¾"
+AJAS	2018	1	monogastric	original article	https://www.ajas.info/journal/view.php?number=23763	"Effects of dietary supplementation with detoxified Rhus verniciflua sap on egg production, yolk lipid and intestinal microflora in laying hens"	Byoung-KiAn	"ÇØµ¶ µÈ °è¶õ »ı»ê¿¡ RhusÀÇ ¿Ì ¼ö¾×, ³­È² ÁöÁú ¹× »ê¶õ°èÀÇ Àå³» ¹Ì»ı¹°°ú½ÄÀÌ º¸ÃæÁ¦ÀÇ È¿°ú"
+AJAS	2018	1	monogastric	original article	https://www.ajas.info/journal/view.php?number=23825	"Effects of feeding corn naturally contaminated with aflatoxin on growth performance, apparent ileal digestibility, serum hormones levels and gene expression of Na+, K+-ATPase in ducklings"	FarzanaAbbasi	"°ø±Ş ¿Á¼ö¼öÀÇ È¿°ú´Â ÀÚ¿¬ÀÇ ¿À¸® ³ª +, K + -ATPaseÀÇ ¼ºÀå ¼º°ú¿¡ ¾ÆÇÃ¶óÅå½Å ¸í¹é È¸Àå ¼ÒÈ­À² Ç÷Ã» È£¸£¸ó ¼öÁØ ¹× À¯ÀüÀÚ ¹ßÇö ¿À¿°"
+AJAS	2018	1	monogastric	original article	https://www.ajas.info/journal/view.php?number=23856	"Effects of processing, particle size and moisturizing of sorghum-based feeds on pellet quality and broiler production"	PatrA¡©ciaGarciadaSilvan	"Æç·¿ Ç°Áú ¹× »ı»ê¿¡ ±Á´Â °øÁ¤, ÀÔ°æ ¼ö¼ö ±â¹İ ÇÇµå º¸½À È¿°ú"
+AJAS	2018	1	monogastric	original article	https://www.ajas.info/journal/view.php?number=23759	"Effects of dietary valine:lysine ratio on the performance, amino acid composition of tissues and mRNA expression of genes involved in branched-chain amino acid metabolism of weaned piglets"	YeTongXu	"½ÄÀÌ ¹ß¸°ÀÇ È¿°ú : ¶óÀÌ½Å ¼º´É¿¡ ´ëÇÑ ºñ, Á¶Á÷ÀÇ ¾Æ¹Ì³ë»ê Á¶¼º Á¥À» »õ³¢ µÅÁöÀÇ ºĞÁö ¼â ¾Æ¹Ì³ë»ê ´ë»ç¿¡ °ü¿©ÇÏ´Â À¯ÀüÀÚÀÇ mRNA ¹ßÇö"
+AJAS	2018	1	monogastric	original article	https://www.ajas.info/journal/view.php?number=23794	Effects of inclusion level and adaptation period on nutrient digestibility and digestible energy of wheat bran in growing-finishing pigs	JinbiaoZhao	ºñÀ° µÅÁöÀÇ ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× ¹Ğ±â¿ïÀÇ ¼ÒÈ­ ¿¡³ÊÁö¿¡ Æ÷ÇÔ ¼öÁØ°ú ÀûÀÀ ±â°£ÀÇ È¿°ú
+AJAS	2018	2	ruminant	original article	https://www.ajas.info/journal/view.php?number=23771	Characterization of culturable yeast species associating with whole crop corn and total mixed ration silage	HuiliWang	ÀüÃ¼ ÀÛ¹° ¿Á¼ö¼ö¿Í ÃÑ È¥ÇÕ ¹è±Ş »çÀÏ¸®Áö¿Í ¿¬°ü ¹è¾ç È¿¸ğ Á¾ÀÇ Æ¯¼º
+AJAS	2018	2	ruminant	original article	https://www.ajas.info/journal/view.php?number=23801	Tropical plant supplementation effects on the performance and parasite burden of goats	JuanJ.Romero	¿°¼ÒÀÇ ¼º´É°ú ±â»ıÃæ ºÎ´ã¿¡ ¿­ ´ë ½Ä¹° º¸Ãæ È¿°ú
+AJAS	2018	2	ruminant	original article	https://www.ajas.info/journal/view.php?number=23796	"Effect of different levels of protein concentrates supplementation on the growth performance, plasma amino acids profile and mTOR cascade genes expression in early-weaned yak calves"	Q.H.Peng	´Ü¹éÁúÀÇ »óÀÌÇÑ ·¹º§ÀÇ È¿°ú´Â ÃÊ±â Åõ¾à ¾ßÅ© ¼Û¾ÆÁöÀÇ ¼ºÀå ¼º´É Ç÷Àå ¾Æ¹Ì³ë»ê ÇÁ·ÎÆÄÀÏ ¹× mTORÀÇ Ä³½ºÄÉÀÌµå À¯ÀüÀÚ ¹ßÇö¿¡ ÁıÁß º¸Ãæ
+AJAS	2018	2	ruminant	original article	https://www.ajas.info/journal/view.php?number=23800	"Influence of supplemental canola or soybean oil on milk yield, fatty acid profile and postpartum weight changes in grazing dairy goats"	IsraelLerma-Reyes	"¿ìÀ¯ »ı»ê·®, Áö¹æ»ê ÇÁ·ÎÇÊ »êÈÄ Áß·® ºÎ°¡ ³î¶ó ¶Ç´Â ´ëµÎÀ¯ÀÇ ¿µÇâÀÌ ³ª¿Â ³«³ó ¿°¼ÒÀÇ º¯È­"
+AJAS	2018	2	ruminant	original article	https://www.ajas.info/journal/view.php?number=23798	Influence of barley grain treated with alkaline compounds or organic extracts on ex vivo site and extent of digestion of starch	RezaNaseroleslami	º¸¸® ÀÔÀÚÀÇ ¿µÇâÀº »ıÃ¼ ºÎÀ§¿Í ÀüºĞÀÇ ºĞÇØ Á¤µµ¿¡ ¾ËÄ®¸® È­ÇÕ¹° ¶Ç´Â À¯±â ÃßÃâ¹°À» Ã³¸®
+AJAS	2018	2	monogastric	original article	https://www.ajas.info/journal/view.php?number=23810	Newborn traits associated with pre-weaning growth and survival in piglets	MorakotNuntapaitoon	»õ³¢ µÅÁöÀÇ »çÀü ÀÌÀ¯ÀÇ ¼ºÀå°ú »ıÁ¸¿¡ °ü·ÃµÈ ½Å»ı¾Æ Æ¯¼º
+AJAS	2018	2	monogastric	original article	https://www.ajas.info/journal/view.php?number=23765	Dietary maifanite supplementation did not affect the apparent total tract digestibility of calcium and phosphorus in growing pigs	LiLiBai	½ÄÀÌ maifanite º¸Ãæ ¼ºÀå µÅÁö ¸í¹éÇÑ ÀüÃ¼ ±â°ü Ä®½·ÀÇ ¼ÒÈ­À²°ú ÀÎ ¿µÇâÀ» ¹ÌÄ¡Áö ¾Ê¾Ò´Ù
+AJAS	2018	2	monogastric	original article	https://www.ajas.info/journal/view.php?number=23805	Evaluation of trace mineral source and preharvest deletion of trace minerals from finishing diets on tissue mineral status in pigs	Y.L.Ma	¹Ì·® ¹Ì³×¶ö ¼Ò½º¿Í µÅÁöÀÇ Á¶Á÷ ¹Ì³×¶ö »óÅÂ¿¡ ´ëÇÑ ¸¶¹«¸® ½Ä´Ü¿¡¼­ ¹Ì³×¶öÀÇ preharvest »èÁ¦ÀÇ Æò°¡
+AJAS	2018	2	monogastric	original article	https://www.ajas.info/journal/view.php?number=23820	A short-term supranutritional vitamin E supplementation alleviated respiratory alkalosis but did not reduce oxidative stress in heat stressed pigs	FanLiu	´Ü±â supranutritional ºñÅ¸¹Î E º¸ÃæÀÌ È£Èí ¼º ¾ËÄ®¸®ÁõÀ» ¿ÏÈ­ÇÏÁö¸¸ ¿­ÀÌ µÅÁö ½ºÆ®·¹½º¿¡ »êÈ­ ½ºÆ®·¹½º¸¦ °¨¼ÒÇÏÁö ¾Ê¾Ò´Ù
+AJAS	2018	2	monogastric	original article	https://www.ajas.info/journal/view.php?number=23802	"Effects of dietary alfalfa flavonoids on the performance, meat quality and lipid oxidation of growing rabbits"	SihemDabbou	"¼ºÀå Åä³¢ÀÇ ¼º´É, °í±âÀÇ Ç°Áú°ú ÁöÁú »êÈ­¿¡½ÄÀÌ ¾ËÆÈÆÄ ÇÃ¶óº¸³ëÀÌµåÀÇ È¿°ú"
+AJAS	2018	2	monogastric	original article	https://www.ajas.info/journal/view.php?number=23828	Administration of vitamin D3 by injection or drinking water alters serum 25-hydroxycholecalciferol concentrations of nursery pigs	YoungDalJang	ÁÖ»ç ¶Ç´Â ¸¶½Ã´Â ¹°¿¡ ÀÇÇØ ºñÅ¸¹Î D3ÀÇ Åõ¿© ÀÚµ· Ç÷Ã» 25 hydroxycholecalciferol ³óµµ¸¦ º¯°æ
+AJAS	2018	3	ruminant	original article	https://www.ajas.info/journal/view.php?number=23864	"Effects of harvest time and added molasses on nutritional content, ensiling characteristics and in vitro degradation of whole crop wheat"	ChuanqiXia	"¼öÈ® ½Ã°£ÀÇ È¿°ú ¹× ¿µ¾ç ¼ººĞ¿¡ Ãß°¡ ´ç¹Ğ, ensiling Æ¯¼º°ú ÀüÃ¼ ÀÛ¹° ¹Ğ Ã¼¿Ü ÀúÇÏ¿¡"
+AJAS	2018	3	ruminant	original article	https://www.ajas.info/journal/view.php?number=23878	Effects of dietary fermented spent coffee ground on nutrient digestibility and nitrogen utilization in sheep	YongjunChoi	¾ç ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× Áú¼Ò È°¿ë¿¡½ÄÀÌ ¹ßÈ¿ µ¿¾È Ä¿ÇÇ Áö»óÀÇ È¿°ú
+AJAS	2018	3	ruminant	original article	https://www.ajas.info/journal/view.php?number=23786	"Substituting oat hay or maize silage for portion of alfalfa hay affects growth performance, ruminal fermentation, and nutrient digestibility of weaned calves"	YangZou	"¾ËÆÈÆÄ °ÇÃÊÀÇ ºÎºĞ¿¡ ´ëÇÑ ±Í¸® °ÇÃÊ ¶Ç´Â ¿Á¼ö¼ö »çÀÏ¸®Áö¸¦ ´ëÃ¼ÇÏ´Â °ÍÀº ¼ºÀå ¼º´É, ¹İÃßÀ§ ¹ßÈ¿ ¹× ÀÌÀ¯ ¼Û¾ÆÁöÀÇ ¿µ¾ç¼Ò ¼ÒÈ­À²¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â"
+AJAS	2018	3	ruminant	original article	https://www.ajas.info/journal/view.php?number=23868	Sugarcane bagasse as exclusive roughage for dairy cows in smallholder livestock system	GleidianaAmA¨ÏliaPontesdeAlmeidar	¼ÒÀÛ³ó Ãà»ê ½Ã½ºÅÛÀÇ Á¥¼Ò Àü¿ë Á¶»ç·á·Î »çÅÁ ¼ö¼ö »çÅÁ ¼ö¼ö
+AJAS	2018	3	monogastric	original article	https://www.ajas.info/journal/view.php?number=23808	"Effect of rapeseed meal supplementation to gestation diet on reproductive performance, blood profiles and milk composition of sows"	H.B.Choi	"¹ø½Ä ´É·Â, Ç÷¾× ÇÁ·ÎÇÊ°ú ¸ğµ·ÀÇ ¿ìÀ¯ ¼ººĞ¿¡ ÀÓ½Å ´ÙÀÌ¾îÆ®¿¡ À¯Ã¤ ½Ä»ç º¸ÃæÀÇ È¿°ú"
+AJAS	2018	3	monogastric	original article	https://www.ajas.info/journal/view.php?number=23850	Effect of inclusion level and adaptation duration on digestible energy and nutrient digestibility in palm kernel meal fed to growing-finishing pigs	ChengfeiHuang	ºñÀ° µÅÁö¿¡ °ø±Ş ¼Õ¹Ù´Ú Ä¿³Î ½Ä»çÀÇ ¼ÒÈ­ ¿¡³ÊÁö¿Í ¿µ¾ç¼Ò ¼ÒÈ­À²¿¡ Æ÷ÇÔ ¼öÁØ°ú ÀûÀÀ ±â°£ÀÇ È¿°ú
+AJAS	2018	3	monogastric	original article	https://www.ajas.info/journal/view.php?number=23903	Effects of dietary supplementation of lipid-coated zinc oxide on intestinal mucosal morphology and expression of the genes associated with growth and immune function in weanling pigs	YoungMinSong	Àå Á¡¸· ÇüÅÂ ¹× Á¥ ¶¾ µÅÁöÀÇ ¼ºÀå ¹× ¸é¿ª ±â´É¿¡ °ü·ÃµÈ À¯ÀüÀÚµéÀÇ ¹ßÇö¿¡ ÁöÁú ÄÚÆÃ µÈ »êÈ­ ¾Æ¿¬ÀÇ½ÄÀÌ º¸ÃæÁ¦ÀÇ È¿°ú
+AJAS	2018	3	monogastric	original article	https://www.ajas.info/journal/view.php?number=23758	Effects of dietary energy levels on physiological parameters and reproductive performance of gestating sows over three consecutive parities	S.S.Jin	»ı¸® ÇĞÀû ¸Å°³ º¯¼ö¿Í ¼¼ °³ÀÇ ¿¬¼Ó ÆĞ¸®Æ¼ ÀÌ»ó gestating ¸ğµ·ÀÇ ¹ø½Ä ´É·Â¿¡ ´ëÇÑ »ç·áÀÇ ¿¡³ÊÁö ¼öÁØÀÇ È¿°ú
+AJAS	2018	4	ruminant	original article	https://www.ajas.info/journal/view.php?number=23845	"Effects of aflatoxin B1 combined with ochratoxin A and/or zearalenone on metabolism, immune function, and antioxidant status in lactating dairy goats"	ShuaiHuang	"³«³ó ¿°¼Ò Á¥¿¡¼­ ¿ÀÅ©¶ó Åå½Å A ¹× / ¶Ç´Â ´ë»ç, ¸é¿ª ±â´É¿¡ zearalenone ¹× »êÈ­ »óÅÂ¿Í °áÇÕ ¾ÆÇÃ¶óÅå½Å B1 È¿°ú"
+AJAS	2018	4	ruminant	original article	https://www.ajas.info/journal/view.php?number=23835	Effects of crude glycerin from waste vegetable oil in diets on performance and carcass characteristics of feedlot goats	PinChanjula	ºñÀ° ¿°¼ÒÀÇ ¼º´É ¹× Æ¯¼º¿¡ µµÃ¼ »ç·á¿¡¼­ Æó ½Ä¿ëÀ¯·ÎºÎÅÍ Á¶ ±Û¸®¼¼¸° È¿°ú
+AJAS	2018	4	ruminant	original article	https://www.ajas.info/journal/view.php?number=23795	"Growth rate, carcass characteristics and meat quality of growing lambs fed buckwheat or maize silage"	GurhanKeles	"¼ºÀå ¼Óµµ, µµÃ¼ Æ¯¼º°ú °ø±Ş ¾çÀ» Áõ°¡ ¸Ş¹ĞÀÌ³ª ¿Á¼ö¼ö »çÀÏ¸®ÁöÀÇ À°Áú"
+AJAS	2018	4	ruminant	original article	https://www.ajas.info/journal/view.php?number=23829	Carcass characteristics of lambs fed spineless cactus as a replacement for sugarcane	JulianaPaulaFelipedeOliveira	¾çÀÇ Ä« Ä¿½º Æ¯¼º ¼ö¼ö¸¦ ´ëÃ¼ Ã´Ãß ¼±ÀÎÀå °ø±Ş
+AJAS	2018	4	ruminant	original article	https://www.ajas.info/journal/view.php?number=23926	Hepatic transcriptional changes in critical genes for gluconeogenesis following castration of bulls	DillaMareistiaFassah	È²¼ÒÀÇ °Å¼¼ ´ÙÀ½ ´ç½Å »ı¿¡ Áß¿äÇÑ À¯ÀüÀÚ °£ Àü»ç º¯È­
+AJAS	2018	4	monogastric	original article	https://www.ajas.info/journal/view.php?number=23874	The effect of dietary asparagine supplementation on energy metabolism in liver of weaning pigs when challenged with lipopolysaccharide	PingKang	µÅÁö¸¦ ÀÌÀ¯ÀÇ °£¿¡¼­ ¿¡³ÊÁö ´ë»ç¿¡½ÄÀÌ ¾Æ½ºÆÄ¶ó±ä º¸ÃæÀÇ È¿°ú´Â ÁöÁú ´Ù´ç·ù¿¡ µµÀü ÇÒ ¶§
+AJAS	2018	4	monogastric	original article	https://www.ajas.info/journal/view.php?number=23842	"Effects of dietary Spirulina on antioxidant status, lipid profile, immune response and performance characteristics of broiler chickens reared under high ambient temperature"	SaraMirzaie	"»êÈ­ »óÅÂ, ÁöÁú, ³ôÀº ºĞÀ§±â ¿Âµµ ÇÏ¿¡¼­ »çÀ° À°°è ¸é¿ª ¹İÀÀ°ú ¼º´É Æ¯¼º¿¡ ´ëÇÑ½ÄÀÌÀÇ È¿°ú ½ºÇÇ·ç¸®³ª"
+AJAS	2018	4	monogastric	original article	https://www.ajas.info/journal/view.php?number=23919	Effects of dietary I©÷-mannanase supplementation on the additivity of true metabolizable energy values for broiler diets	ByungBoLees	ºê·ÎÀÏ·¯½ÄÀÌ ¸¶Âù°¡Áö ´ë»ç ¿¡³ÊÁö °ªÀÇ °¡»ê¿¡½ÄÀÌ I©÷ - ¸¸³­ ¾ÆÁ¦ º¸ÃæÁ¦ÀÇ È¿°ú
+AJAS	2018	4	monogastric	original article	https://www.ajas.info/journal/view.php?number=23836	"Effects of chromium picolinate on fat deposition, activity and genetic expression of lipid metabolism-related enzymes in 21 day old Ross broilers"	GuangxinChen	"ÀÌ½ÊÀÏÀÏ µÈ ·Î½º À°°è¿¡ Áö¹æ Ä§Âø, È°µ¿ ¹× ÁöÁú ´ë»ç °ü·Ã È¿¼ÒÀÇ À¯ÀüÀÚ ¹ßÇö¿¡ Å©·Ò ÇÇ Äİ¸°ÀÇ È¿°ú"
+AJAS	2018	5	monogastric	review	https://www.ajas.info/journal/view.php?number=23888	Immunomodulatory effects of phytogenics in chickens and pigs a€<U+0094> A review	C.M.Huang	´ß°ú µÅÁöÀº <U + 0094> ¸®ºä phytogenicsÀÇ ¸é¿ª È¿°ú
+AJAS	2018	5	ruminant	original article	https://www.ajas.info/journal/view.php?number=23711	"Effect of feeding of blend of essential oils on methane production, growth, and nutrient utilization in growing buffaloes"	M.A.Yatoo	"¼ºÀå ¹öÆÈ·Î¿¡¼­ ¸ŞÅº »ı¼º, ¼ºÀå, ¿µ¾ç¼Ò ÀÌ¿ë¿¡ ¿¡¼¾¼È ¿ÀÀÏÀÇ È¥ÇÕÀÇ °ø±Ş¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+AJAS	2018	5	ruminant	original article	https://www.ajas.info/journal/view.php?number=23877	"Effects of low dietary cation-anion difference induced by ruminal ammonium chloride infusion on performance, serum, and urine metabolites of lactating dairy cows"	KunWang	Á¥¼ÒÀÇ Á¥À» ¼º´É Ç÷Ã» ¹İÃßÀ§¿¡ ¿°È­ ¾Ï¸ğ´½ ÁÖÀÔ¿¡ ÀÇÇØ À¯µµ µÈ ³·Àº½ÄÀÌ ¾çÀÌ¿Â - À½ÀÌ¿Â Â÷ÀÌÀÇ È¿°ú ¹× ¼Òº¯ ´ë»ç
+AJAS	2018	5	monogastric	original article	https://www.ajas.info/journal/view.php?number=23561	Choline supplementation improves the lipid metabolism of intrauterine-growth-restricted pigs	WeiLi	Äİ¸° ¼·Ãë´Â ÀÚ±Ã ³» ¼ºÀå Á¦ÇÑ µÅÁöÀÇ ÁöÁú ´ë»ç¸¦ °³¼±
+AJAS	2018	5	monogastric	original article	https://www.ajas.info/journal/view.php?number=23988	"Influence of various levels of milk by-products in weaner diets on growth performance, blood urea nitrogen, diarrhea incidence, and pork quality of weaning to finishing pigs"	S.H.Yoo	"ºÎ»ê¹° ¼ºÀå ¼º´É, Ç÷¾× ¿ä¼Ò Áú¼Ò, ¼³»ç ¹ß»ı ¹× ºñÀ°µ·¿¡ ÀÌÀ¯ÀÇ µÅÁö °í±â Ç°Áú¿¡ weaner »ç·á¿¡¼­ ¿ìÀ¯ÀÇ ´Ù¾çÇÑ ¼öÁØÀÇ ¿µÇâ"
+AJAS	2018	5	monogastric	original article	https://www.ajas.info/journal/view.php?number=23941	"Effect of golden needle mushroom (Flammulina velutipes) stem waste on laying performance, calcium utilization, immune response and serum immunity at early phase of production"	ShadMahfuz	"È²±İ ¹Ù´Ã ¹ö¼¸ (ÆØÀÌÀÇ velutipes)ÀÇ È¿°ú´Â »ı»êÀÇ ÃÊ±â ´Ü°è¿¡ ´©¿ö ¼º´É, Ä®½· È°¿ë, ¸é¿ª ¹İÀÀ ¹× Ç÷Ã» ¸é¿ª¿¡ Æó±â¹° ÁÙ±â"
+AJAS	2018	5	monogastric	original article	https://www.ajas.info/journal/view.php?number=23915	"Dietary supplementation of finishing pigs with the docosahexaenoic acid-rich microalgae, Aurantiochytrium limacinum: effects on performance, carcass characteristics and tissue fatty acid profile"	ColmA.Moran	µµÄÚ »ç Çí»ç ¿£ »ê Ç³ºÎÇÑ ¹Ì¼¼ Á¶·ù·Î ºñÀ°µ·ÀÇ½ÄÀÌ º¸ÃæÁ¦ÀÇ Aurantiochytrium limacinum : ¼º´É Ä¿½º Æ¯¼º ¹× Á¶Á÷ Áö¹æ»ê ÇÁ·ÎÇÊ È¿°ú
+AJAS	2018	5	monogastric	original article	https://www.ajas.info/journal/view.php?number=23846	Comparative digestibility of nutrients and amino acids in high-fiber diets fed to crossbred barrows of Duroc boars crossed with BerkshireA<U+0097>Jiaxing and LandraceA<U+0097>Yorkshire	JinbiaoZhao	µà·ÏÀÇ ¼öÅïÁöÀÇ ÀâÁ¾ µé°Í¿¡ °ø±Ş ³ôÀº½ÄÀÌ ¼¶À¯ÀÇ ¿µ¾ç¼Ò ¹× ¾Æ¹Ì³ë»êÀÇ ºñ±³ ¼ÒÈ­À² BerkshireA <U + 0097> ±³Â÷ Èï°ú LandraceA <U + 0097> ¿äÅ©
+AJAS	2018	5	monogastric	original article	https://www.ajas.info/journal/view.php?number=23136	Fiber source and inclusion level affects characteristics of excreta from growing pigs	ConferenceThandoMpendulo	¼¶À¯ ¼Ò½º¿Í Æ÷ÇÔÀÇ ¼öÁØÀº ¼ºÀå µÅÁöÀÇ ¹è¼³¹°ÀÇ Æ¯¼º¿¡ ¿µÇâÀ» ¹ÌÄ£´Ù
+AJAS	2018	6	ruminant	original article	https://www.ajas.info/journal/view.php?number=23890	Comparison among methods of effective energy evaluation of corn silage for beef cattle	MingWei	À°¿ì ¿Á¼ö¼ö »çÀÏ¸®ÁöÀÇ È¿°úÀûÀÎ ¿¡³ÊÁö Æò°¡ ¹æ¹ı °£ÀÇ ºñ±³
+AJAS	2018	6	ruminant	original article	https://www.ajas.info/journal/view.php?number=23876	Influence of dietary nonstructural carbohydrate concentration on growth performance and carcass characteristics of Holstein steers	DanielRamos-AviA¡¾ax	È¦½ºÅ¸ÀÎ °Å¼¼¿ìÀÇ ¼ºÀå ¼º´É°ú µµÃ¼ Æ¯¼º¿¡½ÄÀÌ ºñ ±¸Á¶ Åº¼öÈ­¹° ³óµµÀÇ ¿µÇâ
+AJAS	2018	6	ruminant	original article	https://www.ajas.info/journal/view.php?number=23881	"Effect of weaning age on growth performance, feed efficiency, nutrient digestibility and blood-biochemical parameters in Droughtmaster crossbred beef calves"	HuiTao	"Droughtmaster ±³ÀâÁ¾ ¼è°í±â ¼Û¾ÆÁöÀÇ ¼ºÀå ¼º´É, »ç·á È¿À², ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× Ç÷¾× »ıÈ­ÇĞ ¸Å°³ º¯¼ö¿¡ ´ëÇÑ ÀÌÀ¯ ¿¬·ÉÀÇ È¿°ú"
+AJAS	2018	6	monogastric	original article	https://www.ajas.info/journal/view.php?number=23899	"The differences between copper sulfate and tribasic copper chloride on growth performance, redox status, deposition in tissues of pigs, and excretion in feces"	PingZheng	"´ëº¯ ??È²»ê±¸¸® µÅÁöÀÇ Á¶Á÷ ¼ºÀå ¼º´É µ¶½º »óÅÂ¿¡ ÁõÂø »ï ¿°±â¼º ¿°È­ ±¸¸®, ¹è¼³ Â÷ÀÌÁ¡"
+AJAS	2018	6	monogastric	original article	https://www.ajas.info/journal/view.php?number=23887	Effects of cashew nut testa levels as an alternative to wheat bran in gestating sow diets	LinHuFang	¸ğµ· »ç·á¸¦ gestating¿¡¼­ ¹Ğ±â¿ïÀÇ ´ë¾ÈÀ¸·Î Ä³½´ ³ÊÆ® Á¾ÇÇ ¼öÁØÀÇ È¿°ú
+AJAS	2018	6	monogastric	original article	https://www.ajas.info/journal/view.php?number=23880	"Substitution of soybean meal with detoxified Jatropha curcas kernel meal: Effects on performance, nutrient utilization, and meat edibility of growing pigs"	YangLi	"¼º´É, ¿µ¾ç¼Ò ÀÌ¿ë¿¡ ¹ÌÄ¡´Â ¿µÇâ, ¼ºÀå µÅÁö °í±â ½Ä¿ë : ÇØµ¶ ÀÚÆ®·ÎÆÄ¿Í ´ëµÎ¹ÚÀÇ ´ëÃ¼ Ä¿³Î ½Ä»çÀÇ curcas"
+AJAS	2018	6	monogastric	original article	https://www.ajas.info/journal/view.php?number=23891	"Effects of first feed intake time on growth performance, nutrient apparent metabolic rate and intestinal digestive enzyme activities in broilers"	J.S.Wang	ºê·ÎÀÏ·¯ ¼ºÀå ¼º´É ¿µ¾ç¼Ò ¸í¹é ´ë»çÀ² Àå³» ¼ÒÈ­ È¿¼Ò È°¼º¿¡ Á¦ »ç·á ¼·Ãë½ÃÀÇ ¿µÇâ
+livestock science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S1871141317303372	Impact of breed on the rumen microbial community composition and methane emission of Holstein Friesian and Belgian Blue heifers	ThijsDeMuldera	È¦½ºÅ¸ÀÎ°ú º§±â¿¡ ºí·ç ¾Ï¼ÒÀÇ ¹İÃßÀ§ ¹Ì»ı¹° Ä¿¹Â´ÏÆ¼ ±¸¼º ¹× ¸ŞÅº ¹èÃâ¿¡ ´ëÇÑ Ç°Á¾ÀÇ ¿µÇâ
+livestock science	2018	1	ruminant	original article	http://www.sciencedirect.com/science/article/pii/S187114131730255X	Energy and protein requirements for maintenance of Southern Yellow cattle fed a corn silage or straw-based diet	M.Weia	³²ºÎ ³ë¶õ»ö °¡ÃàÀÇ À¯Áö º¸¼ö¸¦ À§ÇØ ¿¡³ÊÁö¿Í ´Ü¹éÁú ¿ä±¸ »çÇ×Àº ¿Á¼ö¼ö »çÀÏ¸®Áö ¶Ç´Â ¹ĞÂ¤ ±â¹İÀÇ ½Ä´ÜÀ» °ø±Ş
+livestock science	2018	1	monogastric	original article	http://www.sciencedirect.com/science/article/pii/S1871141317302962	"Effect of enzymatically hydrolyzed scallop visceral protein powder used as a replacement of fish meal on the growth performance, immune responses, intestinal microbiota and intestinal morphology of broiler chickens"	R.E.Xingab	"»ó±â ¼ºÀå ¼º´É¿¡ ¹°°í±â ½Ä»çÀÇ ±³Ã¼, ¸é¿ª ¹İÀÀ, Àå³» ¹Ì»ı¹° ¹× À°°èÀÇ Àå ÇüÅÂ·Î »ç¿ëµÇ´Â È¿¼Ò °¡¼ö ºĞÇØ °¡¸®ºñ ³»Àå ´Ü¹éÁú ºĞ¸»ÀÇ È¿°ú"
+livestock science	2018	1	monogastric	original article	http://www.sciencedirect.com/science/article/pii/S1871141317303578	Effect of wheat as a feedstuff in starter diets on nursery pig growth performance and digestibility	D.J.Bloxham	º¸À° µÅÁö ¼ºÀå ¼º´É ¹× ¼ÒÈ­À²¿¡ ¼±¹ß ´ÙÀÌ¾îÆ®ÀÇ »ç·á·Î ¹Ğ ¹ÌÄ¡´Â ¿µÇâ
+livestock science	2018	1	monogastric	original article	http://www.sciencedirect.com/science/article/pii/S187114131730358X	Gastrointestinal microbial diversity and short-chain fatty acid production in pigs fed different fibrous diets with or without cell wall-degrading enzyme supplementation	Y.J.Zhang	À§Àå°ü ¹Ì»ı¹° ´Ù¾ç¼º µÅÁö ´Ü¼â Áö¹æ»ê »ı»ê ¶Ç´Â ¼¼Æ÷º® ºĞÇØ È¿¼Ò º¸ÃæÁ¦¾øÀÌ ´Ù¸¥ ¼¶À¯ ¸ÔÀÎ
+livestock science	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S187114131730361X	"Apparent digestibility, rumen fermentation, digestive enzymes and urinary purine derivatives in yaks and Qaidam cattle offered forage-concentrate diets differing in nitrogen concentration"	J.W.Zhouab	"°Ñº¸±â ¼ÒÈ­·Â, ¹İÃßÀ§ ¹ßÈ¿, ¼ÒÈ­ È¿¼Ò¿Í ¾ßÅ© Â÷ÀÌ ´Ù¹« ¼Ò ±äÀå¼º Ç»¸° À¯µµÃ¼´Â Áú¼Ò ³óµµ°¡ »óÀÌÇÑ Æ÷¸® ³óÈÄ »ç·á¸¦ Á¦°ø"
+livestock science	2018	2	monogastric	review	https://www.sciencedirect.com/science/article/pii/S1871141317303815	"Application of natural wax markers in equine nutrition studies <U+2013> current state, limitations and perspectives"	MartinBachmanna	"¸» ¿µ¾ç ¿¬±¸ <+ 2013 U> ÇöÀç »óÅÂ, Á¦ÇÑ°ú °üÁ¡¿¡¼­ Ãµ¿¬ ¿Î½º ¸¶Ä¿ÀÇ Àû¿ë"
+livestock science	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141317303621	"Effect of vitamin E supplementation on growth performance, meat quality, and immune response of male broiler chickens: A meta-analysis"	MarianaA.Pompeua	"¼ºÀå ¼º´É, À°Áú, ³²¼º À°°èÀÇ ¸é¿ª ¹İÀÀ¿¡ ºñÅ¸¹Î E º¸ÃæÁ¦ÀÇ È¿°ú : ¸ŞÅ¸ ºĞ¼®"
+livestock science	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141317303657	The content and standardized ileal digestibility of crude protein and amino acids in rapeseed co-products fed to pigs	M.M.Kasprzaka	µÅÁö¿¡ °ø±Ş À¯Ã¤ ºÎ»ê¹°ÀÇ ÄÜÅÙÃ÷ ¹× ¿øÀ¯ ´Ü¹éÁú°ú ¾Æ¹Ì³ë»êÀÇ Ç¥ÁØ È¸Àå ¼ÒÈ­À²
+livestock science	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141317303700	Detoxification of aflatoxin B1 by lactic acid bacteria and hydrated sodium calcium aluminosilicate in broiler chickens	NingLiua	"À¯»ê±Õ°ú À°°è ¼ö»êÈ­ ³ªÆ®·ı, Ä®½· ¾Ë·ç¹Ì ÀÇÇØ ¾ÆÇÃ¶óÅå½Å B1ÀÇ ÇØµ¶"
+livestock science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300131	"Effect of substituting barley with glycerol as energy feed on feed intake, milk production and milk quality in dairy cows in mid or late lactation"	CharlotteGaillarda	"Áß¹İ ¶Ç´Â ÈÄ¹İ ¼öÀ¯¿¡¼­ Á¥¼ÒÀÇ »ç·á ¼·Ãë·®¿¡ ¿¡³ÊÁö °ø±Ş, ¿ìÀ¯ »ı»ê ¹× ¿ìÀ¯ Ç°Áú·Î ±Û¸®¼¼·Ñ°ú º¸¸®¸¦ ´ëÃ¼ÀÇ È¿°ú"
+livestock science	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300167	Milk yield and urinary-nitrogen excretion of dairy cows grazing forb pasture mixtures designed to reduce nitrogen leaching	R.H.Bryanta	Áú¼Ò Ä§ÃâÀ» ÁÙÀÌ±âÀ§ÇÑ ¸ñÀå È¥ÇÕ¹° FORB ¹æ¸ñ Á¥¼ÒÀÇ ¿ìÀ¯ ¼öÀ² ¹× ºñ´¢±â Áú¼Ò ¹è¼³
+livestock science	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300015	Dietary arginine supplementation enhances the growth performance and immune status of broiler chickens	Y.Q.Xu	½ÄÀÌ ¾Æ¸£±â´Ñ º¸ÃæÁ¦´Â À°°èÀÇ ¼ºÀå ¼º´É°ú ¸é¿ª »óÅÂ¸¦ Çâ»ó
+livestock science	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141317303785	"Effect of diet complexity, multi-enzyme complexes, essential oils, and benzoic acid on weanling pigs"	Y.Wanga	"Á¥ ¶¾ µÅÁö¿¡ ´ÙÀÌ¾îÆ® º¹Àâ¼º, ´ÙÁß È¿¼Ò º¹ÇÕÃ¼, ¿¡¼¾¼È ¿ÀÀÏ, ¹× º¥Á¶»êÀÇ È¿°ú"
+livestock science	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300179	"The effect of citric acid acidification of drinking water on growth performance, cecal pH, and cecal microflora of meat duck"	H.Liao	"¼ºÀå ¼º´É, ¸ÍÀåÀÇ pH¿¡ ??¹°À» ¸¶½Ã´Â ±¸¿¬»ê »ê¼ºÈ­, °í±â ¿À¸®ÀÇ ¸ÍÀå ¹Ì»ı¹°ÀÇ È¿°ú"
+livestock science	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300180	"Effects of chito-oligosaccharide supplementation with low or medium molecular weight and high degree of deacetylation on growth performance, nutrient digestibility and small intestinal morphology in weaned pigs"	BoonritThongsonga	ÁßÀú ºĞÀÚ·® ¼ºÀå ¼º°ú¿¡ Å» ¾Æ¼¼Æ¿ ³ôÀº ¿µ¾ç¼Ò ¼ÒÈ­¼º Á¥À» µÅÁöÀÇ ¼ÒÀå ÇüÅÂ¿Í Å°Åä ¿Ã¸®°í´ç º¸ÃæÁ¦ÀÇ È¿°ú
+livestock science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300520	"Effects of feeding systems on rumen environment, degradability and passage kinetics in Ankole ¡¿ Friesian crossbred steers"	DenisAsizuaaba	¹İÃßÀ§ È¯°æ¿¡ °ø±Ş ½Ã½ºÅÛÀÇ È¿°ú´Â AnkoleÀÇ ºĞÇØ¼º ¹× Åë·Î ¼Óµµ·Ğ È¦½ºÅ¸ÀÎ ÀâÁ¾À» Á¶Çâ ¡¿
+livestock science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300313	Genetic parameters for neonatal mortality in lambs at semi-arid region of Rajasthan India	G.R.Gowanea	¶óÀÚ½ºÅº ÀÎµµÀÇ ¹İ °ÇÁ¶ Áö¿ª¿¡¼­ ¾çÀÇ ½Å»ı¾Æ »ç¸Á·ü À¯Àü ¸Å°³ º¯¼ö
+livestock science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300581	Colostral immunoglobulin concentration and milk production of ewes fed salt tolerant forages as alternatives to berseem hay	A.S.Morsya	ÃÊÀ¯ ¸é¿ª ±Û·ÎºÒ¸° ³óµµ¿Í °ÇÃÊ¸¦ berseemÇÏ´Â ´ë¾ÈÀ¸·Î ¼Ò±İ Çã¿ë »ç·á¸¦ °ø±Ş ¾Ï¾çÀÇ ¿ìÀ¯ »ı»ê
+livestock science	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300532	"Comparison of two herbal essential oils, probiotic, and mannan-oligosaccharides on egg production, hatchability, serum metabolites, intestinal morphology, and microbiota activity of quail breeders"	M.Hajiaghapour	"¸ŞÃß¶ó±â »çÀ°ÀÇ »ê¶õÀ², ºÎÈ­À², Ç÷Ã» ´ë»ç, Àå ÇüÅÂ ¹× ¹Ì»ı¹° È°µ¿¿¡ µÎ Çãºê ¿¡¼¾¼È ¿ÀÀÏ, ÇÁ·Î ¹ÙÀÌ¿À Æ½°ú ¸¸³­ ¿Ã¸®°í´çÀÇ ºñ±³"
+livestock science	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300283	"Effects of modified montmorillonite adsorbent on performance, egg quality, serum biochemistry, oxidation status, and immune response of laying hens in late production"	X.Y.Quab	"¼öÁ¤ ¼º´É¿¡ ¸ó¸ğ¸±·Î³ªÀÌÆ® ÈíÂøÁ¦, °è¶õ Ç°Áú, Ç÷Ã» »ıÈ­ÇĞ, »êÈ­ »óÅÂ, ¸» »ı»ê »ê¶õ°èÀÇ ¸é¿ª ¹İÀÀ¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+livestock science	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300210	An evaluation of metabolizable energy content of main feed ingredients for growing pigs when adding dietary lysophospholipids	M.J.Kima	½ÄÀÌ ¸®¼Ò Æ÷½º Æ÷¸® ÇÇµå¸¦ Ãß°¡ ÇÒ ¶§ µÅÁö ¼ºÀå¿¡ ´ëÇÑ ÁÖ¿ä »ç·á ¼ººĞÀÇ ´ë»ç ¿¡³ÊÁö ÇÔ·®ÀÇ Æò°¡
+livestock science	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300246	"Meta-analysis of the relationships between reproduction, milk yield and body condition score in dairy cows"	NicolasBedere	"Á¥¼Ò Àç»ı, ¿ìÀ¯ »ı»ê·® ¹× ½ÅÃ¼ »óÅÂ Á¡¼ö °£ÀÇ °ü°è ¸ŞÅ¸ ºĞ¼®"
+livestock science	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141317303669	Comparative nutrient digestibility in different ingredients fed to Duroc ¡¿ Landrace ¡¿ Yorkshire and Duroc ¡¿ Berkshire ¡¿ Jiaxing growing barrows	J.B.Zhaoaprod	µà·Ï¿¡ °ø±ŞµÇ´Â ´Ù¸¥ ¼ººĞ¿¡ ºñ±³ ¿µ¾ç¼Ò ¼ÒÈ­À²Àº ·£µå ·¹ÀÌ½º ¡¿ ¿äÅ©¼Å ¹× µà·Ï ¡¿ ¹öÅ©¼Å ¡¿ ??°¡Èï ¼ºÀå µé°Í ¡¿
+livestock science	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300635	"Long term differentiated phosphorus supply from below to above requirement affects nutrient balance and retention, body weight gain and bone growth in growing-finishing pigs"	K.U.S©ªrensenae	"À§ÀÇ ¿ä±¸ »çÇ× ¾Æ·¡¿¡¼­ Àå±â Â÷º°È­ µÈ ÀÎ °ø±Ş ºñÀ° µÅÁöÀÇ ¿µ¾ç ±ÕÇü°ú À¯Áö, Ã¼Áß Áõ°¡ ¹× »À ¼ºÀå¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â"
+livestock science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300994	"Identification, characterization and selection of autochthonous lactic acid bacteria as probiotic for feedlot cattle"	NataliaC.Maldonado	"È®ÀÎ, Æ¯¼ºÈ­ ¹× ºñÀ° °¡Ãà ¿ë »ı±ÕÁ¦·Î¼­ ÅäÂø À¯»ê±ÕÀÇ ¼±ÅÃ"
+livestock science	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300866	Variations in nutritional and antinutritional contents among faba bean cultivars and effects on growth performance of weaner pigs	E.Ivarsson	ÆÄ¹Ù Äá Ç°Á¾ Áß ¿µ¾ç ¹× Ç× ¿µ¾ç ³»¿ëÀÇ º¯È­¿Í weaner µÅÁöÀÇ ¼ºÀå ¼º´É¿¡ ¿µÇâ
+livestock science	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S1871141318300842	Impact of energy and protein on the gastro-intestinal parasitism of small ruminants: A meta-analysis	CeiW.	ÀÛÀº ¹İÃß µ¿¹°ÀÇ À§Àå ±â»ı¿¡ ¿¡³ÊÁö¿Í ´Ü¹éÁúÀÇ ¿µÇâ : ¸ŞÅ¸ ºĞ¼®
+animal	2018	1	monogastric	original article	https://www.cambridge.org/core/product/0096129AEAEC772A6283EED24D7F92A7	Early solid additional feeding of suckling rabbits from 3 to 15 days of age	L.Kacsala	3 ¼¼ ~ 15 ÀÏ¿¡¼­ À¯¾Æ Åä³¢ÀÇ Á¶±â °íÃ¼ Ãß°¡ °ø±Ş
+animal	2018	1	monogastric	original article	https://www.cambridge.org/core/product/10187D2E9BBFF203E179F1E9D82D8D8D	Effects of rapeseed meal fiber content on phosphorus and calcium digestibility in growing pigs fed diets without or with microbial phytase	M.Bournazel	¼ºÀå µÅÁö ÀÎ¿¡ À¯Ã¤ ½Ä»ç ¼¶À¯ ÇÔ·®°ú Ä®½· ¼ÒÈ­À²ÀÇ È¿°ú´Â¾øÀÌ ¶Ç´Â ¹Ì»ı¹° ÇÇÅ¸ ¾ÆÁ¦¿Í ÇÔ²² ´ÙÀÌ¾îÆ®¸¦ °ø±Ş
+animal	2018	1	monogastric	original article	https://www.cambridge.org/core/product/FDE9A3166CE7F20D41F8A68070904B0D	Milk replacers supplemented with either L-arginine or L-carnitine potentially improve muscle maturation of early reared low birth weight piglets from hyperprolific sows	J.G.Madsen	¿ìÀ¯ ´ëÃ¼¹°Àº ÀáÀçÀû ÃÊ±â hyperprolific ¸ğµ·¿¡¼­ Àú Ãâ»ı Ã¼ÁßÀÇ µÅÁö¸¦ »çÀ°ÀÇ ±ÙÀ°ÀÇ ¼º¼÷À» °³¼± L ¾Æ¸£±â´Ñ ¶Ç´Â L Ä«¸£´ÏÆ¾ Áß º¸Ãæ
+animal	2018	1	ruminant	original article	https://www.cambridge.org/core/product/9933D2406F02B781E7C7039303F9E1C4	The development of an intraruminal nylon bag technique using non-fistulated animals to assess the rumen degradability of dietary plant materials	J.H.Pagella	ºñ fistulated µ¿¹°À» »ç¿ëÇÏ¿© intraruminal ³ªÀÏ·Ğ °¡¹æ ±â¼úÀÇ °³¹ßÀº½ÄÀÌ ½Ä¹° Àç·áÀÇ ¹İÃßÀ§ ºĞÇØ¼ºÀ» Æò°¡ÇÏ±â
+animal	2018	1	ruminant	original article	https://www.cambridge.org/core/product/CE7C151B0E8CCA30ECE278C4BFBA08D4	Feed intake and milk production in dairy cows fed different grass and legume species: a meta-analysis	M.Johansen	»ç·á ¼·Ãë·® ¹× Á¥¼ÒÀÇ ¿ìÀ¯ »ı»êÀº ´Ù¸¥ Ç®°ú Äá°ú ½Ä¹° Á¾À» °ø±Ş : ¸ŞÅ¸ ºĞ¼®À»
+animal	2018	2	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/influence-of-paraaminohippuric-acid-analysis-on-net-portaldrained-viscera-flux-of-nutrients-in-pigs/391061E8F12B0180E6439F556DBF13B1	Influence of para-aminohippuric acid analysis on net portal-drained viscera flux of nutrients in pigs	I.Fernandez-Figares	µÅÁöÀÇ ¿µ¾ç¼ÒÀÇ ¼ø Æ÷ÅĞ ¹è¼ö°¡ ³»Àå ÇÃ·°½º¿¡ ÆÄ¶ó aminohippuric »ê ºĞ¼®ÀÇ ¿µÇâ
+animal	2018	2	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/mode-of-action-of-saccharomyces-cerevisiae-in-enteric-methane-mitigation-in-pigs/6B94DD8C201E573606049858C15807EA	Mode of action of Saccharomyces cerevisiae in enteric methane mitigation in pigs	Y.L.Gong	µÅÁöÀÇ Àå³» ¸ŞÅº ¿ÏÈ­¿¡ »çÄ« »çÄ«·Î ¸¶ÀÌ ¼¼½º ¼¼·¹ ºñ½Ã ¾ÖÀÇ Çàµ¿ÀÇ ¸ğµå
+animal	2018	2	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/grape-pomace-improves-performance-antioxidant-status-fecal-microbiota-and-meat-quality-of-piglets/A33DCD65196A681881FAB71704AA5C2B	"Grape pomace improves performance, antioxidant status, fecal microbiota and meat quality of piglets"	I.Kafantaris	"Æ÷µµ Âî²¨±â´Â ¼º´É, Ç×»êÈ­ »óÅÂ, ¹è¼³¹° ¹Ì»ı¹° ¹× µÅÁö °í±âÀÇ Ç°ÁúÀ» Çâ»ó"
+animal	2018	2	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/growth-meat-and-feed-efficiency-traits-of-lambs-born-to-ewes-submitted-to-energy-restriction-during-midgestation/BF8E65D4490CA7AC3CD9F5338526F915	"Growth, meat and feed efficiency traits of lambs born to ewes submitted to energy restriction during mid-gestation"	L.Piaggio	"¼ºÀå, Áß¹İ ÀÓ½Å Áß ¿¡³ÊÁö Á¦ÇÑ¿¡ Á¦Ãâ ¾Ï¾ç¿¡ ÅÂ¾î³­ µÈ ¾çÀÇ °í±â¿Í »ç·á È¿À² Æ¯¼º"
+animal	2018	2	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/impact-of-animal-density-on-cattle-nutrition-in-dry-mediterranean-rangelands-a-faecal-nearir-spectroscopyaided-study/84D25BE8B56B42EC8D236D4CF5639096	Impact of animal density on cattle nutrition in dry Mediterranean rangelands: a faecal near-IR spectroscopy-aided study	S.Y.Landau	°ÇÁ¶ÇÑ ÁöÁßÇØ ¹æ¸ñÀåÀÇ °¡Ãà ¿µ¾ç¿¡ µ¿¹° ¹ĞµµÀÇ ¿µÇâ : ¹è¼³¹° ±ÙÀû¿Ü¼± ºĞ±¤¹ı ÁÖ¾ú ¿¬±¸
+animal	2018	2	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/postweaning-feed-efficiency-decreased-in-progeny-of-higher-milk-yielding-beef-cows/CCED17F555C5D61913188485866D3C51	Post-weaning feed efficiency decreased in progeny of higher milk yielding beef cows	J.T.Mulliniks	ÈÄ ÀÌÀ¯ÀÇ »ç·á È¿À²ÀÌ ³ôÀº ¿ìÀ¯ »êÃâ ¼è°í±â Á¥¼ÒÀÇ ÀÚ¼Õ °¨¼Ò
+animal	2018	2	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/effect-of-dietary-addition-of-nitrate-or-increase-in-lipid-concentrations-alone-or-in-combination-on-performance-and-methane-emissions-of-beef-cattle/042AD9AB21B81F20CB3AD11450179DB5	"The effect of dietary addition of nitrate or increase in lipid concentrations, alone or in combination, on performance and methane emissions of beef cattle"	C.-A.Duthie	"À°¿ìÀÇ ¼º´É°ú ¸ŞÅº ¹èÃâ¿¡ Áú»ê ¶Ç´Â ÁöÁú ³óµµ, ´Üµ¶ ¶Ç´Â Á¶ÇÕÀÇ Áõ°¡½ÄÀÌ Ãß°¡ÀÇ È¿°ú,"
+animal	2018	3	general	original article	https://www.cambridge.org/core/journals/animal/article/prediction-of-cp-and-starch-concentrations-in-ruminal-in-situ-studies-and-ruminal-degradation-of-cereal-grains-using-nirs/CCA4AB28D34F110A889D67C2344E873D	Prediction of CP and starch concentrations in ruminal in situ studies and ruminal degradation of cereal grains using NIRS	J.Krieg	ÇöÀå ¿¬±¸¿Í NIRS¸¦ »ç¿ë °î¹°ÀÇ ¹İÃßÀ§¿¡¼­ ºĞÇØ ¹İÃßÀ§¿¡¼­ CP ÀüºĞ ³óµµ ¿¹Ãø
+animal	2018	3	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/relative-reticulorumen-ph-indicators-for-subacute-ruminal-acidosis-detection-in-dairy-cows/30322381F45AC9E9E90364DC57220B67	Relative reticulo-rumen pH indicators for subacute ruminal acidosis detection in dairy cows	C.Villot	Á¥¼Ò ±Ş¼º ¹İÃßÀ§ »êÁõ °ËÃâÇÏ´Â »ó´ë ¼¼¸Á ¹İÃßÀ§ pH¸¦ ÁöÇ¥
+animal	2018	3	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/effects-of-isovalerate-supplements-on-morphology-and-functional-gene-expression-of-rumen-mucosa-in-pre-and-postweaning-dairy-calves/1F609EB9073B24D005ED59F8969EC53E	Effects of isovalerate supplements on morphology and functional gene expression of rumen mucosa in pre- and post-weaning dairy calves	Q.Liu	ÀüÈÄ ÀÌÀ¯ ³«³ó ¼Û¾ÆÁö ÇüÅÂ¿Í ¹İÃßÀ§ Á¡¸· ±â´ÉÀÇ À¯ÀüÀÚ ¹ßÇö¿¡ ¹ÌÄ¡´Â ¿µÇâ ÀÌ¼Ò ¹ß·¹ º¸Ãæ
+animal	2018	3	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/linseed-plus-nitrate-in-the-diet-for-fattening-bulls-effects-on-methane-emission-animal-health-and-residues-in-offal/C920620905BD27D34CC6CD595E6A4BD4	"Linseed plus nitrate in the diet for fattening bulls: effects on methane emission, animal health and residues in offal"	M.Doreau	"ºñÀ° È²¼ÒÀÇ ½Ä´Ü¿¡ ¾Æ¸¶¾¾ ÇÃ·¯½º Áú»ê : ¸ŞÅº ¹æÃâ, µ¿¹° °Ç°­ ¹× °ÜÀÇ ÀÜ·ù ¹°¿¡ ´ëÇÑ ¿µÇâ"
+animal	2018	3	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/effects-of-dry-period-length-on-milk-production-and-energy-balance-in-two-cow-breeds/D5C220886A9DE02411D70F4CD997DA3B	Effects of dry period length on milk production and energy balance in two cow breeds	E.AndreeO¡¯Haran	ÀÌ °³ ¼Ò Ç°Á¾ÀÇ ¿ìÀ¯ »ı»ê ¹× ¿¡³ÊÁö ±ÕÇü¿¡ °ÇÁ¶ÁÖ±â ±æÀÌÀÇ È¿°ú
+animal	2018	3	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/evidence-for-increasing-digestive-and-metabolic-efficiency-of-energy-utilization-with-age-of-dairy-cattle-as-determined-in-two-feeding-regimes/51A5C11EABF5BCE337D3188EDB2A152E	Evidence for increasing digestive and metabolic efficiency of energy utilization with age of dairy cattle as determined in two feeding regimes	F.Grandl	ÀÌ °³ ¸ÔÀÌ Á¤±Ç¿¡¼­ °áÁ¤µÇ´Â Á¥¼ÒÀÇ ¿¬·É°ú ¿¡³ÊÁö ÀÌ¿ëÀÇ ¼ÒÈ­±â °èÅë ¹× ½ÅÁø ´ë»ç È¿À²À» Áõ°¡¿¡ ´ëÇÑ Áõ°Å
+animal	2018	4	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/effect-of-dietary-nutrients-on-ileal-endogenous-losses-of-threonine-cysteine-methionine-lysine-leucine-and-protein-in-broiler-chicks/EDBD7F7484A06AEF1265687BE6E5ADF7	"Effect of dietary nutrients on ileal endogenous losses of threonine, cysteine, methionine, lysine, leucine and protein in broiler chicks"	S.Cerrate	"À°°è º´¾Æ¸® Æ®·¹¿À´Ñ, ½Ã½ºÅ×ÀÎ, ¸ŞÆ¼¿À´Ñ, ¶óÀÌ½Å, ·ù½Å ¹× ´Ü¹éÁúÀÇ È¸Àå ³»»ı ¼Õ½Ç¿¡½ÄÀÌ ¿µ¾ç¼ÒÀÇ È¿°ú"
+animal	2018	4	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/feeding-broilers-with-dry-whey-powder-and-whey-protein-concentrate-affected-productive-performance-ileal-digestibility-of-nutrients-and-cecal-microbiota-community/DFC13AE6A164C9E95DA7A48696AD465A	"Feeding broilers with dry whey powder and whey protein concentrate affected productive performance, ileal digestibility of nutrients and cecal microbiota community"	C.Pineda-Quiroga	"°ÇÁ¶ À¯Ã» ºĞ¸»°ú À¯Ã» ´Ü¹éÁú »ç·á À°°è »ı»ê¼º ¼º´É, ¿µ¾ç¼ÒÀÇ È¸Àå ¼ÒÈ­À²°ú ¸ÍÀå ¹Ì»ı¹° Ä¿¹Â´ÏÆ¼¿¡ ¿µÇâ ³óÃà¾×"
+animal	2018	4	general	review	https://www.cambridge.org/core/journals/animal/article/review-to-be-or-not-to-be-an-identifiable-model-is-this-a-relevant-question-in-animal-science-modelling/59B51BAF48C63A1874665FC8EEB173C3	Review: To be or not to be an identifiable model. Is this a relevant question in animal science modelling?	R.Munoz-Tamayo	°ËÅä µÇ·Á¸é ¶Ç´Â ½Äº° ¸ğµ¨ ¼ö ¾ø½À´Ï´Ù. ÀÌ µ¿¹° °úÇĞ ¸ğµ¨¸µ °ü·Ã Áú¹®ÀÎ°¡?
+animal	2018	4	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/plane-of-nutrition-during-the-rearing-phase-for-replacement-ewes-of-four-genotypes-i-effects-on-growth-and-development-and-on-ovulation-rate-at-first-joining/8569497BAB2847809EC0C677ADDC782F	"Plane of nutrition during the rearing phase for replacement ewes of four genotypes: I <U+2013> effects on growth and development, and on ovulation rate at first joining"	T.W.J.Keady	"³× °³ÀÇ À¯ÀüÀÚÇüÀÇ ±³Ã¼ ¾Ï¾çÀÇ »çÀ° ´Ü°è¿¡¼­ ¿µ¾çÀÇ ºñÇà±â : ³ª´Â <U + 2013> Ã¹ ¹øÂ° °áÇÕ¿¡¼­ ¼ºÀå°ú ¹ßÀü, ±×¸®°í ¹è¶õ ¼Óµµ¿¡ ´ëÇÑ ¿µÇâÀ»"
+animal	2018	4	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/plane-of-nutrition-during-the-rearing-phase-for-replacement-ewes-of-four-genotypes-ii-effects-on-performance-during-first-pregnancy-and-to-weaning-and-of-their-progeny/1797086FF098D24F9B6B4719F687576B	"Plane of nutrition during the rearing phase for replacement ewes of four genotypes: II - effects on performance during first pregnancy and to weaning, and of their progeny"	T.W.J.Keady	"³× °³ÀÇ À¯ÀüÀÚÇüÀÇ ±³Ã¼ ¾Ï¾çÀÇ »çÀ° ´Ü°è¿¡¼­ ¿µ¾çÀÇ ºñÇà±â : II - Ã¹¹øÂ° ÀÓ½Å Áß ¼º´É¿¡ ´ëÇÑ ¿µÇâ°ú ÀÌÀ¯, ±×¸®°í ±×µéÀÇ ÀÚ¼ÕÀÇ"
+animal	2018	4	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/nutrient-intake-rumen-fermentation-and-growth-performance-of-dairy-calves-fed-extruded-fullfat-soybean-as-a-replacement-for-soybean-meal/5E72B03B4FA824C10922F0ECC2AFEBA0	"Nutrient intake, rumen fermentation and growth performance of dairy calves fed extruded full-fat soybean as a replacement for soybean meal"	A.ZeidAli-Nejad	"¿µ¾ç ¼·Ãë, ¹İÃßÀ§ ¹ßÈ¿ ¹× À¯Á¦Ç° ¼Û¾ÆÁöÀÇ ¼ºÀå ¼º´ÉÀº ´ëµÎ¹ÚÀ» ´ëÃ¼ ¾ĞÃâ ÀüÃ¼ Áö¹æ ÄáÀ» °ø±Ş"
+animal	2018	4	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/metabolic-and-stress-responses-in-dairy-cows-fed-a-concentraterich-diet-and-submitted-to-intramammary-lipopolysaccharide-challenge/1C5FDCD4E3FAFDB209624D8367102511	Metabolic and stress responses in dairy cows fed a concentrate-rich diet and submitted to intramammary lipopolysaccharide challenge	S.Aditya	Á¥¼ÒÀÇ ´ë»ç ¹× ½ºÆ®·¹½º ¹İÀÀÀº ³óÃà ¹°ÀÌ Ç³ºÎÇÑ À½½ÄÀ» °ø±ŞÇÏ°í ÁöÁú ´Ù´ç·ùÀÇ µµÀüÀ» À¯¹æ¿¡ Á¦Ãâ
+animal	2018	4	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/feeding-dried-distillers-grains-with-solubles-to-lactating-beef-cows-impact-of-excess-protein-and-fat-on-postweaning-progeny-growth-glucose-tolerance-and-carcass-traits/86336BDA9818F7EFBCE8158D88AA7CEC	"Feeding dried distillers grains with solubles to lactating beef cows: impact of excess protein and fat on post-weaning progeny growth, glucose tolerance and carcass traits"	C.N.Shee	"ÈÄ ÀÌÀ¯ ÀÚ¼ÕÀÇ ¼ºÀå, Æ÷µµ´ç ³»¼º°ú µµÃ¼ Æ¯¼º¿¡ ¿©ºĞÀÇ ´Ü¹éÁú°ú Áö¹æÀÇ ¿µÇâ : ¼è°í±â ¼Ò¸¦ ¼öÀ¯¿¡ °¡¿ë¼º ¹°Áú°ú °ÇÁ¶ Áõ·ù °î¹°À» ¸ÔÀÌ"
+animal	2018	4	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/effect-of-glycerol-supplementation-during-early-lactation-on-milk-yield-milk-composition-nutrient-digestibility-and-blood-metabolites-of-dairy-buffaloes/AA61BE09E7B1FF7948B3FDFF5226E24B	"Effect of glycerol supplementation during early lactation on milk yield, milk composition, nutrient digestibility and blood metabolites of dairy buffaloes"	A.M.Saleem	ÃÊ±â ¿ìÀ¯ »ı»ê·®¿¡ ºñÀ¯ ¿ìÀ¯ Á¶¼º¹° ¿µ¾ç¼Ò ¼ÒÈ­¼º À¯Á¦Ç° ¹°¼Ò Ç÷¾× Áß¿¡ ±Û¸®¼¼·Ñ ´ë»ç º¸ÃæÁ¦ÀÇ È¿°ú
+animal	2018	5	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/effects-of-feeding-low-fishmeal-diets-with-increasing-soybean-meal-levels-on-growth-gut-histology-and-plasma-biochemistry-of-sea-bass/51D3DE885BAA931FD71D999FC1854D6F	"Effects of feeding low fishmeal diets with increasing soybean meal levels on growth, gut histology and plasma biochemistry of sea bass"	E.Bonvini	"³ó¾îÀÇ ¼ºÀå, Àå³» Á¶Á÷ÇĞ ¹× ÇÃ¶óÁî¸¶ »ıÈ­ÇĞ¿¡ Áõ°¡ ´ëµÎ¹Ú ¼öÁØ ³·Àº ¾îºĞ »ç·á¸¦ ¸ÔÀÌÀÇ È¿°ú"
+animal	2018	5	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/effects-of-methionine-hydroxy-analogue-supplementation-on-the-expression-of-antioxidantrelated-genes-of-acute-heat-stressexposed-broilers/1FC570D49E3A0DE4F7A8FEC86B246486	Effects of methionine hydroxy analogue supplementation on the expression of antioxidant-related genes of acute heat stress-exposed broilers	E.Gasparino	±Ş¼º ¿­ ÀÀ·Â¿¡ ³ëÃâ µÈ ºê·ÎÀÏ·¯ »êÈ­ °ü·Ã À¯ÀüÀÚµéÀÇ ¹ßÇö¿¡ ¸ŞÆ¼¿À´Ñ ·Ï½Ã ¾Æ³¯·Î±× º¸ÃæÁ¦ÀÇ È¿°ú
+animal	2018	5	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/prediction-of-the-amino-acid-digestibility-of-legume-seeds-in-growing-pigs-a-metaanalysis-approach/59BAA14E9DFD32C439B2AD4E7F603AAD	Prediction of the amino acid digestibility of legume seeds in growing pigs: a meta-analysis approach	F.Messad	µÅÁö ¼ºÀå¿¡ Äá°ú ½Ä¹° ¾¾¾ÑÀÇ ¾Æ¹Ì³ë»ê ¼ÒÈ­À²ÀÇ ¿¹Ãø : ¸ŞÅ¸ ºĞ¼® ¹æ¹ı
+animal	2018	5	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/pelleting-and-extrusion-can-ameliorate-negative-effects-of-toasting-of-rapeseed-meal-on-protein-digestibility-in-growing-pigs/67B51677A7D6687D00C07FA81E9E6251	Pelleting and extrusion can ameliorate negative effects of toasting of rapeseed meal on protein digestibility in growing pigs	S.Salazar-Villanea	Æç·¿ ¹× ¾ĞÃâ ¼ºÀå µÅÁöÀÇ ´Ü¹éÁú ¼ÒÈ­¿¡ À¯Ã¤ ½Ä»çÀÇ Åä½ºÆ®ÀÇ ºÎÁ¤ÀûÀÎ ¿µÇâÀ» °³¼± ÇÒ ¼ö ÀÖ½À´Ï´Ù
+animal	2018	5	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/growth-performance-and-digestion-of-growing-lambs-fed-diets-supplemented-with-glycerol/5FAFE959A59C48D86CC8BC96D92679A3	Growth performance and digestion of growing lambs fed diets supplemented with glycerol	A.M.Saleem	¼ºÀå ¼º´É°ú ´ÙÀÌ¾îÆ®¸¦ °ø±Ş Áõ°¡ÇÏ´Â ¾çÀÇ ¼ÒÈ­ ±Û¸®¼¼·Ñ º¸Ãæ
+animal	2018	5	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/effects-of-replacement-of-moringa-oleifera-for-berseem-clover-in-the-diets-of-nubian-goats-on-feed-utilisation-and-milk-yield-composition-and-fatty-acid-profile/1F3954B17DE03C20B764B2DD2C4A4E62	"Effects of replacement of Moringa oleifera for berseem clover in the diets of Nubian goats on feed utilisation, and milk yield, composition and fatty acid profile"	A.E.Kholif	"ÇÇµå »ç¿ë·ü ´©ºñ ¿°¼Ò »ç·á¿¡ berseem Å¬·Î¹ö ¹× ¿ìÀ¯ »ı»ê·®, Á¶¼º¹° ¹× Áö¹æ»ê ÇÁ·ÎÇÊ ¸ğ ¸µ°¡ ´ëÃ¼ È¿°ú"
+animal	2018	5	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/monitoring-and-assessment-of-ingestive-chewing-sounds-for-prediction-of-herbage-intake-rate-in-grazing-cattle/4DA44AC6FA6506BC194448D7D5FA32E4	Monitoring and assessment of ingestive chewing sounds for prediction of herbage intake rate in grazing cattle	J.R.Galli	¸ğ´ÏÅÍ¸µ ¹× ingestive ¾Ã´ÂÀÇ Æò°¡´Â ¹æ¸ñ °¡ÃàÀÇ ¸ñÃÊ ¼·Ãë ¼ÓµµÀÇ ¿¹Ãø ¼Ò¸®
+animal	2018	5	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/combined-effects-of-oleic-linoleic-and-linolenic-acids-on-lactation-performance-and-the-milk-fatty-acid-profile-in-lactating-dairy-cows/AFEE33462874B166C9203C8C116BC759	"Combined effects of oleic, linoleic and linolenic acids on lactation performance and the milk fatty acid profile in lactating dairy cows"	C.Bai	"Á¥¼ÒÀÇ Á¥À» ¿Ã·¹»ê, ¸®³î·¹»ê ¹× ¼öÀ¯ ¼º´É ¸®³î·»»ê ¹× ¿ìÀ¯ Áö¹æ»ê ÇÁ·ÎÆÄÀÏÀÇ °áÇÕ È¿°ú"
+animal	2018	5	monogastric	review	https://www.cambridge.org/core/journals/animal/article/review-pork-production-with-maximal-nitrogen-efficiency/017227D23788A84F65FC2F373B092332	Review: Pork production with maximal nitrogen efficiency	S.Millet	°ËÅä : ÃÖ´ë Áú¼Ò È¿À² µÅÁö °í±â »ı»ê
+animal	2018	6	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/viscosity-negatively-affects-the-nutritional-value-of-blue-lupin-seeds-for-broilers/A8CF9B2417A4BB23629DE4CE4D5C99CC	Viscosity negatively affects the nutritional value of blue lupin seeds for broilers	P.Konieczka	Á¡µµ ºÎÁ¤ÀûÀÎ À°°è ÆÄ¶õ»ö ·çÇÇ ³Ê½º ¾¾¾ÑÀÇ ¿µ¾ç °¡Ä¡¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â
+animal	2018	6	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/reducing-agent-can-be-omitted-in-the-incubation-medium-of-the-batch-in-vitro-fermentation-model-of-the-pig-intestines/C9F9E0DE5EE06768C7D637255AF40E83	Reducing agent can be omitted in the incubation medium of the batch in vitro fermentation model of the pig intestines	C.Poelaert	È¯¿øÁ¦ µÅÁö Ã¢ÀÚ ¹ßÈ¿ ½ÃÇè °ü³» ¸ğµ¨¿¡¼­ ¹èÄ¡ÀÇ ¹è¾ç ¹èÁö¿¡¼­ »ı·« µÉ ¼öÀÖ´Ù
+animal	2018	6	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/consequences-of-dietary-calcium-and-phosphorus-depletion-and-repletion-feeding-sequences-on-growth-performance-and-body-composition-of-growing-pigs/03BF19E23E6208C80F3A2453AE0E4466	Consequences of dietary calcium and phosphorus depletion and repletion feeding sequences on growth performance and body composition of growing pigs	E.Gonzalo	½ÄÀÌ Ä®½·°ú ÀÎ °í°¥°ú ¼ºÀå ¼º´É ¹× ¼ºÀå µÅÁöÀÇ ½ÅÃ¼ ±¸¼º¿¡ Ãæ¸¸ °ø±Ş ½ÃÄö½ºÀÇ °á°ú
+animal	2018	6	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/an-assessment-of-walkoverweighing-to-estimate-shortterm-individual-forage-intake-in-sheep/BA186989F64A7FC39A25D1B9C94E737A	An assessment of Walk-over-Weighing to estimate short-term individual forage intake in sheep	E.Gonzalez-Garcia	ÀÇ Æò°¡ ¾ç ´Ü±â °³º° »ç·á ¼·Ãë·®À» ÃßÁ¤ÇÏ´Â ¿öÅ© - ÀÌ»ó - ¹«°Ô
+animal	2018	6	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/modeling-homeorhetic-trajectories-of-milk-component-yields-body-composition-and-drymatter-intake-in-dairy-cows-influence-of-parity-milk-production-potential-and-breed/2A68C35D2888F984921EE9FDF3D5C26A	"Modeling homeorhetic trajectories of milk component yields, body composition and dry-matter intake in dairy cows: Influence of parity, milk production potential and breed"	J.B.Daniel	"ÆĞ¸®Æ¼ÀÇ ¿µÇâ, ¿ìÀ¯ »ı»ê ÀáÀç·Â°ú Ç°Á¾ : homeorhetic ¿ìÀ¯ ¼ººĞÀÇ ¼öÀ², Á¥¼ÒÀÇ ½ÅÃ¼ ±¸¼º ¹× µå¶óÀÌ ¼·Ãë·®ÀÇ ±Ëµµ ¸ğµ¨¸µ"
+animal	2018	6	monogastric	original article	https://www.cambridge.org/core/journals/animal/article/modelling-interactions-between-farmer-practices-and-fattening-pig-performances-with-an-individualbased-model/36D59E28F58E17CF75B18CC7748DC199	Modelling interactions between farmer practices and fattening pig performances with an individual-based model	A.Cadero	°³ÀÎ ±â¹İ ¸ğµ¨°ú ³óºÎ °üÇà ¹× ºñÀ° µÅÁö °ø¿¬ »çÀÌÀÇ »óÈ£ ÀÛ¿ëÀ» ¸ğµ¨¸µ
+animal	2018	6	ruminant	original article	https://www.cambridge.org/core/journals/animal/article/evaluation-of-trace-element-status-of-organic-dairy-cattle/0AF84F0871F1DDD1496854F32DD185EA	Evaluation of trace element status of organic dairy cattle	I.Orjales	À¯±â Á¥¼ÒÀÇ ¹Ì·® ¿ø¼Ò »óÅÂÀÇ Æò°¡
+poultry science	2018	1	monogastric	review	https://academic.oup.com/ps/article/97/1/84/4565704	A meta-analysis on the effect of canthaxanthin on egg production in brown egg layers                 	MUmarFaruk	°¥»ö °è¶õ Ãş °è¶õ »ı»ê¿¡ Ä­ Å¸ÀÜ Æ¾ÀÇ È¿°ú¿¡ ´ëÇÑ ¸ŞÅ¸ ºĞ¼®
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/262/4609698	Interactions of dietary protein and threonine on growth performance in Pekin ducklings from 1 to 14 days of age                  	YJiang	»ıÈÄ 1 ~ 14 ÀÏ¿¡¼­ PekinÀÇ ¿À¸® ¼ºÀå ¼º´É¿¡½ÄÀÌ ´Ü¹éÁú°ú ¾² ·¹¿À ´ÑÀÇ »óÈ£ ÀÛ¿ë
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/267/4565727	Prediction model for manure zinc excretion in laying hens                 	KMMartin	»ê¶õ°èÀÇ ºĞ´¢ ¾Æ¿¬ ¹è¼³¿¡ ´ëÇÑ ¿¹Ãø ¸ğµ¨
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/88/4565706	"Effect of different split-feeding treatments on performance, egg quality, and bone quality of individually housed aged laying hens                 "	AMolnar	"°³º°ÀûÀ¸·Î º¸°üµÇ¾î ¼¼ »ê¶õ°èÀÇ ¼º´É, °è¶õ Ç°Áú ¹× °ñÁú¿¡ ´Ù¸¥ ºĞÇÒ ¸ÔÀÌ Ä¡·áÀÇ È¿°ú"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/102/4565708	Effects of supplemental L-methionine on growth performance and redox status of turkey poults compared with the use of DL-methionine                	IPark	¼ºÀå ¼º´É ¹× DL ¸ŞÆ¼¿À´ÑÀÇ »ç¿ë°ú ºñ±³ÇÏ¿© Ä¥¸éÁ¶ poultsÀÇ »êÈ­ È¯¿ø »óÅÂ¿¡¼­ º¸Ãæ L ¸ŞÆ¼¿À´Ñ È¿°ú
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/110/4565709	"Effects of in ovo feeding of cationic amino acids on hatchability, hatch weights, and organ developments in domestic pigeon squabs (Columba livia)                 "	XYZhang	"±¹³» ºñµÑ±â »õ³¢ »õ ¾çÀÌ¿Â ¾Æ¹Ì³ë ºÎÈ­À²¿¡ »ê, Ã¢±¸ µÎ²² ¹× Àå±â ¹ßÀü ¿Àº¸ ¸ÔÀÌ È¿°ú (ºñµÑ±â livia)"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/118/4565710	"Effects of dietary Lactobacillus rhamnosus CF supplementation on growth, meat quality, and microenvironment in specific pathogen-free chickens                 "	FChen	"¹«±Õ ´ß½ÄÀÌ ¼ºÀå¿¡ À¯»ê±Õ rhamnosusÀÇ CF º¸Ãæ, °í±â Ç°Áú ¹× ¹Ì¼¼ È¯°æ¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/124/4590020	"Apparent metabolizable energy of by-products from the soybean oil industry for broilers: acidulated soapstock, glycerin, lecithin, and their mixture                 "	LBorsatti	"°Ñº¸±â ´ë»ç ºÎ»ê¹° À°°èÀÇ Äá ¼®À¯ »ê¾÷¿¡¼­ÀÇ ¿¡³ÊÁö : »ê¼ºÈ­ soapstock, ±Û¸®¼¼¸°, ·¹½ÃÆ¾, ±×µéÀÇ È¥ÇÕ¹°"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/131/4565714	Investigating the effect of dietary calcium levels on ileal endogenous amino acid losses and standardized ileal amino acid digestibility in broilers and laying hens                	SAAdedokun	È¸Àå ³»»ı ¾Æ¹Ì³ë»ê ¼Õ½Ç°ú À°°èÀÇ Ç¥ÁØÈ­ È¸Àå ¾Æ¹Ì³ë»ê ¼ÒÈ­À² ¹× »ê¶õ°èÀÇ½ÄÀÌ Ä®½· ³óµµÀÇ ¿µÇâÀ» Á¶»ç
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/140/4565715	In ovo feeding of L-arginine alters energy metabolism in post-hatch broilers                 	LLYu	L ¾Æ¸£±â´Ñ ¿Àº¸ ¼öÀ¯ ÈÄ ÇØÄ¡ ºê·ÎÀÏ·¯¿¡¼­ ¿¡³ÊÁö ´ë»ç¸¦ º¯°æ
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/149/4565716	"The interactive effect of dietary n-6:<U+00A0>n-3 fatty acid ratio and vitamin E level on tissue lipid peroxidation, DNA damage in intestinal epithelial cells, and gut morphology in chickens of different ages                 "	PKonieczka	"ÀÇ »óÈ£ ÀÛ¿ë È¿°ú½ÄÀÌ N-6 <U + 00A0> N-3 ´Ù¸¥ ¿¬·ÉÀÇ ´ßÀÇ Áö¹æ»ê ºñÀ² ¹× Á¶Á÷ÀÇ ÁöÁú °ú»êÈ­¿¡ ºñÅ¸¹Î E ¼öÁØ, Àå »óÇÇ ¼¼Æ÷¿¡¼­ÀÇ DNA ¼Õ»ó°ú Á÷°¨ ¸ğÆú·ÎÁö"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/159/4565719	Performance and serum biochemical profile of Japanese quail supplemented with silymarin and contaminated with aflatoxin B1                	MISakamoto	¼º´É ¹× ÀÏº»¾î ¸ŞÃß¶ó±âÀÇ Ç÷Ã» »ıÈ­ÇĞ ½Ç¸®¸¶¸° º¸Ãæ ¹× ¾ÆÇÃ¶óÅå½Å B1 ¿À¿°
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/167/4565720	Butyrate presence in distinct gastrointestinal tract segments modifies differentially digestive processes and amino acid bioavailability in young broiler chickens                 	PCAMoquet	º°°³ À§Àå°ü ¼¼±×¸ÕÆ® ºÎÆ¼·¹ÀÌÆ® Á¸Àç ÀşÀº À°°è Â÷ºĞ ¼ÒÈ­ °øÁ¤ ¹× ¾Æ¹Ì³ë»ê »ıÃ¼ ÀÌ¿ë·üÀ» ¼öÁ¤
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/177/4566212	"Effects of dietary threonine and immune stress on growth performance, carcass trait, serum immune parameters, and intestinal muc2 and NF-¥êb gene expression in Pekin ducks from hatch to 21 days                 "	YBi 	"ºÎÈ­ 21 ÀÏ Pekin ¿À¸®ÀÔ´Ï´Ù½ÄÀÌ Æ®·¹¿À´Ñ ¹× ¸é¿ª ¼ºÀå ¼º´É¿¡ ½ºÆ®·¹½º, µµÃ¼ Æ¯¼º, Ç÷Ã» ¸é¿ª ¸Å°³ º¯¼ö ¹× Àå MUC2 ¹× NF-¥êB À¯ÀüÀÚ ¹ßÇö¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/188/4565722	"Phosphorus bioavailability in increased-protein, reduced-fiber canola meal, conventional canola meal, and soybean meal fed to crossbred chicks                 "	CDHanna	Áõ°¡ µÈ ´Ü¹éÁú °¨¼Ò ¼¶À¯ ³î¶ó ½Ä»ç Á¾·¡ ³î¶ó ½Ä»ç ¹× ´ëµÎ¹Ú ÀÎÀÇ »ıÃ¼ ÀÌ¿ë·üÀº ÀâÁ¾ º´¾Æ¸® °ø±Ş
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/196/4609700	"Effects of dietary supplemental bile acids on performance, carcass characteristics, serum lipid metabolites and intestinal enzyme activities of broiler chickens                 "	WenqingLai	¼º´É½ÄÀÌ º¸Ãæ ´ãÁó»ê Ä¿½º Æ¯¼º Ç÷Ã» ÁöÁú ´ë»ç ¹× À°°è Àå³» È¿¼Ò È°¼ºÀÇ È¿°ú
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/203/4565723	Influence of different yeast cell wall preparations and their components on performance and immune and metabolic pathways in Clostridium perfringens-challenged broiler chicks                 	MohammedMHashim	´Ù¸¥ È¿¸ğ ¼¼Æ÷º® ÁØºñ ¹× Å¬·Î½º Æ®¸® µğ¿òÀÇ ¼º´É°ú ¸é¿ª ¹× ´ë»ç °æ·Î¿¡ ±¸¼º ¿ä¼ÒÀÇ ¿µÇâ À°°è º´¾Æ¸®¸¦ ÆÛÇÁ ¸° Á¨½º´Â-µµÀü
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/211/4565724	"Effects of a high level of phytase on broiler performance, bone ash, phosphorus utilization, and phytate dephosphorylation to inositol                 "	AEGautier	"À°°è ¼º´É, »À °¡·ç, ÀÎ »ç¿ë·ü ÇÇÅ¸ ¾ÆÁ¦ÀÇ ³ôÀº ¼öÁØÀÇ È¿°ú ¹× ÀÌ³ë½ÃÅç·Î Å» ÀÎ»êÈ­ ÇÇ Å×ÀÌÆ®"
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/219/4590021	High stocking density alters bone-related calcium and phosphorus metabolism by changing intestinal absorption in broiler chickens                 	ZWSun	ÀÔ½Ä ¹Ğµµ À°°è Àå³» Èí¼ö¸¦ º¯°æÇÏ¿© »À¿Í °ü·ÃµÈ Ä®½·°ú ÀÎÀÇ ´ë»ç¸¦ º¯°æ
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/227/4601754	A sinusoidal function and the Nelder-Mead simplex algorithm applied to growth data from broiler chickens                 	HDarmaniKuhi	À°°è¿¡¼­ ¼ºÀå µÈ µ¥ÀÌÅÍ¿¡ Àû¿ëµÇ´Â Á¤ÇöÆÄ ÇÔ¼ö¿Í Nelder-¹Ìµå ´ÜÃ¼ ¹ı
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/236/4591658	Screening lactic acid bacteria to manufacture two-stage fermented feed and pelleting to investigate the feeding effect on broilers                 	RueiHanYeh	ÀÌ´Ü ¹ßÈ¿ »ç·á¸¦ Á¦Á¶ÇÏ´Â À¯»ê±ÕÀ» ½ºÅ©¸®´×ÇÏ´Â Æç·¿ À°°è¿¡ °ø±Ş È¿°ú¸¦ Á¶»ç
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/247/4565730	Effects of dietary Mn-methionine supplementation on the egg quality of laying hens                 	LLLi	»ê¶õ°èÀÇ °è¶õ Ç°Áú¿¡½ÄÀÌ MN-¸ŞÆ¼¿À´Ñ º¸ÃæÁ¦ÀÇ È¿°ú
+poultry science	2018	1	monogastric	original article	https://academic.oup.com/ps/article/97/1/255/4565733	"Influence of emulsifier blends having different hydrophilic-lipophilic balance value on growth performance, nutrient digestibility, serum lipid profiles, and meat quality of broilers                  "	SDUpadhaya	"À¯È­Á¦ÀÇ ¿µÇâÀº ¼ºÀå ¼º´É, ¿µ¾ç¼Ò ¼ÒÈ­À², Ç÷Ã» ÁöÁú ÇÁ·ÎÇÊ ¹× À°°èÀÇ À°Áú¿¡ ´Ù¸¥ HLB °ª °ªÀ» °®´Â È¥ÇÕ"
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/522/4683670	Effect of different concentrations of dietary P and Ca on plasma inorganic P and urinary P excretion using noncolostomized and colostomized broilers                 	MegharajaKManangi	noncolostomized ¹× colostomized À°°è¸¦ ÀÌ¿ëÇÑ ÇÃ¶óÁî¸¶ ¹«±â P P ¤ı ´¢ ¹è¼³¿¡¼­½ÄÀÌ Ä®½· P ¹× »óÀÌÇÑ ³óµµÀÇ ¿µÇâ
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/531/4609701	The effect of sexual maturity and egg production on skeletal muscle (pectoralis major and gastrocnemius) protein turnover in broiler breeder pure lines                 	KarenVignale	À°¿ë Á¾°è ¼ø¼ö ¶óÀÎ¿¡¼­ ´Ü¹éÁú È¸ÀüÀ² (Àü°ø ¹× ºñº¹±Ù pectoralis) °ñ°İ ±ÙÀ°¿¡ ¼ºÀû ¼º¼÷°ú °è¶õ »ı»êÀÇ È¿°ú
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/540/4601755	"Yellow mealworm larvae (Tenebrio molitor) inclusion in diets for male broiler chickens: effects on growth performance, gut morphology, and histological findings                 "	IBiasato	"³ë¶õ»ö °¥»ö °ÅÀú¸® À¯Ãæ (°ÅÀú¸®) ³²¼º À°°è¸¦À§ÇÑ ½Ä´Ü¿¡ Æ÷ÇÔ : ¼ºÀå ¼º´É¿¡ ´ëÇÑ ¿µÇâ, Àå ÇüÅÂ, Á¶Á÷ ÇĞÀû ¼Ò°ß"
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/549/4601756	Efficacy of ¥â-mannanase on broiler growth performance and energy utilization in the presence of increasing dietary galactomannan                 	RELathamn	Áõ°¡½ÄÀÌ °¥ ¶ôÅä ¸¸³­ÀÇ Á¸Àç À°°è ¼ºÀå ¼º´É ¹× ¿¡³ÊÁö ÀÌ¿ë¿¡ ¥â-¸¸³­ ¾ÆÁ¦ÀÇ È¿´É
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/557/4565737	Assessment of the minimal available phosphorus needs of pullets during the pre-laying period                 	MJing	¹Ì¸® ´©¿ö ±â°£ µ¿¾È ¾î¸° ¾ÏÅ¼ÀÇ ÃÖ¼Ò °¡´ÉÇÑ ÀÎ ¿ä±¸ÀÇ Æò°¡
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/568/4675275	"Effects of corn dried distillers¡¯ grains with solubles on performance, egg quality, yolk fatty acid composition and oxidative status in laying ducks                 "	DRuan 	"¼º´É, °è¶õ Ç°Áú °¡¿ë¹° ¿Á¼ö¼ö °ÇÁ¶ Áõ·ù 'ÀÔÀÚÀÇ È¿°ú´Â ¿À¸® ´©¿öÀÇ Áö¹æ»ê Á¶¼º¹°°ú »êÈ­ »óÅÂ ³ë¸¥ÀÚ"
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/578/4739531	"Differences in intestinal size, structure, and function contributing to feed efficiency in broiler chickens reared at geographically distant locations                 "	BUMetzler-Zebeli	"Àå Å©±â, ±¸Á¶ ¹× ±â´ÉÀÇ Â÷ÀÌ´Â Áö¸®ÀûÀ¸·Î ¶³¾îÁø À§Ä¡¿¡¼­ »çÀ° À°°è »ç·á È¿À²¿¡ ±â¿©"
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/592/4739537	Phytase in starter and grower diets of White Pekin ducks                 	OAdeola	È­ÀÌÆ® Pekin ¿À¸®ÀÔ´Ï´ÙÀÇ ¼±¹ß ¹× Àç¹è ´ÙÀÌ¾îÆ®¿¡ ÇÇÅ¸
+poultry science	2018	2	monogastric	original article	https://academic.oup.com/ps/article/97/2/599/4739538	Effect of epigallocatechin gallate on growth performance and serum biochemical metabolites in heat-stressed broilers                 	JingxianLuo	¿­ ½ºÆ®·¹½º À°°èÀÇ ¼ºÀå ¼º´É ¹× Ç÷Ã» »ıÈ­ÇĞ Àû ´ë»ç¿¡ ¿¡ÇÇ °¥·Î Ä«Å×Å² °¥ ·¹ÀÌÆ®ÀÇ È¿°ú
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/865/4818388	Estimation of broiler responses to increased dietary methionine hydroxy analogue [DL-2-hydroxy-(4-methylthio) butanoic acid] using linear and nonlinear regression models                 	CAPontin	À°°è ÀÀ´ä ÃßÁ¤½ÄÀÌ ¸ŞÆ¼¿À´Ñ À¯»çÃ¼ ·Ï½Ã [DL-2- ÇÏÀÌµå ·Ï½Ã - (4- ¸ŞÆ¿ Æ¼¿À) Åº»ê ¼±Çü ¹× ºñ¼±Çü È¸±Í ¸ğµ¨À» »ç¿ëÇÏ¿© Áõ°¡ÇÏ´Â
+poultry science	2018	3	monogastric	review	https://academic.oup.com/ps/article/97/3/937/4780253	"Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers                 "	CBortoluzzi	"Æ®·¹¿À´Ñ, ¾Æ¸£±â´Ñ, ±Û·çÅ¸¹Î : À°°èÀÇ Àå »ı¸®ÇĞ, ¸é¿ªÇĞ, ¹Ì»ı¹°ÇĞ¿¡ ¿µÇâ"
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/874/4780248	"Effect of dietary xylooligosaccharides on intestinal characteristics, gut microbiota, cecal short-chain fatty acids, and plasma immune parameters of laying hens                 "	XMDing	"½ÄÀÌ ÀåÀÇ Æ¯¼º¿¡ Å© ½Ç·Î ¿Ã¸®°í´ç, Àå³» ¹Ì»ı¹°, ¸ÍÀå ´Ü¼â Áö¹æ»ê ¹× »ê¶õ°èÀÇ Ç÷Àå ¸é¿ª ¸Å°³ È¿°ú"
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/946/4769855	Effects of excess DL- and L-methionine on growth performance of starter Pekin ducks                 	JJXue	½ºÅ¸ÅÍ Pekin ¿À¸®ÀÔ´Ï´Ù ¼ºÀå ¼º´É¿¡ ÃÊ°ú DL- ¹× L ¸ŞÆ¼¿À´ÑÀÇ È¿°ú
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/882/4767754	Vaccine to fibroblast growth factor 23 peptides increases eggshell strength                 	ZZRen	¼¶À¯ ¾Æ¼¼Æ÷ ¼ºÀå ÀÎÀÚ (23 °³) ÆéÆ¼µå ¹é½Å ²®Áú °­µµ¸¦ Áõ°¡
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/890/4780249	Efficacy of guanidinoacetic acid on growth and muscle energy metabolism in broiler chicks receiving arginine-deficient diets                 	AADeGroot	¾Æ¸£±â´Ñ °áÇÌ ´ÙÀÌ¾îÆ®¸¦¹Ş´Â À°°è º´¾Æ¸®ÀÇ ¼ºÀå°ú ±ÙÀ°ÀÇ ¿¡³ÊÁö ´ë»ç¿¡ guanidinoacetic »êÀÇ È¿´É
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/901/4743780	"Supplementation with curcuminoids and tuna oil influenced skin yellowness, carcass composition, oxidation status, and meat fatty acids of slow-growing chickens                 "	TTTHang	"´À¸° ¼ºÀå ´ßÀÇ curcuminoids¿Í ÂüÄ¡ ±â¸§ÀÇ ¿µÇâÀ» ÇÇºÎ È²»ö, µµÃ¼ ±¸¼º, »êÈ­ »óÅÂ, °í±â Áö¹æ»ê º¸Ãæ"
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/910/4780250	Variability of prececal phosphorus digestibility of triticale and wheat in broiler chickens                 	MWitzig	À°°èÀÇ ¶óÀÌ¿Í ¹Ğ prececal ÀÎ ¼ÒÈ­À²ÀÇ º¯µ¿¼º
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/920/4781686	"Influence of phytase or myo-inositol supplements on performance and phytate degradation products in the crop, ileum, and blood of broiler chickens                 "	VSommerfeld	"ÀÛ¹°, È¸Àå ¼º´É°ú Å×ÀÌÆ® ÀúÇÏ Á¦Ç°¿¡ ÇÇÅ¸ ¾ÆÁ¦ ¶Ç´Â ÀÌ³ë½ÃÅç º¸ÃæÁ¦ÀÇ ¿µÇâ ¹× À°°èÀÇ Ç÷¾×"
+poultry science	2018	3	monogastric	original article	https://academic.oup.com/ps/article/97/3/930/4780254	"Dietary Lactobacillus acidophilus positively influences growth performance, gut morphology, and gut microbiology in rurally reared chickens                 "	CForte	"½ÄÀÌ À¯»ê±Õ ¿ìÀ¯ À¯»ê±Õ ±àÁ¤Àû rurally »çÀ° ´ßÀÇ ¼ºÀå ¼º´É, Àå ÇüÅÂ ¹× Àå³» ¹Ì»ı¹°¿¡ ¿µÇâÀ» ¹ÌÄ£´Ù"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1155/4851132	"Effect of phytase on growth performance, phytate degradation and gene expression of myo-inositol transporters in the small intestine, liver and kidney of 21 day old broilers                 "	CLWalk	"¼ºÀå ¼º´É ¿­È­ Å×ÀÌÆ® ¼ÒÀå, °£ ÀÌ³ë½ÃÅç ÄÁº£ÀÌ¾îÀÇ À¯ÀüÀÚ ¹ßÇöÀ» 21 ÀÏµÈ ºê·ÎÀÏ·¯ ½ÅÀå¿¡¼­ ÇÇÅ¸ ¾ÆÁ¦ÀÇ ¿µÇâ"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1361/4818390	Effects of maternal dietary canthaxanthin and 25-hydroxycholecalciferol supplementation on antioxidant status and calcium-phosphate metabolism of progeny ducks                 	ZZRen	ÀÚ¼Õ ¿À¸®ÀÇ »êÈ­ »óÅÂ ¹× Ä®½· Æ÷½ºÆäÀÌÆ® ´ë»ç ¸ğÃ¼ ¿µ¾ç Ä­Å¸ ¹× 25 hydroxycholecalciferol º¸ÃæÁ¦ÀÇ È¿°ú
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1368/4792824	"Utilization of soy hulls, oat hulls, and flax meal fiber in adult broiler breeder hens                 "	HLeung	"¼ºÀÎ À°¿ë Á¾°è ¾ÏÅ¼¿¡¼­ Äá ²®Áú, ±Í¸® ²®ÁúÀÇ È°¿ë, ±×¸®°í ¾Æ¸¶ ½Ä»ç ¼¶À¯"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1163/4817018	High calcium to phosphorus ratio impairs growth and bone mineralization in Pekin ducklings                 	YWZhu	ÀÎ ºñÀ²ÀÌ ³ôÀº Ä®½· PekinÀÇ ¿À¸® ¼ºÀå°ú »À ±¤¹°À» ¼Õ»ó
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1170/4801128	Nutrient digestibility response to sugarcane bagasse addition and corn particle size in normal and high Na diets for broilers                 	SKKheravii	À°°è Á¤»ó ¹× NA°¡ ³ôÀº½ÄÀÌ »çÅÁ ¼ö¼ö Âî²¨±â ¶ÇÇÑ ¿Á¼ö¼ö ÀÔÀÚ Å©±â ¿µ¾ç¼Ò ¼ÒÈ­¼º ´ëÀÀ
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1177/4792819	"Interactive effects of phosphorus, calcium, and phytase supplements on products of phytate degradation in the digestive tract of broiler chickens                 "	VSommerfeld	"À°°èÀÇ ¼ÒÈ­ ±â°ü¿¡¼­ ÇÇ Å×ÀÌÆ® ÀúÇÏÀÇ Á¦Ç°¿¡ ´ëÇÑ ÀÎ, Ä®½·, ¹× ÇÇÅ¸ ¾ÆÁ¦ º¸ÃæÁ¦ÀÇ »óÈ£ ÀÛ¿ë È¿°ú"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1189/4801129	"Dietary energy, digestible lysine, and available phosphorus levels affect growth performance, carcass traits, and amino acid digestibility of broilers                 "	NishchalKSharma	"½ÄÀÌ ¿¡³ÊÁö, ¼ÒÈ­ ¶óÀÌ½Å, »ç¿ë °¡´ÉÇÑ ÀÎ ¼öÁØÀº ¼ºÀå ¼º´É, µµÃ¼ Æ¯¼º ¹× À°°èÀÇ ¾Æ¹Ì³ë»ê ¼ÒÈ­À²¿¡ ¿µÇâÀ»"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1199/4792820	"Age, phosphorus, and 25-hydroxycholecalciferol regulate mRNA expression of vitamin D receptor and sodium-phosphate cotransporter in the small intestine of broiler chickens                 "	JCHan	"³ªÀÌ, ÀÎÀº 25-hydroxycholecalciferol À°°è ¼ÒÀå¿¡¼­ ºñÅ¸¹Î D ¼ö¿ëÃ¼ ¹× ¼Òµã Æ÷½ºÆäÀÌÆ® ¼ÛÃ¼ÀÇ mRNA ¹ßÇöÀ» Á¶Àı"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1209/4846321	Curcumin attenuates heat-stress-induced oxidant damage by simultaneous activation of GSH-related antioxidant enzymes and Nrf2-mediated phase II detoxifying enzyme systems in broiler chickens                 	JFZhang	Ä¿Å¥¹ÎÀº Ç×»êÈ­ È¿¼Ò GSH °ü·ÃµÈ À§»óÀ» À°°è II ÇØµ¶ È¿¼Ò°è¸¦ Nrf2°¡ ¸Å°³ µ¿½Ã È°¼ºÈ­¿¡ ÀÇÇØ ¿­ ÀÀ·Â - À¯µµ µÈ »êÈ­ ¼Õ»óÀ» ¾àÈ­
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1220/4792821	"Effect of dietary ¥â-alanine supplementation on growth performance, meat quality, carnosine content, and gene expression of carnosine-related enzymes in broilers                 "	BoQic	"À°°è Ä«¸£³ë °ü·Ã È¿¼Ò½ÄÀÌ ¥â ¾Ë¶ó´Ñ ¼ºÀå ¼º°ú¿¡ º¸Ãæ, À°Áú, Ä«¸£³ë ÄÜÅÙÃ÷ ¹× À¯ÀüÀÚ ¹ßÇö¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1229/4817019	"Effects of exogenous inosine monophosphate on growth performance, flavor compounds, enzyme activity, and gene expression of muscle tissues in chicken                 "	JunshuYan	"¼ºÀå ¼º´É Çâ¹Ì È­ÇÕ¹°, È¿¼Ò È°¼º, ¹× ´ß¿¡¼­ ±ÙÀ° Á¶Á÷ÀÇ À¯ÀüÀÚ ¹ßÇö¿¡ ´ëÇÑ ¿ÜÀÎ¼º ÀÌ³ë½Å ¸ğ³ë Æ÷½ºÆäÀÌÆ®ÀÇ ¿µÇâ"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1238/4857170	Vitamin E and vitamin C supplementation improves antioxidant status and immune function in oxidative-stressed breeder roosters by up-regulating expression of GSH-Px gene                 	YNMin	ºñÅ¸¹Î E ¹× ºñÅ¸¹Î C´Â GSH-PX À¯ÀüÀÚÀÇ »óÇâ Á¶Àı ½Ä¿¡ ÀÇÇÑ »êÈ­ ½ºÆ®·¹½º¸¦ Áõ½Ä ´ß¿¡¼­ »êÈ­ »óÅÂ ¹× ¸é¿ª ±â´É Çâ»ó
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1245/4818392	Improvement of the nutritional value of high-protein sunflower meal for broiler chickens using multi-enzyme mixtures                 	SMWaititu	¿©·¯ È¿¼ÒÀÇ È¥ÇÕ¹°À» ÀÌ¿ëÇÏ¿© À°°è ³ôÀº ´Ü¹éÁú ÇØ¹Ù¶ó±â °¡·çÀÇ ¿µ¾ç°¡ °³¼±
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1253/4818393	Dietary manganese supplementation affects mammillary knobs of eggshell ultrastructure in laying hens                 	YNZhang	½ÄÀÌ ¸Á°£ º¸ÃæÀº »ê¶õ°è¿¡¼­ ´Ş°¿ ²®Áú ¹Ì¼¼ ±¸Á¶ÀÇ mammillary ³ëºê¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1263/4857171	1¥á-Hydroxycholecalciferol improves the growth performance and up-regulates the mRNA expression of vitamin D receptor in the small intestine and kidney of broiler chickens                 	JCHan 	-1¥á Hydroxycholecalciferol´Â ¼ºÀåÀÇ ¼º´ÉÀ» Çâ»ó½ÃÅ°°í À°°èÀÇ ¼ÒÀå ¹× ½ÅÀå¿¡¼­ ºñÅ¸¹Î D ¼ö¿ëÃ¼ÀÇ mRNA ¹ßÇöÀ» »óÇâ Á¶Àı
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1271/4851133	Beneficial effects of water-soluble chestnut (Castanea sativa Mill.) tannin extract on chicken small intestinal epithelial cell culture                 	MBrus	¼ö¿ë¼º ¹ã³ª¹«ÀÇ È¿´É (À¯·´ ¹ã³ª¹« ¹Ğ.) ´ß ¼ÒÀå »óÇÇ ¼¼Æ÷ ¹è¾ç¿¡ Åº´Ñ ÃßÃâ¹°
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1283/4818394	"Evaluation of dietary calcium level and source and phytase on growth performance, serum metabolites, and ileum mineral contents in broiler chicks fed adequate phosphorus diets from one to 28 days of age                 "	TMomeneh	"½ÄÀÌ Ä®½· ¼öÁØ°ú À°°è º´¾Æ¸®ÀÇ ¼ºÀå ¼º´É, Ç÷Ã» ´ë»ç ¹× È¸Àå ¹Ì³×¶ö ³»¿ë¿¡ ´ëÇÑ ¼Ò½º¿Í ÇÇÅ¸ ¾ÆÁ¦ÀÇ Æò°¡´Â »ıÈÄ 1 ~ 28 ÀÏ¿¡¼­ ÀûÀıÇÑ ÀÎ ´ÙÀÌ¾îÆ®¸¦ °ø±Ş"
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1290/4857172	Amino acid digestibility of larval meal (Musca domestica) for broiler chickens                 	HNHall	À°°è¿¡ ´ëÇÑ ¾Ö¹ú·¹ ½Ä»ç (ÆÄ¸® ÀÚ¸®ÀÇ domestica¿¡)ÀÇ ¾Æ¹Ì³ë»ê ¼ÒÈ­À²
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1298/4818395	Effects of the supplemental chromium form on performance and metabolic profile in laying hens exposed to heat stress                 	NSahin	»ê¶õ°è ¼º´É ¹× ´ë»ç ÇÁ·ÎÇÊ º¸Ãæ Å©·Ò ÇüÅÂÀÇ È¿°ú´Â ¿­ ÀÀ·Â¿¡ ³ëÃâ
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1306/4825855	"Effects of low-protein diets on acute phase proteins and heat shock protein 70 responses, and growth performance in broiler chickens under heat stress condition                 "	IZulkifli	¿­ ½ºÆ®·¹½º Á¶°Ç ÇÏ¿¡¼­ ±Ş¼º±â ´Ü¹éÁú ¹× ¿­ ¼îÅ© ´Ü¹éÁú 70 °³ ÀÀ´ä ¹× À°°è ¼ºÀå ¼º°ú¿¡ Àú ´Ü¹éÁú »ç·áÀÇ È¿°ú
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1315/4859444	Effects of fatty acid glyceride product SILOhealth 104 on the growth performance and carcass composition of broiler chickens                 	ABedford	À°°èÀÇ ¼ºÀå ¼º´É ¹× µµÃ¼ Á¶¼º¹°¿¡ Áö¹æ»ê ±Û¸®¼¼ ¶óÀÌµå »ı¼º¹°ÀÇ È¿°ú SILOhealth 104
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1324/4816030	Particle size affects short-term preference behavior of brown-egg laying hens fed diets based on corn or barley                	JHerrera	ÀÔÀÚ Å©±â´Â ¿Á¼ö¼ö ³ª º¸¸®¸¦ ±â¹İÀ¸·Î ´ÙÀÌ¾îÆ®¸¦ °ø±Ş °¥»ö ´Ş°¿ ´©¿ö ¾ÏÅ¼ÀÇ ´Ü±â ±âº» µ¿ÀÛ¿¡ ¿µÇâÀ»
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1334/4857173	"Dietary L-glutamine supplementation improves growth performance, gut morphology, and serum biochemical indices of broiler chickens during necrotic enteritis challenge                 "	GDXue	L ±Û·çÅ¸¹Î½ÄÀÌ º¸ÃæÁ¦´Â ±«»ç ¼º Àå¿° µµÀü µ¿¾È ¼ºÀå ¼º°ú Á÷°¨ ÇüÅÂ ¹× À°°è Ç÷Ã» »ıÈ­ÇĞ Áö¼ö Çâ»ó
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1342/4864309	Effects of Ginkgo biloba leaves (Ginkgo biloba) and Ginkgo biloba extract on nutrient and energy utilization of broilers                 	XJRen	ÀºÇà ³ª¹« ÀÙ (ÀºÇà ³ª¹«)¿Í ÀºÇà ³ª¹«ÀÇ È¿°ú´Â À°°èÀÇ ¿µ¾ç°ú ¿¡³ÊÁö È°¿ë¿¡ ÃßÃâ
+poultry science	2018	4	monogastric	original article	https://academic.oup.com/ps/article/97/4/1352/4857174	No copper supplementation in a corn-soybean basal diet has no adverse effects on late-phase laying hens under normal and cyclic high temperatures                 	WXLi	¿Á¼ö¼ö - Äá ±âÃÊ ´ÙÀÌ¾îÆ®¿¡´Â ±¸¸® º¸Ãæ Á¤»ó ¹× ¼øÈ¯ ³ôÀº ¿Âµµ¿¡¼­ ´Ê°Ô ´Ü°è »ê¶õ°è¿¡ ¾Æ¹«·± ºÎÀÛ¿ëÀÌ ¾ø½À´Ï´Ù
+poultry science	2018	5	monogastric	original article	https://academic.oup.com/ps/article/97/5/1614/4917301	"Effects of feeding reduced crude protein diets on growth performance, nitrogen excretion, and plasma uric acid concentration of broiler chicks during the starter period                "	RKriseldi	°ø±ŞÀÇ È¿°ú´Â ½Ãµ¿ ±â°£ µ¿¾È ¼ºÀå ¼º°ú Áú¼Ò ¹è¼³·® ¹× À°°è Ç÷Àå ¿ä»ê ³óµµ Á¶´Ü¹éÁú »ç·á °¨¼Ò
+poultry science	2018	5	monogastric	original article	https://academic.oup.com/ps/article/97/5/1677/4917303	Regression method-derived energy value of dried egg albumen for broiler chickens                  	SHancock	À°°è ¿ë °ÇÁ¶ µÈ ´Ş°¿ ¾ËºÎ¹Î È¸±Í ¹æ¹ı À¯·¡ ¿¡³ÊÁö °ª
+poultry science	2018	5	monogastric	original article	https://academic.oup.com/ps/article/97/5/1627/4915811	Phytase supplementation in diets rich in fiber from rapeseed enhances phosphorus and calcium digestibility but not retention in broiler chickens                 	MBournazel	À¯Ã¤¿¡¼­ ¼¶À¯°¡ Ç³ºÎÇÑ ½Ä´Ü¿¡¼­ ÇÇÅ¸ ¾ÆÁ¦ º¸Ãæ À°°èÀÇ ÀÎ ¹× Ä®½· ¼ÒÈ­À²ÇÏÁö¸¸ À¯Áö¸¦ Çâ»ó
+poultry science	2018	5	monogastric	original article	https://academic.oup.com/ps/article/97/5/1641/4864311	"Effects of supplementation with ¥á-tocopherol, ascorbic acid, selenium, or their combination in linseed oil-enriched diets on the oxidative status in broilers                 "	JLeskovecR	"¥á ÅäÄÚÆä·Ñ, ¾Æ½ºÄÚ¸£ºê »ê, ¼¿·¹´½ ¶Ç´Â À°°è »êÈ­ »óÅÂ¿¡ ¾Æ¸¶ ÀÎÀ¯ ³óÈÄ »ç·á ±×µéÀÇ Á¶ÇÕ º¸ÃæÁ¦ÀÇ È¿°ú"
+poultry science	2018	5	monogastric	original article	https://academic.oup.com/ps/article/97/5/1651/4917306	Multigenerational effects of a reduced balanced protein diet during the rearing and laying period of broiler breeders. 1. Performance of the F1 breeder generation                 	JLesuisse	À°°è »çÀ°ÀÇ ¾çÀ°°ú ´©¿ö ±â°£ µ¿¾È °¨¼Ò µÈ ±ÕÇü ÀâÈù ´Ü¹éÁú ´ÙÀÌ¾îÆ®ÀÇ ´Ù¼¼´ë È¿°ú. F1À» °³Á¾ »ı¼º 1. ??¼º´É
+poultry science	2018	5	monogastric	original article	https://academic.oup.com/ps/article/97/5/1666/4920823	Multigenerational effects of a reduced balanced protein diet during the rearing and laying period of broiler breeders. 2. Zootechnical performance of the F1 broiler offspring                 	JLesuisse	À°°è »çÀ°ÀÇ ¾çÀ°°ú ´©¿ö ±â°£ µ¿¾È °¨¼Ò µÈ ±ÕÇü ÀâÈù ´Ü¹éÁú ´ÙÀÌ¾îÆ®ÀÇ ´Ù¼¼´ë È¿°ú. F1À» À°°è ÀÚ¼Õ 2. Ãà»ê (zootechnical) ¼º´É
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2011/4864317	Effect of supplemental phytase and xylanase in wheat-based diets on prececal phosphorus digestibility and phytate degradation in young turkeys                 	C-JIngelmann	ÀşÀº Ä¥¸éÁ¶¿¡¼­ prececal ÀÎ ¼ÒÈ­À² ¹× ÇÇ Å×ÀÌÆ® ÀúÇÏ¿¡ ¹Ğ ±â¹İÀÇ ½Ä´Ü¿¡ Ãß°¡ ÇÇÅ¸ ¾ÆÁ¦ ¹× ÀÚÀÏ¶ó³ª Á¦ÀÇ È¿°ú
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2139/4937355	"Effects of vitamin E on growth performance, tissue ¥á-tocopherol, and lipid peroxidation of starter White Pekin ducks                 "	MXies	"½ºÅ¸ÅÍ È­ÀÌÆ® Pekin ¿À¸®ÀÔ´Ï´Ù ¼ºÀå ¼º´É, Á¶Á÷ ¥á ÅäÄÚÆä·Ñ ¹× ÁöÁú °ú»êÈ­¿¡ ºñÅ¸¹Î EÀÇ È¿°ú"
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2021/4922216	"Effects of adding methionine in low-protein diet and subsequently fed low-energy diet on productive performance, blood chemical profile, and lipid metabolism-related gene expression of broiler chickens                 "	PJariyahatthakij	"ÀÌ¾î¼­ Àú ´Ü¹éÁú »ç·á¿¡ ¸ŞÆ¼¿À´ÑÀ» Ã·°¡ È¿°ú´Â »ı»ê ¼º´É, Ç÷¾× È­ÇĞ ÇÁ·ÎÆÄÀÏ ¹× À°°è ÁöÁú ´ë»ç °ü·Ã À¯ÀüÀÚ ¹ßÇö¿¡ Àú¿¡³ÊÁö »ç·á ¸ÔÀÌ"
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2034/4922219	"Effects of Pediococcus acidilactici, mannan-oligosaccharide, butyric acid and their combination on growth performance and intestinal health in young broiler chickens challenged with Salmonella Typhimurium                 "	VJazi	"»ì¸ğ³Ú¶ó TyphimuriumÀÇ¿Í µµÀü Æäµğ ¿À acidilactici, ¸¸³­ ¿Ã¸®°í´ç, ºÎÆ¼¸£»ê ÀşÀº À°°èÀÇ ¼ºÀå ¼º´É°ú Àå °Ç°­¿¡ ÀÚ½ÅÀÇ Á¶ÇÕÀÇ È¿°ú"
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2044/4932764	"Digestible methionine+cysteine in the diet of commercial layers and its influence on the performance, quality, and amino acid profile of eggs and economic evaluation                 "	TSMCarvalho	"¼ÒÈ­ ¸ŞÆ¼¿À´Ñ + ½Ã½ºÅ×ÀÎ »ó¾÷ ÃşÀÇ½ÄÀÌ ¿ä¹ı°ú ¼º´É, Ç°Áú¿¡ ¹ÌÄ¡´Â ¿µÇâ, ±×¸®°í °è¶õ°ú °æÁ¦¼º Æò°¡ÀÇ ¾Æ¹Ì³ë»ê ÇÁ·ÎÇÊ"
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2053/4922222	Gene expression and activity of methionine converting enzymes in broiler chickens fed methionine isomers or precursors                  	ShuaiZhang	¸ŞÆ¼¿À´Ñ ¶Ç´Â ÀÌ¼ºÁúÃ¼ Àü±¸Ã¼¸¦ °ø±Ş À°°è ¸ŞÆ¼¿À´Ñ º¯È¯ È¿¼ÒÀÇ À¯ÀüÀÚ ¹ßÇö ¹× È°¼º
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2064/4868483	Interactions between the concentration of non-starch polysaccharides in wheat and the addition of an enzyme mixture in a broiler digestibility and performance trial                 	NSmeets	¹ĞÀÇ ºñ ³ì¸» ´Ù´ç·ùÀÇ ³óµµ ¹× ±Á´Â ¼ÒÈ­À² ¹× ¼º´É ½ÃÇè¿¡¼­ È¿¼Ò È¥ÇÕ¹°ÀÇ Ãß°¡ÀÇ »óÈ£ ÀÛ¿ë
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2071/4917309	"Performance, egg quality, nutrient digestibility, and excreta microbiota shedding in laying hens fed corn-soybean-meal-wheat-based diets supplemented with xylanase                 "	XJLei	"¾ÏÅ¼ °ø±Ş ¿Á¼ö¼ö - Äá - ½Ä»ç - ¹Ğ ±â¹İÀÇ ½Ä´ÜÀ» ´©¿ö¿¡ Èê¸®´Â ¼º´É, °è¶õ Ç°Áú, ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× ¹è¼³¹° ¹Ì»ı¹°Àº ÀÚÀÏ¶ó³ª º¸Ãæ"
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2078/4859456	Meta-analysis: explicit value of mono-component proteases in monogastric diets                 	SALee	¸ŞÅ¸ ºĞ¼® : ´ÜÀ§ (monogastric) ´ÙÀÌ¾îÆ®ÀÇ ´ÜÀÏ ¼ººĞÀÇ ´Ü¹éÁú ºĞÇØ È¿¼ÒÀÇ ¸í½Ã Àû °ª
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2086/4857176	Response of goose intestinal microflora to the source and level of dietary fiber                 	HaizhuZhou	½ÄÀÌ ¼¶À¯ÀÇ ¼Ò½º ¹× ¼öÁØ °ÅÀ§ Àå³» ¹Ì»ı¹°ÀÇ ÀÀ´ä
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2095/4922223	Forsythia suspensa extract protects broilers against breast muscle oxidative injury induced by corticosterone mimicked pre-slaughter acute stress                 	LPan	°³³ª¸® suspensa ÃßÃâ¹°Àº ÄÚ¸£Æ¼ ÄÚ½º Å×·Ğ¿¡ ÀÇÇØ À¯µµ µÈ °¡½¿ ±ÙÀ°ÀÇ »êÈ­ Àû ¼Õ»ó¿¡ ´ëÇÑ À°°è »çÀü ÇĞ»ì ±Ş¼º ½ºÆ®·¹½º¸¦ ¸ğ¹æ º¸È£
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2106/4922224	"The effect of drying method temperature, collection method, and marker type on apparent ileal amino acid digestibility in 21-day-old broilers fed corn-soybean meal-barley based diet                "	OCOlojede	21 ÀÏµÈ À°°è ¸í¹é È¸Àå ¾Æ¹Ì³ë»ê ¼ÒÈ­¼º¿¡ °ÇÁ¶¹ı ¿Âµµ ¼öÁı ¹æ¹ı ¹× Ç¥½Ä À¯ÇüÀÇ È¿°ú´Â ¿Á¼ö¼ö Äá À½½Ä - º¸¸® ±âÀç ±ÔÁ¤ ½ÄÀ» °ø±Ş
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2113/4937119	Fermented soybean meal exhibits probiotic properties when included in Japanese quail diet in replacement of soybean meal                 	VJazi	´ëµÎ¹ÚÀÇ ±³Ã¼ ÀÏº» ¸ŞÃß¶ó±â ´ÙÀÌ¾îÆ®¿¡ Æ÷ÇÔ ÇÒ ¶§ ¹ßÈ¿ ´ëµÎ¹ÚÀº ÇÁ·Î ¹ÙÀÌ¿À Æ½ Æ¯¼ºÀ» ³ªÅ¸³½´Ù
+poultry science	2018	6	monogastric	original article	https://academic.oup.com/ps/article/97/6/2123/4955669	Evaluation of novel protease enzymes on growth performance and apparent ileal digestibility of amino acids in poultry: enzyme screening                 	CLWalk	¼ºÀå ¼º´É ¹× °¡±İ·ù¿¡¼­ ¾Æ¹Ì³ë»êÀÇ °Ñº¸±â ¼ÒÈ­·Â È¸Àå¿¡ »õ·Î¿î ÇÁ·ÎÅ×¾ÆÁ¦ È¿¼ÒÀÇ Æò°¡ : È¿¼Ò ½ºÅ©¸®´×
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314013	"Effect of different levels of pomegranate marc with or without polyethylene glycol on performance, nutrients digestibility and protozoal population in growing lambs"	AliHatamia	"¶Ç´Â ¼ºÀå ¾ç ¼º´É, ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× Ãæ¼º ÀÎ±¸¿¡ Æú¸®¿¡Æ¿·» ±Û¸®Äİ¾øÀÌ ¼®·ù ¸¶Å©ÀÇ ¼­·Î ´Ù¸¥ ¼öÁØÀÇ È¿°ú"
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314104	"Lambs fed cassava silage with added tamarind residue: Silage quality, intake, digestibility, nitrogen balance, growth performance and carcass quality"	C.M.Souzaa	¸ñÃÊ Ç°Áú ¼·Ãë ¼ÒÈ­ Áú¼Ò ±ÕÇü ¼ºÀå ¼º´É ¹× µµÃ¼ Ç°Áú : Ãß°¡ ¸°µå ÀÜ»ç ¾ç °ø±Ş Ä«»ç¹Ù ¿Á¼ö
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117303814	Nellore bulls (Bos taurus indicus) with high residual feed intake have increased the expression of genes involved in oxidative phosphorylation in rumen epithelium	P.DelBiancoBenedetia	³ôÀº ÀÜ·ù »ç·á ¼·Ãë NelloreÀÇ ºÒ½º (º¸½º Åä·¯½º indicus) ¹İÃßÀ§ »óÇÇ »êÈ­ Àû ÀÎ»êÈ­¿¡ °ü¿©ÇÏ´Â À¯ÀüÀÚÀÇ ¹ßÇöÀ» Áõ°¡
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308775	Influence of dietary supplementation with sunflower oil and quebracho tannins on growth performance and meat fatty acid profile of Awassi lambs	H.E.M.Kamela	Awassi ¾ç ¼ºÀå ¼º´É ¹× °í±â Áö¹æ»ê ÇÁ·ÎÇÊ ÇØ¹Ù¶ó±â ¿ÀÀÏ ÄÉºê¶ó Å¸´Ñ½ÄÀÌ º¸ÃæÁ¦ÀÇ ¿µÇâ
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117307885	Sisal silage addition to feedlot sheep diets as a water and forage source	F.N.C.Souza	¹° ¹× Æ÷¸® ¼Ò½º·Î »çÀ°Àå ¾ç ´ÙÀÌ¾îÆ®¿¡ Àß»ï »çÀÏ¸®Áö Ãß°¡
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117307137	Physiological responses to a yeast and clay-based adsorbent during an aflatoxin challenge in Holstein cows	M.E.Weatherlya	È¦½ºÅ¸ÀÎ Á¥¼ÒÀÇ ¾ÆÇÃ¶óÅå½Å µµÀüÇÏ´Â µ¿¾È È¿¸ğ¿Í Á¡Åä ±â¹İÀÇ ÈíÂøÁ¦¿¡ ´ëÇÑ »ı¸®Àû ¹İÀÀ
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S037784011630877X	"Strategies to modify the ruminal biohydrogenation of polyunsaturated fatty acids and the production of trans-10, cis-12 C18:2 in vitro"	A.Siuranaa	"Ã¼¿Ü¿¡¼­ 2 : Àü·«Àº °íµµ ºÒÆ÷È­ Áö¹æ»êÀÇ ¹İÃßÀ§ biohydrogenation Æ®·£½º-10ÀÇ »ı»ê, ½Ã½º (12) C18À» ¼öÁ¤ÇÏ´Â ¹æ¹ı"
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117302353	Curve-linear relationship between altered carbohydrate traits with molecular structure and truly absorbed nutrient supply to dairy cattle in new hulless barley (Hordeum vulgare L.)	BaoliSunab	ºĞÀÚ ±¸Á¶ º¯°æµÈ Åº¼öÈ­¹° Æ¯¼º°ú »õ·Î¿î hulless º¸¸®¿¡¼­ Á¥¼Ò ÁøÁ¤ Èí¼ö ¿µ¾ç °ø±Ş »çÀÌÀÇ ¼±Çü °ü°è °î¼± (Hordeum vulgareÀÇÀºÀ» L.)
+animal feed science and technology	2018	1	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310581	"Comparative effects of Moringa oleifera root bark and monensin supplementations on ruminal fermentation, nutrient digestibility and growth performance of growing lambs"	Y.A.Soltana	"¹İÃßÀ§ ¹ßÈ¿, ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× ¼ºÀå ¾çÀÇ ¼ºÀå ¼º´É¿¡ ¸ğ ¸µ°¡ ¿Ã·¹ÀÌ Æä¶ó ·çÆ® ³ª¹« ²®Áú°ú ¸ğ ³Ù½Å supplementationsÀÇ ºñ±³ È¿°ú"
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308167	Metabolizable energy and amino acid digestibility of mash and pelleted diets for broilers determined under different methodologies	L.F.Rozaa	´Ù¸¥ ¹æ¹ı¿¡ µû¶ó °áÁ¤µÉ À°°è ¿ë ¸Å½¬ Æç·¿ »ç·áÀÇ ´ë»ç ¿¡³ÊÁö ¾Æ¹Ì³ë»ê ¼ÒÈ­¼º
+animal feed science and technology	2018	1	monogastric	review	https://www.sciencedirect.com/science/article/pii/S0377840117310283	Iron status of piglets and impact of phytase superdosing on iron physiology: A review	JaeCheolKima	µÅÁö Ã¶ »ı¸®¿¡ ÇÇÅ¸ ¾ÆÁ¦ superdosingÀÇ ¿µÇâ Ã¶ »óÅÂ : °ËÅä
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840116311671	"Mixed organic acids as antibiotic substitutes improve performance, serum immunity, intestinal morphology and microbiota for weaned piglets"	S.F.Longa	Ç×»ıÁ¦ ´ëÃ¼Ç°À¸·Î¼­ È¥ÇÕ À¯±â»ê ÀÌÀ¯ ÀÚµ· ¼º´É Ç÷Ã» ³»¼º Àå³» ¹Ì»ı¹°ÀÇ ÇüÅÂ ¹× °³¼±
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117307721	Gut antimicrobial effects and nutritional value of black soldier fly (Hermetia illucens L.) prepupae for weaned piglets	ThomasSpranghersab	Ç×±Õ È¿°ú ¹× ºí·¢ ±ºÀÎ ÇÃ¶óÀÌ ¿µ¾ç°¡ °ÅÆ® ÀÌÀ¯ ÇÑ »õ³¢ µÅÁö prepupae (Hermetia´Â L.¸¦ illucens)
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308970	A computer-controlled simulated digestion system is a promising in vitro digestibility technique to predict digestible energy of corn grain for growing pigs	L.Pan	ÄÄÇ»ÅÍ Á¦¾î ½Ã¹Ä·¹ÀÌ¼Ç ¼ÒÈ­ ½Ã½ºÅÛÀº ¼ºÀå µÅÁö ¿ë ¿Á¼ö¼ö °î¹°ÀÇ ¼ÒÈ­ ¿¡³ÊÁö¸¦ ¿¹ÃøÇÏ´Â Ã¼¿Ü ¼ÒÈ­ ±â¼úÀÇ À¯¸Á
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308398	"Yeast and yeast derivatives in feed additives and ingredients: Sources, characteristics, animal responses, and quantification methods"	G.C.Shurson	"¼Ò½º, Æ¯¼º, µ¿¹° ÀÀ´ä ¹× Á¤·®È­ ¹æ¹ı : »ç·á Ã·°¡Á¦ ¹× ¼ººĞ¿¡ È¿¸ğ ¹× È¿¸ğ ÆÄ»ı »óÇ°"
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117307708	In vitro digestion methods to characterize the physicochemical properties of diets varying in dietary fibre source and content	PanZhouab	Ã¼¿Ü ¼ÒÈ­ ¹æ¹ı¿¡¼­½ÄÀÌ ¼¶À¯ ¼Ò½º ¹× ÄÜÅÙÃ÷¿¡ ´Ù¾çÇÑ ½Ä´ÜÀÇ ¹°¸® È­ÇĞÀû Æ¯¼ºÀ» Æ¯¼ºÈ­ÇÏ±â
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117303498	"Dietary inclusion of xylanase improves growth performance, apparent total tract nutrient digestibility, apparent ileal digestibility of nutrients and amino acids and alters gut microbiota in growing pigs"	KwangYongLeea	"ÀÚÀÏ¶ó³ªÀÇ½ÄÀÌ Æ÷ÇÔÀº ¿µ¾çºĞ°ú ¾Æ¹Ì³ë»êÀÇ ¼ºÀå ¼º´É, ¸í¹éÇÑ ÀüÃ¼ ±â°üÀÇ ¿µ¾ç¼Ò ¼ÒÈ­À², ¸í¹éÇÑ È¸Àå ¼ÒÈ­À²À» Çâ»ó½ÃÅ°°í ¼ºÀå µÅÁöÀÇ Àå³» ¹Ì»ı¹°À» º¯°æ"
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117309690	"Effect of organic acids and essential oils on performance, intestinal health and digestive enzyme activities of weaned pigs"	Y.T.Xu	"À¯±â»ê ¹× ¼º´É¿¡ ¿¡¼¾¼È ¿ÀÀÏ, Àå °Ç°­°ú ÀÌÀ¯ÀÚµ·ÀÇ ¼ÒÈ­ È¿¼Ò È°¼º¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310167	"The effect of a mono-component exogenous protease and graded concentrations of ascorbic acid on the performance, nutrient digestibility and intestinal architecture of broiler chickens"	A.J.Cowiesona	À°°è ¼º´É ¿µ¾ç¼Ò ¼ÒÈ­¼º Àå³» ±¸Á¶ÀÇ ¸ğ³ë ¼ººĞ ¿ÜÀÎ¼º ÇÁ·ÎÅ×¾ÆÁ¦ÀÇ È¿°ú ¹× ¾Æ½ºÄÚ¸£ºê »êÀÇ ³óµµ ±¸¹è
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117309550	The combination of carbohydrases and phytase to improve nutritional value and non-starch polysaccharides degradation for growing pigs fed diets with or without wheat bran	Z.K.Zeng	´çÁú°ú ÇÇÅ¸ ¾ÆÁ¦ÀÇ °áÇÕ ¶Ç´Â ¹Ğ±â¿ï¾øÀÌ µÅÁö¿¡°Ô °ø±Ş ´ÙÀÌ¾îÆ®¸¦ ¼ºÀåÀ»À§ÇÑ ¿µ¾ç °¡Ä¡¿Í ºñ - ÀüºĞ ´Ù´ç·ùÀÇ ÀúÇÏ¸¦ °³¼±ÇÏ±â À§ÇØ
+animal feed science and technology	2018	1	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117305357	"Effects of feeding canola meal or soy expeller at two dietary net energy levels on growth performance, dressing and carcass characteristics of barrows and gilts"	M.N.Smita	µé°Í ¹× ¾ÏÅïÁöÀÇ Æ¯¼ºÀ» ¼ºÀå ¼º´É¿¡ µÎ½ÄÀÌ ¼ø ¿¡³ÊÁö ¼öÁØ¿¡¼­ Ä«³î¶ó ½Ä»ç ¶Ç´Â °£Àå ÂøÀ¯±â¸¦ °ø±Ş µå·¹½Ì°ú ½ÃÃ¼ÀÇ È¿°ú
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117302742	Effect of additives on fatty acid profile of high moisture alfalfa silage during ensiling and after exposure to air	Q.H.Liu	ensiling µ¿¾È °ø±â¿¡ ³ëÃâ µÈ ÈÄ °í¼ö ¾ËÆÈÆÄ »çÀÏ¸®ÁöÀÇ Áö¹æ»ê ÇÁ·ÎÇÊ Ã·°¡Á¦ÀÇ ¿µÇâ
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308957	Use of high doses of 18:0 to try to mitigate the syndrome of milk fat depression in dairy ewes fed marine lipids	PabloG.Toral	(18) °í¿ë·®ÀÇ »ç¿ë : 0 °ø±Ş À¯Á¦Ç° ¾Ï¾ç ¿ìÀ¯ Áö¹æ ¿ì¿ïÁõÀÇ ÁõÈÄ±ºÀ» ¿ÏÈ­ÇÏ·Á°íÇÏ´Â ÇØ¾ç ÁöÁú
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312555	"Effect of dietary grape pomace on growth performance, meat quality and antioxidant activity in ram lambs"	J.X.Zhao	"·¥ ¾ç ¼ºÀå ¼º´É, °í±âÀÇ Ç°Áú°ú Ç×»êÈ­ ÀÛ¿ë¿¡½ÄÀÌ Æ÷µµ Âî²¨±âÀÇ È¿°ú"
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117304170	"Effects of dietary supplementation with alfalfa (Medicago sativa L.) saponins on lamb growth performance, nutrient digestibility, and plasma parameters"	CeLiu	¾ËÆÈÆÄ (Medicago »çÆ¼ L.) ¾ç ¼ºÀå ¼º´É »çÆ÷´Ñ ¿µ¾ç¼Ò ¼ÒÈ­¼º ¹× ÇÃ¶óÁî¸¶ ÆÄ¶ó¹ÌÅÍ¸¦½ÄÀÌ º¸ÃæÁ¦ÀÇ È¿°ú
+animal feed science and technology	2018	2	ruminant	review	https://www.sciencedirect.com/science/article/pii/S0377840117308878	Nitrocompounds as potential methanogenic inhibitors in ruminant animals: A review	Zhen-WeiZhang	¹İÃß µ¿¹°ÀÇ ÀáÀçÀû ÀÎ ¸ŞÅº ¾ïÁ¦Á¦·Î¼­ Nitrocompounds : °ËÅä
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308489	Live yeast supplementation improves rumen fibre degradation in cattle grazing tropical pastures throughout the year	D.O.Sousaa	¶óÀÌºê È¿¸ğ º¸ÃæÀº ¹İÃßÀ§¿¡°Ô ÀÏ³â ³»³» ¿­´ë ¸ñÃÊÁö ¹æ¸ñ ¼Ò ¼¶À¯ÀÇ ÀúÇÏ¸¦ Çâ»ó
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117315894	"Effects of exogenous fibrolytic enzyme supplementation to diets with different NFC/NDF ratios on the growth performance, nutrient digestibility and ruminal fermentation in Chinese domesticated black goats"	S.D.Songa	Áß±¹¾î µé¿©Áø °ËÀº ¿°¼ÒÀÇ ¼ºÀå ¼º´É ¿µ¾ç¼Ò ¼ÒÈ­¼º ¹İÃßÀ§ ¹ßÈ¿¿¡ ´Ù¸¥ NFC / NDF ºñÀ²·Î »ç·á¿¡ ¿ÜÀÎ¼º fibrolytic È¿¼Ò º¸ÃæÁ¦ÀÇ È¿°ú
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310106	Ammonia Fiber Expansion (AFEX) as spin off technology from 2nd generation biofuel for upgrading cereal straws and stovers for livestock feed	MichaelBlummelab	°¡Ãà »ç·á¿¡ ´ëÇÑ ½Ã¸®¾ó »¡´ë¿Í stovers ¾÷±×·¹ÀÌµå¸¦À§ÇÑ 2 ¼¼´ë ¹ÙÀÌ¿À ¿¬·áÀÇ ½ºÇÉ ¿ÀÇÁ ±â¼ú·Î ¾Ï¸ğ´Ï¾Æ ÆÄÀÌ¹ö È®Àå (AFEX)
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117311872	"Different essential oils in diets of broiler chickens: 2. Gut microbes and morphology, immune response, and some blood profile and antioxidant enzymes"	SubrataChowdhurya	"À°°è »ç·á¿¡¼­ ´Ù¸¥ ¿¡¼¾¼È ¿ÀÀÏ 2. ±Â ¹Ì»ı¹° ¹× ÇüÅÂ, ¸é¿ª ¹İÀÀ, ÀÏºÎ Ç÷¾× ÇÁ·ÎÇÊ ¹× Ç×»êÈ­ È¿¼Ò"
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S037784011731101X	"Effects of ¥á-galactosidase supplementation on nutrient digestibility, growth performance, intestinal morphology and digestive enzyme activities in weaned piglets"	Q.H.Shangs	ÀÌÀ¯ ÇÑ »õ³¢ µÅÁöÀÇ ¿µ¾ç¼Ò ¼ÒÈ­¼º ¼ºÀå ¼º´É ÇüÅÂ Àå³» ¼ÒÈ­ È¿¼Ò È°¼º¿¡ ¥á °¥ ¶ôÅä º¸ÃæÁ¦ÀÇ È¿°ú
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S037784011731026X	A comparative study on the effects of dietary sunflower hulls on growth performance and digestive tract traits of broilers and pullets fed a pullet diet from 0 to 21<U+00A0>days of age	M.V.Kimiaeitalab	½ÄÀÌ ÇØ¹Ù¶ó±âÀÇ È¿°ú¿¡ ´ëÇÑ ºñ±³ ¿¬±¸´Â 0¿¡¼­ 21 <U + 00A0> ÀÏÀÇ ³ªÀÌ¿¡ ¾î¸° ¾ÏÅ¼ ´ÙÀÌ¾îÆ®¸¦ °ø±Ş À°°è¿Í ¾î¸° ¾ÏÅ¼ÀÇ ¼ºÀå ¼º´É ¹× ¼ÒÈ­ ±â°üÀÇ Æ¯¼º¿¡ ¼±Ã¼
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S037784011731026X	A comparative study on the effects of dietary sunflower hulls on growth performance and digestive tract traits of broilers and pullets fed a pullet diet from 0 to 21<U+00A0>days of age	M.V.Kimiaeitalab	½ÄÀÌ ÇØ¹Ù¶ó±âÀÇ È¿°ú¿¡ ´ëÇÑ ºñ±³ ¿¬±¸´Â 0¿¡¼­ 21 <U + 00A0> ÀÏÀÇ ³ªÀÌ¿¡ ¾î¸° ¾ÏÅ¼ ´ÙÀÌ¾îÆ®¸¦ °ø±Ş À°°è¿Í ¾î¸° ¾ÏÅ¼ÀÇ ¼ºÀå ¼º´É ¹× ¼ÒÈ­ ±â°üÀÇ Æ¯¼º¿¡ ¼±Ã¼
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117311756	"Different essential oils in diets of chickens: 1. Growth performance, nutrient utilisation, nitrogen excretion, carcass traits and chemical composition of meat"	SubrataChowdhury	"1. ¼ºÀå ¼º´É, ¿µ¾ç È°¿ë, Áú¼Ò ¹è¼³, µµÃ¼ Æ¯¼º°ú °í±âÀÇ È­ÇĞ ¼ººĞ : ´ßÀÇ »ç·á¿¡ ´Ù¸¥ ¿¡¼¾¼È ¿ÀÀÏ"
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117306363	Effect of dietary high non-phytate phosphorus level on growth performance and metabolism of calcium and phosphorus in Lion-head geese	Y.W.Zhua	¶óÀÌ¿Â Çìµå ±â·¯±â ¼ºÀå ¼º´É°ú Ä®½·°ú ÀÎÀÇ ´ë»ç¿¡½ÄÀÌ ³ôÀº ºñ Å×ÀÌÆ® ÀÎ ¼öÁØÀÇ È¿°ú
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117309379	Effects of extruder die head temperature and pre-gelatinized taro and broken rice flour level on physical properties of floating fish pellets	M.S.Kamarudina	ºÎµ¿ ¹°°í±â Æç¸´ÀÇ ¹°¸®Àû Æ¯¼º¿¡ ¾ĞÃâ±â ´ÙÀÌ Çìµå ¿Âµµ ¹× »çÀü Á©¶óÆ¾ Å¸·Î ±úÁø ½Ò°¡·ç ¼öÁØÀÇ È¿°ú
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117311604	Nutritional value of crude and partially defatted olive cake in finishing pigs and effects on nitrogen balance and gaseous emissions	P.Ferrerac	Áú¼Ò ±ÕÇü ¹× ±âÃ¼ ¹èÃâ·®¿¡ µÅÁö È¿°ú ¸¶¹«¸® Á¶¿¡¼­ ºÎºĞÀû Å»Áö ¿Ã¸®ºê ÄÉÀÌÅ©ÀÇ ¿µ¾ç°¡
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117311318	"Combined endo-¥â-1,4-xylanase and ¥á-l-arabinofuranosidase increases butyrate concentration during broiler cecal fermentation of maize glucurono-arabinoxylan"	J.L.RavnabCh	"°áÇÕ ¿£µµ ¥â-1,4- Å© ½Ç¶ó ³ªÁ¦ ¹× ¥á-L-arabinofuranosidase´Â ¿Á¼ö¼ö glucurono - ¾Æ¶óºñÀÇ À°°è ¸ÍÀå ¹ßÈ¿½Ã ºÎÆ¼·¹ÀÌÆ® ³óµµ Áõ°¡"
+animal feed science and technology	2018	2	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117311379	"The impact of substituting soybean meal and sunflower meal with a mixture of white lupine seeds and rapeseed meal on rabbit doe milk yield and composition, and the growth performance and carcass traits of their litters"	Z.Voleka	"Åä³¢ ¹Ì»óÀÇ ¿ìÀ¯ »ı»ê·®°ú ±¸¼º¿¡ È­ÀÌÆ® ·çÇÇ ³Ê½º ¾¾¾Ñ À¯Ã¤ ½Ä»çÀÇ È¥ÇÕ¹°·Î ´ëµÎ¹Ú°ú ÇØ¹Ù¶ó±â ½Ä»ç¸¦ ´ëÃ¼ÀÇ ¿µÇâ, ±×µéÀÇ »õ³¢ÀÇ ¼ºÀå ¼º´É°ú µµÃ¼ Æ¯¼º"
+animal feed science and technology	2018	2	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310271	"Potential nitrogen to energy synchronization, rumen degradation kinetics, and intestinal digestibility of blend pelleted products of new co-products from bio-fuel processing, pulse screenings and lignosulfonate compound in dairy cows"	VictorH.Guevara-Oquendoa	"¿¡³ÊÁö µ¿±â ÀáÀçÀû Áú¼Ò, ¹İÃßÀ§ ºĞÇØ µ¿¿ªÇĞ ¹× ºí·»µå Æç·¿ ¹ÙÀÌ¿À ¿¬·á Ã³¸®¿¡¼­ »õ·Î¿î ºÎ»ê¹°ÀÇ Á¦Ç° ÆŞ½º »ó¿µ Á¥¼Ò ¸®±× ³ë È­ÇÕ¹° Àå³» ¼ÒÈ­¼º"
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312798	Effect of biochar produced from different biomass sources and at different process temperatures on methane production and ammonia concentrations in vitro	I.Cabezaa	Biochar¶ó°í È¿°ú´Â ´Ù¸¥ ¹Ì»ı¹° ¿øÀ¸·ÎºÎÅÍ Ã¼¿Ü¿¡¼­ ¸ŞÅº »ı»ê ¹× ¾Ï¸ğ´Ï¾Æ ³óµµ¿¡ »óÀÌÇÑ °øÁ¤ ¿Âµµ¿¡¼­ Á¦Á¶ µÈ
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117304571	"Progressive adaptation of sheep to a microencapsulated blend of essential oils: Ruminal fermentation, methane emission, nutrient digestibility, and microbial protein synthesis"	Y.A.Soltana	"Áøº¸Àû ÀÎ ¿¡¼¾¼È ¿ÀÀÏÀÇ ¹Ì¼¼ Ä¸½¶È­ µÈ ºí·»µå ¾çÀÇ ÀûÀÀ : ¹İÃßÀ§ ¹ßÈ¿, ¸ŞÅº ¹èÃâ, ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× ¹Ì»ı¹° ´Ü¹éÁú ÇÕ¼º"
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310751	Use of an in vitro gas production procedure to evaluate rumen slow-release urea products	MauroSpanghero	Ã¼¿Ü °¡½º »ı»ê ÀıÂ÷ÀÇ »ç¿ëÀº ¹İÃßÀ§¿¡°Ô ¼­¹æÀÇ ¿ä¼Ò Á¦Ç°À» Æò°¡
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313305	"Effects of branched-chain volatile fatty acids supplementation on growth performance, ruminal fermentation, nutrient digestibility, hepatic lipid content and gene expression of dairy calves"	Q.Liua	"³«³ó ¼Û¾ÆÁöÀÇ ¼ºÀå ¼º´É, ¹İÃßÀ§ ¹ßÈ¿ ¿µ¾ç¼Ò ¼ÒÈ­¼º, °£ ÁöÁú ÇÔ·® ¹× À¯ÀüÀÚ ¹ßÇö¿¡¼­ ºĞÁö ¼â ÈÖ¹ß¼º Áö¹æ»ê º¸ÃæÁ¦ÀÇ È¿°ú"
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117306569	"Effects of dietary protein and energy intake on growth, body composition and nutrient utilisation in lambs reared artificially with milk replacers and pellet feeds"	A.S.Danso	"¾ç ¼ºÀå, ½ÅÃ¼ ±¸¼º ¹× ¿µ¾ç È°¿ë¿¡½ÄÀÌ ´Ü¹éÁú°ú ¿¡³ÊÁö ¼·ÃëÀÇ È¿°ú´Â ¿ìÀ¯ ´ëÃ¼¹° ¹× Æç·¿ »ç·á¿Í ÀÎ°ø »çÀ°"
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308350	Treatment using white rot fungi changed the chemical composition of wheat straw and enhanced digestion by rumen microbiota in vitro	DongzeNiu	¹é»ö ½âÀ½ ±Õ·ù¸¦ ÀÌ¿ëÇÑ Ä¡·á´Â Ã¼¿Ü¿¡¼­ ¹İÃßÀ§ ¹Ì»ı¹°¿¡ ÀÇÇØ È­ÇĞÀû ¹ĞÂ¤ Á¶¼º¹°ÀÇ Çâ»óµÈ ¼ÒÈ­ º¯°æ
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310507	Effect of caloric restriction and subsequent re-alimentation on oxidative stress in the liver of Hu sheep ram lambs	Guo-MinZhangab	ÈÄ ¾ç RAM ¾çÀÇ °£¿¡¼­ÀÇ »êÈ­ ½ºÆ®·¹½º¿¡ ´ëÇÑ Ä®·Î¸® Á¦ÇÑ ÀÌÈÄ ´Ù½Ã ¿µ¾ç È¿°ú
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310842	Effects of biotin and nicotinamide supplementation on glucose and lipid metabolism and milk production of transition dairy cows	Xiao-ShiWeia	ÀüÀÌ Á¥¼ÒÀÇ ±Û·çÄÚ½º ¹× ÁöÁú ´ë»ç ¹× ¿ìÀ¯ »ı»ê¿¡ ºñ¿ÀÆ¾ ¹× ´ÏÄÚÆ¾ ¼·ÃëÀÇ È¿°ú
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117306442	Amino acid profile of metabolisable protein in lactating dairy cows is affected by dry matter concentration in grass-clover silage	M.Johansen	¼öÀ¯ Á¥¼ÒÀÇ ´ë»ç ´Ü¹éÁúÀÇ ¾Æ¹Ì³ë»ê ÇÁ·ÎÆÄÀÏÀº ÀÜµğ Å¬·Î¹ö »çÀÏ¸®ÁöÀÇ °ÇÁ¶ ¹°ÁúÀÇ ³óµµ¿¡ ÀÇÇØ ¿µÇâÀ» ¹Ş´Â´Ù
+animal feed science and technology	2018	3	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312191	Impacts of increasing levels of canola meal in diets of high producing Holstein cows on their productive performance	P.H.Robinson	±×µéÀÇ »ı»êÀûÀÎ ¼º´É¿¡ ³ôÀº »ı»ê È¦½ºÅ¸ÀÎ Á¥¼ÒÀÇ »ç·á¿¡ À¯Ã¤ ½Ä»çÀÇ ¼öÁØÀ» Áõ°¡ÀÇ ¿µÇâ
+animal feed science and technology	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314207	"Dietary starch influences growth performance, nutrient utilisation and digestive dynamics of protein and amino acids in broiler chickens offered low-protein diets"	AmyF.Mossa	"½ÄÀÌ ÀüºĞ ¿µÇâÀ» ¼ºÀå ¼º´É, ¿µ¾ç È°¿ë°ú À°°èÀÇ ´Ü¹éÁú°ú ¾Æ¹Ì³ë»êÀÇ ¼ÒÈ­ ¿ªÇĞÀº Àú ´Ü¹éÁú ½Ä´ÜÀ» Á¦°ø"
+animal feed science and technology	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117311975	Fermentation and enzymatic treatment of pea for turkey nutrition	F.GoodarziBoroojenia	¹ßÈ¿¿Í Ä¥¸éÁ¶ ¿µ¾ç ¿ÏµÎÄáÀÇ È¿¼Ò Ã³¸®
+animal feed science and technology	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117303395	Including copper sulphate or dicopper oxide in the diet of broiler chickens affects performance and copper content in the liver	M.Hamdia	À°°èÀÇ ½Ä´Ü¿¡ ±¸¸® È²»ê¿° ¶Ç´Â dicopper »êÈ­¹°À» Æ÷ÇÔÇÏ¸é °£¿¡¼­ ¼º´É°ú ±¸¸® ÇÔ·®¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â
+animal feed science and technology	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313378	Measurement of the true ileal calcium digestibility of some feed ingredients for broiler chickens	M.N.Anwara	À°°è¿¡ ´ëÇÑ ¸î °¡Áö »ç·á ¼ººĞÀÇ ÁøÁ¤ÇÑ È¸Àå Ä®½· ¼ÒÈ­À²ÀÇ ÃøÁ¤
+animal feed science and technology	2018	3	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300671	Feed intake response of broilers: Impact of feed processing	M.R.Abdollahi	À°°èÀÇ »ç·á ¼·Ãë·® ÀÀ´ä : »ç·á °¡°øÀÇ ¿µÇâ
+animal feed science and technology	2018	3	general	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300026	"Effects of dietary supplementation with Stachys lavandulifolia Vahl extract on growth performance, hemato-biochemical and innate immunity parameters of rainbow trout (Oncorhynchus mykiss)"	KouroshSarviMoghanloua	"´Ù±¸ lavandulifolia Vahl·Î¿Í½ÄÀÌ º¸ÃæÁ¦ÀÇ È¿°ú´Â Áõ°¡ µÈ ¼º´É, ¹«Áö°³ ¼Û¾î hemato »ıÈ­ÇĞ ¹× ¼±Ãµ¼º ¸é¿ª ÆÄ¶ó¹ÌÅÍ ÃßÃâ (¿¬¾î ¼Ó mykiss)"
+animal feed science and technology	2018	3	general	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313998	Strategies to prevent and reduce mycotoxins for compound feed manufacturing	W.-X.Penga	È­ÇÕ¹° °ø±Ş ¸¶ÀÌÄÚ Åå½Å »ı»êÀ» ¹æÁöÇÏ°í °¨¼Ò Àü·«
+animal feed science and technology	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117309537	Milk yield and composition from ewes fed raw soybeans and their lambs¡¯ performance	EvandroM.Ferreiraa-	¾Ï¾çÀÇ ¿ìÀ¯ »ı»ê·®°ú ±¸¼º °ø±Ş ¿ø·á Äá°ú ¾çÀÇ ¼º´É
+animal feed science and technology	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S037784011731091X	"Effects of chlorogenic acids-enriched extract from Eucommia ulmoides leaves on growth performance, stress response, antioxidant status and meat quality of lambs subjected or not to transport stress"	H.W.Liua	"µÎÃæ¿¡¼­ Å¬·Î·Î°Õ»ê ³óÃà ÃßÃâ¹°ÀÇ È¿°ú´Â ´ë»óÀÌ ¾çÀÇ ¼ºÀå ¼º´É, ½ºÆ®·¹½º ¹İÀÀ, »êÈ­ »óÅÂ ¹× À°Áú¿¡ ¶°³ª°Å³ª ½ºÆ®·¹½º¸¦ ¼ö¼ÛÇÏÁö"
+animal feed science and technology	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312658	"Effects of organic selenium (Se-enriched yeast) supplementation in gestation diet on antioxidant status, hormone profile and haemato-biochemical parameters in Taihang Black Goats"	LeiShiab	"Å¸ÀÌ ºí·¢ ¿°¼ÒÀÇ »êÈ­ »óÅÂ, È£¸£¸ó ÇÁ·ÎÇÊ ¹× haemato »ıÈ­ÇĞ º¯¼ö¿¡ ÀÓ½Å ´ÙÀÌ¾îÆ® È¿°ú À¯±â ¼¿·¹´½ (Se·Î ³óÃà È¿¸ğ) º¸Ãæ"
+animal feed science and technology	2018	4	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313536	Factors related to variation in the susceptibility to subacute ruminal acidosis in early lactating Simmental cows fed the same grain-rich diet	R.Khiaosa-arda	ÃÊ±â ¼öÀ¯ ¸àÅ» ¼Ò¿¡ ¹İÃßÀ§ »ê¼º ÁõÀ» ¾Æ ±Ş¼º¿¡ ´ëÇÑ °¨¼ö¼ºÀÇ º¯È­¿Í °ü·ÃµÈ ¿äÀÎ °°Àº °î¹°ÀÌ Ç³ºÎÇÑ À½½ÄÀ» °ø±Ş
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310659	Impacts of age and calcium on Phytase efficacy in broiler chickens	W.Lia	À°°è¿¡¼­ ÇÇÅ¸ ¾ÆÁ¦ÀÇ È¿´É¿¡ ³ªÀÌ¿Í Ä®½·ÀÇ ¿µÇâ
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308507	Effect of phytase on amino acid digestibility in pig: A meta-analysis	M.Zouaoui	µÅÁö ¾Æ¹Ì³ë»ê ¼ÒÈ­¼º¿¡ ÇÇÅ¸ ¾ÆÁ¦ÀÇ ¿µÇâ : ¸ŞÅ¸ ºĞ¼®
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118301512	"The optimal digestible valine, isoleucine and tryptophan intakes of broiler breeder hens for rate of lay"	M.B.Limaa	"Æò½ÅµµÀÇ ¼Óµµ¿¡ ´ëÇÑ À°¿ë Á¾°è ¾ÏÅ¼ÀÇ ÃÖÀûÀÇ ¼ÒÈ­ ¹ß¸°, ÀÌ¼Ò ·ÎÀÌ½Å ¹× Æ®¸³ÅäÆÇ ¼·Ãë"
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S037784011731307X	Nitrogen-corrected apparent metabolizable energy value of corn distillers dried grains with solubles for laying hens	H.Y.Wang	¿Á¼ö¼ö Áõ·ù±âÀÇ Áú¼Ò º¸Á¤ °Ñº¸±â ´ë»ç ¿¡³ÊÁö °ª »ê¶õ°è¿¡ ´ëÇÑ ¿ëÇØ¼º°ú °î¹°À» °ÇÁ¶
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117315729	The influence of selenium and selenoproteins on immune responses of poultry and pigs	TinaS.Dalgaarda	°¡±İ·ù ¹× µÅÁöÀÇ ¸é¿ª ¹İÀÀ¿¡ ¼¿·¹´½ ¹× ¼¿·¹´½ ´Ü¹éÁúÀÇ ¿µÇâ
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314682	Growth performance of weaned pigs fed different levels of starfish meal	MarleenElisevanderHeidea	ÀÌÀ¯ÀÚµ·ÀÇ ¼ºÀå ¼º´ÉÀº ºÒ°¡»ç¸® ½Ä»çÀÇ ¼­·Î ´Ù¸¥ ¼öÁØÀÇ °ø±Ş
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314694	Annual variation in the composition of major nutrients of the common starfish (Asterias Rubens)	MarleenElisevanderHeidea	ÀÏ¹İÀûÀÎ ºÒ°¡»ç¸®ÀÇ ÁÖ¿ä ¿µ¾ç¼ÒÀÇ ±¸¼º¿¡¼­ ¿¬°£ º¯È­ (Asterias ·çº¥½º)
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313275	"Effect of ¥â-glucanase and ¥â-xylanase enzyme supplemented barley diets on nutrient digestibility, growth performance and expression of intestinal nutrient transporter genes in finisher pigs"	L.C.Clarkeaua	"¸¶¹«¸® µÅÁö ¥â ±Û·ç Ä«³ª ¾ÆÁ¦ ¹× ¿µ¾ç¼Ò ¼ÒÈ­À², ¼ºÀå ¼º´É ¹× Àå ¿µ¾çÀÇ ¹ßÇö¿¡ ¥â-ÀÚÀÏ¶ó³ª Á¦ È¿¼Ò º¸Ãæ º¸¸® ´ÙÀÌ¾îÆ®ÀÇ È¿°ú ¼ö¼Û À¯ÀüÀÚ"
+animal feed science and technology	2018	4	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S037784011731619X	Nutritive value of flaxseed meal fed to growing pigs	S.P.Ndoua	¾Æ¸¶¾¾ ½Ä»çÀÇ ¿µ¾ç °¡Ä¡´Â ¼ºÀå µÅÁö¿¡ °ø±Ş
+animal feed science and technology	2018	4	general	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314803	Effect of variety and environment on the amount of thiamine and riboflavin in cereals and grain legumes	StephanieWitten	Æ¼¾Æ¹ÎÀÇ ¾ç ¹× ´Ù¾çÇÑ È¯°æ È¿°ú °î¹° ¹× °î¹° Äá·ù¿¡ ¸®º¸ÇÃ¶óºó
+animal feed science and technology	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117303553	The effect of sunflower seed oil supplementation on the milk fatty acid contents of cows fed leucaena in an intensive silvopastoral system	EsperanzaPrieto-Manriquea	ÁıÁß silvopastoral ½Ã½ºÅÛ leucaena ¸ÔÀÌ Á¥¼ÒÀÇ ¿ìÀ¯ Áö¹æ»ê ÇÔ·® ÇØ¹Ù¶ó±â ¾¾ ¿ÀÀÏ º¸ÃæÁ¦ÀÇ È¿°ú
+animal feed science and technology	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840116304175	Heat-treated rapeseed expeller press cake with extremely low glucosinolate content reduce transfer of iodine to cow milk	G.Tr©ªanas	¸Å¿ì ³·Àº ±Û·çÄÚ ÇÔ·® ¿­Ã³¸® À¯Ã¤ ÂøÀ¯±â ÇÁ·¹½º ÄÉÀÌÅ© ¼Ò ¿ìÀ¯¿¡ ¿ä¿ÀµåÀÇ Àü¼ÛÀ» °¨¼Ò
+animal feed science and technology	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117308891	The effect of replacing maize with dried apple pomace in the concentrate on performance of Jersey cows grazing kikuyu pasture	L.Steyna	Å°ÄíÀ¯¾î ¸ñÃÊÁö ¹æ¸ñ ÀúÁö ¼Ò ¼º´É ³óÃà °ÇÁ¶ »ç°úÀÇ Âî²¨±â·Î ¿Á¼ö¼ö¸¦ ´ëÃ¼ÇÏ´Â È¿°ú
+animal feed science and technology	2018	5	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117310477	Assessing the accuracy of current near infra-red reflectance spectroscopy analysis for fresh grass-clover mixture silages and development of new equations for this purpose	A.L.Thomsona	ÀÌ ¸ñÀûÀ» À§ÇØ ½Å¼±ÇÑ ÀÜµğ Å¬·Î¹ö È¥ÇÕ »çÀÏ¸®Áö »õ·Î¿î ¹æÁ¤½ÄÀÇ °³¹ßÀ»À§ÇÑ ÇöÀç¿¡ °¡±î¿î Àû¿Ü¼± ¹İ»ç ºĞ±¤ ºĞ¼®ÀÇ Á¤È®¼ºÀ» Æò°¡
+animal feed science and technology	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117307071	"Growth performance, nutrient digestibility, fecal microbiota and fecal noxious gas emission in weaning pigs fed high and low density diet with and without protected organic acid blends"	SantiDeviUpadhayaa	"ÀÌÀ¯ µÅÁö ¼ºÀå ¼º´É ¿µ¾ç¼Ò ¼ÒÈ­¼º, ºĞº¯ ºĞº¯ ¹Ì»ı¹° ¹× À¯ÇØ °¡½º ¹æÃâ°ú º¸È£ À¯±â»ê È¥ÇÕ¾øÀÌ ³ô°í ³·Àº ¹Ğµµ ´ÙÀÌ¾îÆ® ¸ÔÀÌ"
+animal feed science and technology	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314670	"Effect of wheat bran on apparent total tract digestibility, growth performance, fecal microbiota and their metabolites in growing pigs"	J.B.Zhao	"¸í¹éÇÑ ÃÑ ¿ä·Î ¼ÒÈ­, ¼ºÀå ¼º´É, ºĞº¯ ¹Ì»ı¹° ¼ºÀå µÅÁöÀÇ ´ë»ç »ê¹°¿¡ ¹Ğ±â¿ïÀÇ È¿°ú"
+animal feed science and technology	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314049	"Impact of dietary quercetin on laying hen performance, egg quality and yolk oxidative stability"	P.Simitzis	"»ê¶õ°è ¼º´É, °è¶õ Ç°Áú ¹× ³­È² »êÈ­ ¾ÈÁ¤¼º¿¡ ±ÔÁ¤ ½Ä ÄÉ¸£¼¼Æ¾ÀÇ ¿µÇâ"
+animal feed science and technology	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300841	The interactive influence of dietary nutrient density and feed form on the performance of broiler chickens	M.R.Abdollahia	À°°èÀÇ ¼º´É¿¡½ÄÀÌ ¿µ¾ç ¹Ğµµ¿Í °ø±Ş ÇüÅÂÀÇ »óÈ£ ÀÛ¿ëÀÇ ¿µÇâ
+animal feed science and technology	2018	5	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300932	Effect of dietary soluble fibre and n-6/n-3 fatty acid ratio on growth performance and nitrogen and energy retention efficiency in growing rabbits	R.Delgado	¼ºÀå Åä³¢ ¼ºÀå ¼º´É ¹× Áú¼Ò ¹× ¿¡³ÊÁö º¸Á¸ È¿À² ¼ö¿ë¼º½ÄÀÌ ¼¶À¯ ¹× N-6 / n-3 Áö¹æ»ê ºñÀ²ÀÇ ¿µÇâ
+animal feed science and technology	2018	5	general	original article	https://www.sciencedirect.com/science/article/pii/S0377840117305205	"Microwave pretreatment allows accurate fatty acid analysis of small fresh weight (100<U+202F>g) dried alfalfa, ryegrass, and winter rye samples"	C.P.Goossena	"¸¶ÀÌÅ©·ÎÆÄ ÀüÃ³¸® ÀÛÀº »ıÃ¼Áß (100 <U + 202F> g) °ÇÁ¶ ¾ËÆÈÆÄ, ¶óÀÌ ±×¶ó½º, °Ü¿ï ¹Ğ »ùÇÃÀÇ Á¤È®ÇÑ Áö¹æ»ê ºĞ¼®À» Çã¿ë"
+animal feed science and technology	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300063	"Effects of Acremonium terricola culture on performance, milk composition, rumen fermentation and immune functions in dairy cows"	YangLia	"Á¥¼ÒÀÇ ¼º´É¿¡ AcremoniumÀÇ terricola ¹®È­, ¿ìÀ¯ ¼ººĞ, ¹İÃßÀ§ ¹ßÈ¿ ¹× ¸é¿ª ±â´É¿¡ ¹ÌÄ¡´Â ¿µÇâ"
+animal feed science and technology	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117305047	Biodegradation characteristics and nutrient availability of newly developed carinata seeds in comparison with canola seeds in dairy cattle	YajingBan	»ıºĞÇØ Æ¯¼º ¹× Á¥¼ÒÀÇ Ä«³î¶ó ¾¾¾Ñ¿¡ ºñÇØ »õ·Î °³¹ß µÈ carinata ¾¾¾ÑÀÇ ¿µ¾ç °¡¿ë¼º
+animal feed science and technology	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300403	"Effects of modifications to retain protozoa in continuous-culture fermenters on ruminal fermentation, microbial populations, and microbial biomass assessed by two different methods"	I.Cabeza-Lunaa	º¯ÇüÀÇ È¿°ú´Â µÎ °¡Áö ¹æ¹ı¿¡ ÀÇÇØ Æò°¡ ¹İÃßÀ§ ¹ßÈ¿ ¹Ì»ı¹° °³Ã¼±º ¹Ì»ı¹° ¹ÙÀÌ¿À ¸Å½º¸¦ ¿¬¼Ó ¹è¾ç¿¡ ¹ßÈ¿±â ¿ø»ı µ¿¹°À» À¯Áö
+animal feed science and technology	2018	6	ruminant	original article	https://www.sciencedirect.com/science/article/pii/S0377840117309574	Production performance of lambs on milk replacer during pre-weaning followed by post-weaning linseed and calcium soap supplementation	R.S.Bhatt	ÈÄ ÀÌÀ¯ÀÇ ¾Æ¸¶ ¾¾¿Í Ä®½· ºñ´© º¸Ãæ ´ÙÀ½ »çÀü ÀÌÀ¯ Áß ´ë¿ëÀ¯¿¡ ¾çÀÇ »ı»ê ½ÇÀû
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312695	Use of protected zinc oxide in lower doses in weaned pigs in substitution for the conventional high dose zinc oxide	SantiDeviUpadhaya	Á¾·¡ÀÇ °í³óµµ »êÈ­ ¾Æ¿¬À» ´ë½ÅÇÏ¿© ÀÌÀ¯ÀÚµ· ³·Àº Åõ¿© º¸È£ »êÈ­ ¾Æ¿¬ÀÇ »ç¿ë
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118300336	"Size distribution analysis of wheat, maize and soybeans and energy efficiency using different methods for coarse grinding"	M.Thomasa	"°ÅÄ£ ¿¬»è ´Ù¸¥ ¹æ¹ıÀ» »ç¿ëÇÏ¿© ¹Ğ, ¿Á¼ö¼ö, ´ëµÎ ¹× ¿¡³ÊÁö È¿À²ÀÇ Å©±â ºĞÆ÷ ºĞ¼®"
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118302359	"Responses in digestibilities of macro-minerals, trace minerals and amino acids generated by exogenous phytase and xylanase in canola meal diets offered to broiler chickens"	AmyF.Mossa	"À°°è¿¡°Ô Á¦°ø Ä«³î¶ó ½Ä»ç ´ÙÀÌ¾îÆ®¿¡ ¿Ü»ı ÇÇÅ¸ ¾ÆÁ¦ ¹× ÀÚÀÏ¶ó³ª¿¡ ÀÇÇØ »ı¼º µÈ ¸ÅÅ©·Î ¹Ì³×¶ö, ¹Ì³×¶ö°ú ¾Æ¹Ì³ë»êÀÇ ¼ÒÈ­À²¿¡ ÀÀ´ä"
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312737	Digestible energy of sorghum grain for pigs could be predicted using a computer-controlled simulated digestion system	L.Pan	µÅÁö ¿ë »çÅÁ ¼ö¼ö °î¹°ÀÇ ¼ÒÈ­ ¿¡³ÊÁö´Â ÄÄÇ»ÅÍ Á¦¾î ½Ã¹Ä·¹ÀÌ¼Ç ¼ÒÈ­ ½Ã½ºÅÛÀ» »ç¿ëÇÏ¿© ¿¹Ãø µÉ ¼öÀÖ´Ù
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840118301627	"Mycotoxin binder increases growth performance, nutrient digestibility and digestive health of finisher pigs offered wheat based diets grown under different agronomical conditions"	L.C.Clarkea	"°õÆÎÀÌ µ¶¼Ò ¹ÙÀÎ´õ´Â ¹ĞÀ» ±â¹İÀ¸·Î ´ÙÀÌ¾îÆ®´Â ´Ù¸¥ ³ó°æ¹ıÀÇ Á¶°Ç¿¡¼­ ¼ºÀå Á¦°ø ¼ºÀå ¼º´É, ¿µ¾ç¼Ò ¼ÒÈ­À² ¹× ¸¶¹«¸® µÅÁöÀÇ ¼ÒÈ­ °Ç°­À» Áõ°¡"
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313846	Yellow-seeded B. napus and B. juncea canola. Part 1. Nutritive value of the meal for broiler chickens	M.Rad-Spicea	È²»ö ½ÃµåÀÇ B. napus¿Í B. ½ÃÄ« »ç°Ç°ú Ä³³î¶ó. À°°èÀÇ ½Ä»çÀÇ 1 ºÎ ¿µ¾ç °¡Ä¡
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313858	Yellow-seeded B. napus and B. juncea canola. Part 2. Nutritive value of the meal for turkeys	K.Kozlowskia	È²»ö ½ÃµåÀÇ B. napus¿Í B. ½ÃÄ« »ç°Ç°ú Ä³³î¶ó. Ä¥¸éÁ¶ ½Ä»çÀÇ 2 ºÎ ¿µ¾ç °¡Ä¡
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313391	Evaluation of a synthetic emulsifier product supplementation on broiler chicks	V.Bontempoa	À°°è º´¾Æ¸® ÇÕ¼º À¯È­Á¦ »óÇ° º¸Ãæ Æò°¡
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314815	Effects of replacing soybean oil with selected insect fats on broilers	BartoszKiero<U+0144>czyka	ºê·ÎÀÏ·¯¿¡¼­ ¼±ÅÃµÈ °ïÃæ Áö¹æÀ¸·Î ´ëÃ¼ ´ëµÎÀ¯ È¿°ú
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117312415	"Effects of dietary inclusion of high- and low-tannin faba bean (Vicia faba L.) seeds on microbiota, histology and fermentation processes of the gastrointestinal tract in finisher turkeys"	Z.Zdunczyka	"ÇÏÀÌ ¹× ·Î¿ì Åº´Ñ FABA Äá½ÄÀÌ Æ÷ÇÔ È¿°ú ÇÇ´Ï¼Å Ä¥¸éÁ¶¿¡¼­ À§Àå°üÀÇ ¹Ì»ı¹°, Á¶Á÷ÇĞ ¹× ¹ßÈ¿ °úÁ¤¿¡¼­ Á¾ÀÚ (ºñ ½Ã¾Æ ÆÄ¹ÙÀ»´Â L.)"
+animal feed science and technology	2018	6	monogastric	original article	https://www.sciencedirect.com/science/article/pii/S0377840117314529	"Effects of feeding level and dietary supplementation with crystalline amino acids on digestible, metabolizable and net energy values of corn in growing pigs"	YakuiLiab	"Áõ°¡ µÅÁöÀÇ ¿Á¼ö¼ö, ¼ÒÈ­ ´ë»ç ¹× ¼ø ¿¡³ÊÁö °ª¿¡ ´ëÇÑ °áÁ¤ ¾Æ¹Ì³ë»ê ±ŞÀü ·¹º§½ÄÀÌ º¸ÃæÁ¦ÀÇ È¿°ú"
+animal feed science and technology	2018	6	general	original article	https://www.sciencedirect.com/science/article/pii/S0377840117315353	Extruded fish feed with high residual phytase activity and low mineral leaching increased P. mesopotamicus mineral retention	RaulE.Ciana	³ôÀº ÀÜ·ù ÇÇÅ¸ ¾ÆÁ¦ È°¼º ¹× ³·Àº ¹Ì³×¶ö ¿ëÃâ ÇÔ²² ¾ĞÃâ ¹°°í±â »ç·á P. mesopotamicus ¹Ì³×¶ö º¸À¯¸¦ Áõ°¡
+animal feed science and technology	2018	6	general	original article	https://www.sciencedirect.com/science/article/pii/S0377840117313263	On the specificity of different methods for neutral detergent fiber and related problems	RenataSoaresTavaresdaSilvaa	Áß¼º ¼¼Á¦ ¼¶À¯¿Í °ü·ÃµÈ ¹®Á¦¿¡ ´ëÇÑ ´Ù¸¥ ¹æ¹ıÀÇ Æ¯ÀÌ¼º
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
